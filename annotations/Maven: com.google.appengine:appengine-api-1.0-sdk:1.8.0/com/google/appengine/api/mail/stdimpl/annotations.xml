@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.appengine.api.mail.stdimpl.GMTransport void sendMessage(javax.mail.Message, javax.mail.Address[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.stdimpl.GMTransport GMTransport(javax.mail.Session, javax.mail.URLName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

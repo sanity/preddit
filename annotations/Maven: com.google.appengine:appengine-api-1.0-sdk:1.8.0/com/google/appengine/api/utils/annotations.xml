@@ -1,0 +1,35 @@
+<root>
+    <item name='com.google.appengine.api.utils.HttpRequestParser java.lang.String getFieldName(javax.mail.BodyPart) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.utils.HttpRequestParser.StaticDataSource java.io.InputStream getInputStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.utils.FutureWrapper V wrap(K) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.utils.SystemProperty.Environment void set(com.google.appengine.api.utils.SystemProperty.Environment.Value) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.utils.HttpRequestParser java.lang.String getTextContent(javax.mail.BodyPart) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.utils.HttpRequestParser javax.mail.internet.MimeMultipart parseMultipartRequest(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.utils.HttpRequestParser javax.mail.internet.MimeMultipart parseMultipartRequest(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.utils.HttpRequestParser java.lang.String getTextContent(javax.mail.BodyPart)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.utils.HttpRequestParser.StaticDataSource java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.utils.HttpRequestParser java.lang.String getFieldName(javax.mail.BodyPart)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,14 @@
+<root>
+    <item name='com.google.appengine.api.quota.IQuotaServiceFactoryProvider com.google.appengine.api.quota.IQuotaServiceFactory getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.quota.IQuotaServiceFactory com.google.appengine.api.quota.QuotaService getQuotaService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.quota.IQuotaServiceFactoryProvider java.lang.Object getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

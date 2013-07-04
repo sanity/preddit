@@ -1,0 +1,11 @@
+<root>
+    <item name='org.apache.taglibs.standard.functions.Functions java.lang.String toUpperCase(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.functions.Functions java.lang.String toLowerCase(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.functions.Functions java.lang.String[] split(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

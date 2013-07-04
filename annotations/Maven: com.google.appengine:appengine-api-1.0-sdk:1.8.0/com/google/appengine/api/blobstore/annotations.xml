@@ -1,0 +1,1628 @@
+<root>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest setMaxUploadSizePerBlobBytes(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_DecodeBlobKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setTargetAppId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest clearEndIndex()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest addBlobKey(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingStub com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse createEncodedGoogleStorageKey(com.google.net.rpc.RPC, com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.net.rpc.RpcService newBlockingService(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest setStartIndex(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse setBlobKeyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService java.util.Map&lt;java.lang.String,java.util.List&lt;com.google.appengine.api.blobstore.BlobInfo&gt;&gt; getBlobInfos(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse setUrl(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest clearMaxUploadSizeBytes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService byte[] fetchData(com.google.appengine.api.blobstore.BlobKey, long, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest setGsBucketName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingStub newBlockingStub(com.google.net.rpc.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig exportService(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreInputStream int read(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService java.util.Map&lt;java.lang.String,com.google.appengine.api.blobstore.BlobKey&gt; getUploadedBlobs(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest setFilename(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse setBlobKeyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse clearDecoded()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest setFilenameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService java.util.Map&lt;java.lang.String,java.util.List&lt;com.google.appengine.api.blobstore.BlobKey&gt;&gt; getUploads(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse setBlobKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest setGsBucketName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest addBlobKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest setBlobKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingStub com.google.apphosting.api.ApiBasePb.VoidProto deleteBlob(com.google.net.rpc.RPC, com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse setBlobKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest setBlobKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService void exportBlockingServiceUsingConfig(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.UploadOptions com.google.appengine.api.blobstore.UploadOptions googleStorageBucketName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse addDecoded(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse setBlobKey(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setMimeTypeAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService void serve(com.google.appengine.api.blobstore.BlobKey, java.lang.String, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService java.lang.String createUploadUrl(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.IBlobstoreServiceFactoryProvider com.google.appengine.api.blobstore.IBlobstoreServiceFactory getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest addBlobKey(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setTargetAppId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService void exportBlockingServiceUsingConfig(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse addDecoded(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest setFilename(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse clearBlobKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo java.lang.String getFilename()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3 com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.ServiceParameters newBlockingService(com.google.inject.Provider&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.BlockingServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService void serve(com.google.appengine.api.blobstore.BlobKey, java.lang.String, javax.servlet.http.HttpServletResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse setBlobKey(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_CloneBlob()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest clearMimeType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest clearBlobKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse setUrlAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setTargetAppIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo java.lang.String getContentType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest setEndIndex(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse setBlobKey(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfoFactory com.google.appengine.api.blobstore.BlobInfo createBlobInfo(com.google.appengine.api.datastore.Entity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest clearMaxUploadSizePerBlobBytes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo BlobInfo(com.google.appengine.api.blobstore.BlobKey, java.lang.String, java.util.Date, java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService void exportServiceUsingConfig(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_CreateEncodedGoogleStorageKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse addDecoded(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo BlobInfo(com.google.appengine.api.blobstore.BlobKey, java.lang.String, java.util.Date, java.lang.String, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3 com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.Stub newStub(com.google.net.rpc3.client.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.FileInfo java.lang.String getContentType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setBlobKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService com.google.appengine.api.blobstore.BlobKey createGsBlobKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_CreateUploadURL()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobKey int compareTo(com.google.appengine.api.blobstore.BlobKey) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService void delete(com.google.appengine.api.blobstore.BlobKey...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig exportBlockingService(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfoFactory com.google.appengine.api.blobstore.BlobInfo createBlobInfo(com.google.appengine.api.datastore.Entity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest setBlobKeyAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest setBlobKey(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse addDecoded(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService void exportBlockingServiceUsingConfig(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_FetchData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3 com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.ServiceParameters newService(com.google.inject.Provider&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.ServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest setBlobKey(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService void exportBlockingServiceUsingConfig(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest setBlobKeyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig exportBlockingService(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest setSuccessPathAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.ByteRange com.google.appengine.api.blobstore.ByteRange parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.FileInfo java.util.Date getCreation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest setBlobKey(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest clearStartIndex()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest clearFilename()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.FileInfo java.lang.String getMd5Hash()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse setData(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.net.rpc.RpcService newService(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.Interface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse setUrl(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest setFilename(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setMimeType(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setMimeType(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse setUrl(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig exportBlockingService(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface com.google.apphosting.api.ApiBasePb.VoidProto deleteBlob(com.google.net.rpc.RPC, com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService void exportServiceUsingConfig(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService com.google.appengine.api.blobstore.ByteRange getByteRange(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingStub com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse fetchData(com.google.net.rpc.RPC, com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig exportBlockingService(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3 com.google.net.rpc3.client.RpcStubDescriptor getStubDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse createEncodedGoogleStorageKey(com.google.net.rpc.RPC, com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService void serve(com.google.appengine.api.blobstore.BlobKey, com.google.appengine.api.blobstore.ByteRange, javax.servlet.http.HttpServletResponse) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService java.util.Map&lt;java.lang.String,com.google.appengine.api.blobstore.BlobKey&gt; getUploadedBlobs(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService java.util.Map&lt;java.lang.String,java.util.List&lt;com.google.appengine.api.blobstore.FileInfo&gt;&gt; getFileInfos(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest setBlobKey(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.UploadOptions.Builder com.google.appengine.api.blobstore.UploadOptions withDefaults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest clearGsBucketName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse clearUrl()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse setDecoded(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest clearTargetAppId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest setGsBucketNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.UploadOptions.Builder com.google.appengine.api.blobstore.UploadOptions withMaxUploadSizeBytes(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService java.util.Map&lt;java.lang.String,java.util.List&lt;com.google.appengine.api.blobstore.FileInfo&gt;&gt; getFileInfos(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse setDecoded(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobKey java.lang.String getKeyString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse addDecodedAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_DeleteBlob()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setTargetAppId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.FileInfo FileInfo(java.lang.String, java.util.Date, java.lang.String, long, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.UploadOptions.Builder com.google.appengine.api.blobstore.UploadOptions withMaxUploadSizeBytesPerBlob(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse setBlobKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3 com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.ServiceParameters newBlockingService(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.BlockingServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig exportService(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest addBlobKeyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.FileInfo FileInfo(java.lang.String, java.util.Date, java.lang.String, long, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse createUploadURL(com.google.net.rpc.RPC, com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest setGsBucketName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse clearData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest clearBlobKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobKey BlobKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest setMaxUploadSizeBytes(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest addBlobKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.FileInfo FileInfo(java.lang.String, java.util.Date, java.lang.String, long, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse cloneBlob(com.google.net.rpc.RPC, com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest addBlobKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest setBlobKey(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest clearSuccessPath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest setBlobKey(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest clearBlobKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse setBlobKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest setSuccessPath(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService void serve(com.google.appengine.api.blobstore.BlobKey, com.google.appengine.api.blobstore.ByteRange, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse setDecoded(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig exportService(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.Interface, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse setDecodedAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse setDecoded(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo BlobInfo(com.google.appengine.api.blobstore.BlobKey, java.lang.String, java.util.Date, java.lang.String, long) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setBlobKeyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest addBlobKey(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setBlobKey(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo BlobInfo(com.google.appengine.api.blobstore.BlobKey, java.lang.String, java.util.Date, java.lang.String, long) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse setData(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest setGsBucketName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest setBlobKey(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.FileInfo FileInfo(java.lang.String, java.util.Date, java.lang.String, long, java.lang.String, java.lang.String) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse setDataAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.UploadOptions com.google.appengine.api.blobstore.UploadOptions maxUploadSizeBytesPerBlob(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfoFactory java.util.Iterator&lt;com.google.appengine.api.blobstore.BlobInfo&gt; queryBlobInfos()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingStub com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse createUploadURL(com.google.net.rpc.RPC, com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.IBlobstoreServiceFactoryProvider java.lang.Object getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.FileInfo java.lang.String getFilename()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse setBlobKey(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setBlobKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest setSuccessPath(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest addBlobKey(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.UploadOptions com.google.appengine.api.blobstore.UploadOptions maxUploadSizeBytes(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService java.util.Map&lt;java.lang.String,java.util.List&lt;com.google.appengine.api.blobstore.BlobKey&gt;&gt; getUploads(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest addBlobKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setBlobKey(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest addBlobKeyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.ByteRange com.google.appengine.api.blobstore.ByteRange parseContentRange(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobKey int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo BlobInfo(com.google.appengine.api.blobstore.BlobKey, java.lang.String, java.util.Date, java.lang.String, long, java.lang.String) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest setBlobKey(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse setUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse clearBlobKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.IBlobstoreServiceFactory com.google.appengine.api.blobstore.BlobstoreService getBlobstoreService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingStub com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse decodeBlobKey(com.google.net.rpc.RPC, com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyRequest setFilename(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo BlobInfo(com.google.appengine.api.blobstore.BlobKey, java.lang.String, java.util.Date, java.lang.String, long, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.net.rpc.RpcStubFactory stubFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest setSuccessPath(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService java.lang.String createUploadUrl(java.lang.String, com.google.appengine.api.blobstore.UploadOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setTargetAppId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest setBlobKey(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo java.util.Date getCreation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest clearBlobKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.UploadOptions.Builder com.google.appengine.api.blobstore.UploadOptions withGoogleStorageBucketName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService com.google.appengine.api.blobstore.BlobKey createGsBlobKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo BlobInfo(com.google.appengine.api.blobstore.BlobKey, java.lang.String, java.util.Date, java.lang.String, long, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService void unexport(com.google.net.rpc.impl.RpcHandlerRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo com.google.appengine.api.blobstore.BlobKey getBlobKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse fetchData(com.google.net.rpc.RPC, com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingInterface com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse decodeBlobKey(com.google.net.rpc.RPC, com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3 com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.ServiceParameters newService(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService_3.ServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.BlockingStub com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobResponse cloneBlob(com.google.net.rpc.RPC, com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService void serve(com.google.appengine.api.blobstore.BlobKey, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest setBlobKeyAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService java.util.Map&lt;java.lang.String,java.util.List&lt;com.google.appengine.api.blobstore.BlobInfo&gt;&gt; getBlobInfos(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfoFactory java.util.Iterator&lt;com.google.appengine.api.blobstore.BlobInfo&gt; queryBlobInfosAfter(com.google.appengine.api.blobstore.BlobKey)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest setBlobKey(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService void exportServiceUsingConfig(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.Interface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DeleteBlobRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyRequest unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.DecodeBlobKeyResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.Stub newStub(com.google.net.rpc.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateEncodedGoogleStorageKeyResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo BlobInfo(com.google.appengine.api.blobstore.BlobKey, java.lang.String, java.util.Date, java.lang.String, long, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig exportService(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.Interface, com.google.net.rpc3.server.RpcServer.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService void serve(com.google.appengine.api.blobstore.BlobKey, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobInfo BlobInfo(com.google.appengine.api.blobstore.BlobKey, java.lang.String, java.util.Date, java.lang.String, long, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreService java.lang.String createUploadUrl(java.lang.String, com.google.appengine.api.blobstore.UploadOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest setSuccessPath(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse setData(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CreateUploadURLResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setMimeType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService void exportServiceUsingConfig(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.Interface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError mergeFrom(com.google.appengine.api.blobstore.BlobstoreServicePb.BlobstoreServiceError) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse com.google.appengine.api.blobstore.BlobstoreServicePb.FetchDataResponse setData(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest com.google.appengine.api.blobstore.BlobstoreServicePb.CloneBlobRequest setMimeType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

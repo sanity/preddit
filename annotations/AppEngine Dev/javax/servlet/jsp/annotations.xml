@@ -1,0 +1,5 @@
+<root>
+    <item name='javax.servlet.jsp.PageContext javax.servlet.jsp.ErrorData getErrorData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

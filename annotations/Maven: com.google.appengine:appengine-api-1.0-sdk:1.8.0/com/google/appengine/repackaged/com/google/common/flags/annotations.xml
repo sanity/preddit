@@ -1,0 +1,200 @@
+<root>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.lang.Integer&gt; nonnegativeValue(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.FlagInfo java.lang.String doc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag java.lang.String parsableStringValue(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;java.lang.String&gt;&gt; stringList(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;java.lang.String&gt;&gt; stringCollector(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;T&gt;&gt; enumList(java.lang.Class&lt;T&gt;, T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.lang.Double&gt; value(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.lang.String&gt; value(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;java.lang.Double&gt;&gt; doubleList(double...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags void resetSomeFlagsForTest(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags void registerFlag(java.lang.String, java.lang.String, java.lang.String, java.lang.String, com.google.appengine.repackaged.com.google.common.flags.DocLevel, java.lang.String, com.google.appengine.repackaged.com.google.common.flags.Flag&lt;?&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.math.BigDecimal&gt; value(java.math.BigDecimal)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.lang.Class&lt;?&gt;&gt; value(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags void registerCompletionHook(java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;java.lang.Integer&gt;&gt; integerList(int...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags void resetFlagForTest(java.lang.Class&lt;?&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;java.lang.Double&gt;&gt; doubleList(double...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.lang.Class&lt;? extends T&gt;&gt; value(java.lang.Class&lt;? extends T&gt;, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.FlagValues java.lang.String[] getAllFlagsAsStringArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.lang.Float&gt; value(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags void addPreferredClass(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags void resetFlagForTest(java.lang.Class&lt;?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.lang.Integer&gt; positiveValue(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;T&gt;&gt; enumList(java.lang.Class&lt;T&gt;, boolean, T...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;T&gt;&gt; enumList(java.lang.Class&lt;T&gt;, T...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.Date&gt; value(java.util.Date, java.text.DateFormat) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.lang.Boolean&gt; value(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;java.lang.String&gt;&gt; stringList(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;T&gt;&gt; enumList(java.lang.Class&lt;T&gt;, boolean, T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;java.lang.Long&gt;&gt; longList(long...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.lang.Integer&gt; value(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;T&gt; value(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;T&gt; value(T, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;T&gt; value(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.UnrecognizedFlagException UnrecognizedFlagException(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags void usage(java.io.PrintStream, boolean, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.lang.Long&gt; positiveValue(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags void usage(java.io.PrintStream, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;java.lang.Long&gt;&gt; longList(long...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags void usage(java.io.PrintStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.Map&lt;java.lang.String,java.lang.String&gt;&gt; stringMap(java.util.Map&lt;java.lang.String,java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;T&gt;&gt; enumList(java.lang.Class&lt;T&gt;, T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags void registerFlag(java.lang.String, java.lang.String, java.lang.String, java.lang.String, com.google.appengine.repackaged.com.google.common.flags.DocLevel, java.lang.String, com.google.appengine.repackaged.com.google.common.flags.Flag&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.Set&lt;java.lang.String&gt;&gt; stringSet(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.lang.Long&gt; value(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.Date&gt; value(java.util.Date, java.text.DateFormat)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags void xmlUsage(java.io.PrintWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag T parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags java.util.Map&lt;java.lang.String,java.lang.Object&gt; getAllFlags()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;java.lang.String&gt;&gt; stringCollector(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;T&gt; value(java.lang.Class&lt;T&gt;, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flags java.lang.String[] parse(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.InvalidFlagValueException InvalidFlagValueException(java.lang.String, java.lang.String, com.google.appengine.repackaged.com.google.common.flags.Flag&lt;?&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.FlagInfo java.lang.String containerClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;T&gt; value(T, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.FlagInfo java.lang.String type()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.Set&lt;java.lang.String&gt;&gt; stringSet(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.lang.Long&gt; nonnegativeValue(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag T parse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;T&gt;&gt; enumList(java.lang.Class&lt;T&gt;, boolean, T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.flags.Flag com.google.appengine.repackaged.com.google.common.flags.Flag&lt;java.util.List&lt;java.lang.Integer&gt;&gt; integerList(int...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

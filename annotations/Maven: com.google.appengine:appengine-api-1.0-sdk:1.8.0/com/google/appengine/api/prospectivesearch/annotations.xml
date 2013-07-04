@@ -1,0 +1,1670 @@
+<root>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse listSubscriptions(com.google.net.rpc.RPC, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig exportBlockingService(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService void exportBlockingServiceUsingConfig(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse addTopic(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setTopic(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.api.prospectivesearch.ErrorPb.Error getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService void exportServiceUsingConfig(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.Interface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService void exportBlockingServiceUsingConfig(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setTopic(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setDocument(com.google.storage.onestore.v3.OnestoreEntity.EntityProto) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setVanillaQueryAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig exportBlockingService(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService void exportServiceUsingConfig(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.Interface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setVanillaQuery(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry addSchemaEntry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.api.prospectivesearch.ErrorPb.Error mergeFrom(com.google.appengine.api.prospectivesearch.ErrorPb.Error)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setVanillaQueryAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setVanillaQuery(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig exportService(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setVanillaQuery(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry setType(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest setTopicStartAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry setType(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setSubId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest clearTopic()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setSubscriptionIdStart(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.Stub newStub(com.google.net.rpc.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setSubscriptionIdStart(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.net.rpc.RpcService newBlockingService(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setErrorMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setSubId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void subscribe(java.lang.String, java.lang.String, long, java.lang.String, java.util.Map&lt;java.lang.String,com.google.appengine.api.prospectivesearch.FieldType&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setExpirationTimeSec(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse setTopic(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultTaskQueue(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest setAppId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse subscribe(com.google.net.rpc.RPC, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry clearType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry setMeaning(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest setTopicAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void subscribe(java.lang.String, java.lang.String, long, java.lang.String, java.util.Map&lt;java.lang.String,com.google.appengine.api.prospectivesearch.FieldType&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setVanillaQuery(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setErrorMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setTopicAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest clearSubId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService void exportServiceUsingConfig(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setTopic(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingStub com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse listTopics(com.google.net.rpc.RPC, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultRelativeUrl(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setAppIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest clearResultKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService java.util.List&lt;com.google.appengine.api.prospectivesearch.Subscription&gt; listSubscriptions(java.lang.String, java.lang.String, int, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.net.rpc.RpcStubFactory stubFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setTopicAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setTopicAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest setSubIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setMaxResults(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord addSubscription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest clearExpiresBefore()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest setTopic(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest clearTopic()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest clearAppId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest setAppId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest setAppId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService void exportServiceUsingConfig(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService java.util.List&lt;com.google.appengine.api.prospectivesearch.Subscription&gt; listSubscriptions(java.lang.String, java.lang.String, int, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest setTopicStart(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest clearTopicStart()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig exportBlockingService(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord clearVanillaQuery()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse clearTopic()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest setSubId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.net.rpc.RpcService newService(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.Interface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultTaskQueueAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService java.util.List&lt;com.google.appengine.api.prospectivesearch.Subscription&gt; listSubscriptions(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig exportService(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.Interface, com.google.net.rpc3.server.RpcServer.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultTaskQueue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setErrorMessage(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService java.util.List&lt;com.google.appengine.api.prospectivesearch.Subscription&gt; listSubscriptions(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest clearSubId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest clearResultPythonDocumentClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setTopic(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setTopic(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultTaskQueue(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest setTopic(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest setTopic(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setDocument(com.google.storage.onestore.v3.OnestoreEntity.EntityProto)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse setTopic(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.api.prospectivesearch.ErrorPb.Error mergeFrom(com.google.appengine.api.prospectivesearch.ErrorPb.Error) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setSubscriptionIdStart(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest clearLeaseDurationSec()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest setTopicStart(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest setTopicStart(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService com.google.appengine.api.prospectivesearch.Subscription getSubscription(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchServiceFactory com.google.appengine.api.prospectivesearch.ProspectiveSearchService getProspectiveSearchService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse clearSubscription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setTopic(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultRelativeUrlAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setVanillaQuery(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultKey(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord clearErrorMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setSubId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService void exportBlockingServiceUsingConfig(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService void exportBlockingServiceUsingConfig(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry clearMeaning()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse addTopic(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord clearId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse setTopic(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultPythonDocumentClass(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void match(com.google.appengine.api.datastore.Entity, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest clearDocument()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse setTopicAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService java.util.List&lt;com.google.appengine.api.prospectivesearch.Subscription&gt; listSubscriptions(java.lang.String, java.lang.String, int, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void match(com.google.appengine.api.datastore.Entity, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest clearMaxResults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingStub newBlockingStub(com.google.net.rpc.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingStub com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse listSubscriptions(com.google.net.rpc.RPC, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest setTopic(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.api.prospectivesearch.ErrorPb.Error internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setSubId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest setTopicStart(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void match(com.google.appengine.api.datastore.Entity, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse unsubscribe(com.google.net.rpc.RPC, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setVanillaQuery(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse addTopicAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setAppId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.api.prospectivesearch.ErrorPb.Error newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse addTopic(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultBatchSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void match(com.google.appengine.api.datastore.Entity, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setTopic(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest setAppId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setTopic(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setTopic(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setLeaseDurationSec(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setAppId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest clearVanillaQuery()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.api.prospectivesearch.ErrorPb.Error getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setState(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord.State)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultRelativeUrl(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingStub com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse match(com.google.net.rpc.RPC, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultPythonDocumentClass(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest.PythonDocumentClass)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setSubscriptionIdStart(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultKeyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest clearTopic()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void subscribe(java.lang.String, java.lang.String, long, java.lang.String, java.util.Map&lt;java.lang.String,com.google.appengine.api.prospectivesearch.FieldType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest clearResultBatchSize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest clearSubscriptionIdStart()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord clearExpirationTimeSec()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setErrorMessage(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setTopic(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig exportService(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void unsubscribe(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void match(com.google.appengine.api.datastore.Entity, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord clearState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest clearResultRelativeUrl()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService java.util.List&lt;java.lang.String&gt; listTopics(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest clearMaxResults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setExpiresBefore(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService com.google.appengine.api.prospectivesearch.Subscription getSubscription(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void unsubscribe(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest clearTopic()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setSubscriptionIdStartAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse setTopic(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest setSubId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest setMaxResults(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultKey(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest setSubId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setSubIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse match(com.google.net.rpc.RPC, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setTopic(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest clearSchemaEntry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void subscribe(java.lang.String, java.lang.String, long, java.lang.String, java.util.Map&lt;java.lang.String,com.google.appengine.api.prospectivesearch.FieldType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse listTopics(com.google.net.rpc.RPC, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.prospectivesearch.ErrorPb.Error&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setTopic(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultRelativeUrl(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void match(com.google.appengine.api.datastore.Entity, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingStub com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse unsubscribe(com.google.net.rpc.RPC, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig exportService(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.Interface, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService void unexport(com.google.net.rpc.impl.RpcHandlerRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void match(com.google.appengine.api.datastore.Entity, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ErrorPb.Error com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse addTopic(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest setSubId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setAppId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void match(com.google.appengine.api.datastore.Entity, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void match(com.google.appengine.api.datastore.Entity, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingStub com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeResponse subscribe(com.google.net.rpc.RPC, com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setErrorMessageAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest clearResultTaskQueue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest setAppIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService com.google.appengine.api.prospectivesearch.Subscription getSubscription(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest setVanillaQuery(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setVanillaQuery(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.ServerConfig exportBlockingService(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatcherService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultTaskQueue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchService void match(com.google.appengine.api.datastore.Entity, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.UnsubscribeRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest clearAppId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListTopicsRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SchemaEntry boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest setAppId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.MatchRequest setResultRelativeUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscriptionRecord setState(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest mergeFrom(com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.ListSubscriptionsRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.prospectivesearch.ProspectiveSearchPb.SubscribeRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

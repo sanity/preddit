@@ -1,0 +1,2204 @@
+<root>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue clearFederatedIdentity()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setKind(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex clearId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue setNameSpace(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto clearKindUri()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex setAppId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue setPropertyName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setAuthDomain(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setValue(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference clearApp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.Index) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setKindUri(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.storage.onestore.v3.OnestoreEntity.Path mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.Path)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setAuthDomainAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setStringValue(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue clearFederatedProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty addValue(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement setType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement setTypeAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto clearKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User clearFederatedProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setEmail(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty addValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setAuthDomain(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property clearValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setMeaningUriAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference setNameSpace(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setObfuscatedGaiaid(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference setNameSpace(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix setBefore(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setBooleanValue(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue setApp(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setLocaleAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue clearX()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setSearchable(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue clearPointValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty addValueAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User clearAuthDomain()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.Property addRawProperty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.Property addProperty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setAuthDomain(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue setPropertyName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.storage.onestore.v3.OnestoreEntity.Path getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property clearDirection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex setAppId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue setApp(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index setEntityType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index setEntityTypeAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference setPath(com.google.storage.onestore.v3.OnestoreEntity.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setFederatedIdentity(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property clearMeaningUri()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User clearFederatedIdentity()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue setPropertyNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setMeaningUri(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setObfuscatedGaiaidAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex setDefinition(com.google.storage.onestore.v3.OnestoreEntity.Index)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex setAppId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property clearLocale()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setFederatedProvider(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setObfuscatedGaiaid(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.storage.onestore.v3.OnestoreEntity.Path freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.User) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.Reference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex clearDefinition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex setDefinition(com.google.storage.onestore.v3.OnestoreEntity.Index) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex clearAppId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue setX(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setFtsTokenizationOption(com.google.storage.onestore.v3.OnestoreEntity.Property.FtsTokenizationOption)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index setAncestor(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setNickname(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setLocale(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setFederatedIdentityAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot clearTs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setMeaningUri(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element setType(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto clearEntityGroup()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setLocale(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot setTs(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setOwner(com.google.storage.onestore.v3.OnestoreEntity.User) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setAuthDomain(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setNickname(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue setNameSpace(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index.Property addProperty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setFederatedIdentity(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto clearRank()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex setAppId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue clearStringValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element clearId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto clearRawProperty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue setValue(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty setValue(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix setKey(com.google.storage.onestore.v3.OnestoreEntity.Reference)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue setNameSpace(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setFederatedIdentity(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.storage.onestore.v3.OnestoreEntity.Path getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User clearObfuscatedGaiaid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.User&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setEmail(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index clearEntityType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix clearKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.EntityProto) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setNickname(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setObfuscatedGaiaid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto clearProperty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue clearValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue setAppAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setEmail(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setNickname(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue clearUserValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue clearGaiaid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setKindUri(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement setType(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.storage.onestore.v3.OnestoreEntity.Path.Element addElement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setObfuscatedGaiaid(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference setAppAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty setValueAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.Property) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.storage.onestore.v3.OnestoreEntity.Path internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex clearState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement clearType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue clearPathElement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setFederatedIdentityAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setMeaning(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setFederatedProvider(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement setType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.EntityProto&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue setPropertyName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setUserValue(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex setId(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setNickname(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setAuthDomainAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty addValue(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setEntityGroup(com.google.storage.onestore.v3.OnestoreEntity.Path)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference setApp(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty clearValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot mergeFrom(com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setMeaningUri(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setOwner(com.google.storage.onestore.v3.OnestoreEntity.User)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index clearProperty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setReferenceValue(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue setNameSpace(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User clearNickname()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setObfuscatedGaiaidAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setUserValue(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property clearMeaning()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue clearDoubleValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue clearApp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.Reference)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setReferenceValue(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setFederatedIdentity(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue setY(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue clearObfuscatedGaiaid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.Path&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setEmail(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setLocale(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setKindUriAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element setType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue setApp(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property clearSearchable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue setPropertyName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue setNameSpaceAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty addValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setFederatedProvider(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex clearOnlyUseIfRequired()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element setTypeAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot mergeFrom(com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setEmail(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property clearMultiple()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.Reference&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setMultiple(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setFederatedProviderAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property setDirection(com.google.storage.onestore.v3.OnestoreEntity.Index.Property.Direction)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setKey(com.google.storage.onestore.v3.OnestoreEntity.Reference)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference setApp(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setNickname(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix setKey(com.google.storage.onestore.v3.OnestoreEntity.Reference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setKind(com.google.storage.onestore.v3.OnestoreEntity.EntityProto.Kind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue clearPropertyName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setNickname(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty setIndexId(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setStringValueAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index setEntityType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setFederatedProvider(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.Index.Property)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setDoubleValue(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setAuthDomain(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference setApp(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.Index&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setPointValue(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element setType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix clearIndexValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setKindUri(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setObfuscatedGaiaid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setKindUri(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference setPath(com.google.storage.onestore.v3.OnestoreEntity.Path)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto clearKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex setState(com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex.State)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue clearNameSpace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setObfuscatedGaiaid(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setGaiaid(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.EntityProto)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setFederatedIdentity(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue setApp(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.Path.Element&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setEmailAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.Index.Property&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.Index)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setFederatedProvider(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setEmail(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element setId(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property clearFtsTokenizationOption()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue setValue(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty setValue(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setFederatedProviderAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.Path.Element)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.storage.onestore.v3.OnestoreEntity.Path newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setFederatedIdentity(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setFederatedProvider(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setGaiaid(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue clearNickname()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.User)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setFederatedProvider(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element clearType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue clearEmail()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setStringValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setNickname(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference setNameSpace(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setValue(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setEntityGroup(com.google.storage.onestore.v3.OnestoreEntity.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex setState(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty setValue(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setFederatedProvider(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex setAppIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User clearEmail()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setEmail(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index clearAncestor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.storage.onestore.v3.OnestoreEntity.Path mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User clearGaiaid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setObfuscatedGaiaid(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setMeaningUri(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference setNameSpace(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.Property)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setMeaning(com.google.storage.onestore.v3.OnestoreEntity.Property.Meaning)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.storage.onestore.v3.OnestoreEntity.Path unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setFederatedIdentity(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setObfuscatedGaiaid(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element setType(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot com.google.storage.onestore.v3.OnestoreSnapshot.Snapshot newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index setEntityType(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setAuthDomain(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement clearId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setAuthDomain(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty clearIndexId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setRank(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix clearBefore()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setEmail(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue clearReferenceValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto clearOwner()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement setType(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setStringValue(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference setNameSpaceAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property setDirection(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.Path.Element) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setPointValue(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue clearBooleanValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setFederatedIdentity(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue clearInt64Value()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto setKey(com.google.storage.onestore.v3.OnestoreEntity.Reference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setNicknameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue addIndexValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.IndexPostfix_IndexValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference setApp(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setStringValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement addPathElement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement setId(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.EntityProto com.google.storage.onestore.v3.OnestoreEntity.EntityProto unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property com.google.storage.onestore.v3.OnestoreEntity.Index.Property mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.Index.Property) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue mergeFrom(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element com.google.storage.onestore.v3.OnestoreEntity.Path.Element getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex setOnlyUseIfRequired(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty setValue(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference clearPath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.ReferenceValuePathElement setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setAuthDomain(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue setEmailAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.PropertyValue&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index.Property boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue setInt64Value(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setFtsTokenizationOption(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.UserValue clearAuthDomain()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path.Element boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue clearY()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Reference com.google.storage.onestore.v3.OnestoreEntity.Reference clearNameSpace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Index com.google.storage.onestore.v3.OnestoreEntity.Index setEntityType(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.storage.onestore.v3.OnestoreEntity.Path clearElement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.User com.google.storage.onestore.v3.OnestoreEntity.User setNicknameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.PropertyValue.PointValue void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Path com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.storage.onestore.v3.OnestoreEntity.Property setLocale(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.CompositeProperty com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.v3.OnestoreEntity.Property com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.storage.onestore.v3.OnestoreEntity.Property&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

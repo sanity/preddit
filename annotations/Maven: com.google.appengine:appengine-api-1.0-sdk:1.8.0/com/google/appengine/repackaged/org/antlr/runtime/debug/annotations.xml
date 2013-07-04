@@ -1,0 +1,323 @@
+<root>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeAdaptor int getChildCount(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventSocketProxy java.lang.String serializeToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeAdaptor java.lang.Object getChild(java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeAdaptor java.lang.String getText(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventHub void recognitionException(com.google.appengine.repackaged.org.antlr.runtime.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeAdaptor boolean isNil(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventSocketProxy void serializeNode(java.lang.StringBuffer, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.ParseTreeBuilder void consumeHiddenToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventSocketProxy DebugEventSocketProxy(com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer, int, com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeParser DebugTreeParser(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeNodeStream, com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeParser DebugTreeParser(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeNodeStream, com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventListener, com.google.appengine.repackaged.org.antlr.runtime.RecognizerSharedState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.Profiler void consumeHiddenToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventHub void createNode(java.lang.Object, com.google.appengine.repackaged.org.antlr.runtime.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeAdaptor void addChild(java.lang.Object, com.google.appengine.repackaged.org.antlr.runtime.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventListener void recognitionException(com.google.appengine.repackaged.org.antlr.runtime.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugParser DebugParser(com.google.appengine.repackaged.org.antlr.runtime.TokenStream, com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventListener, com.google.appengine.repackaged.org.antlr.runtime.RecognizerSharedState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeAdaptor void setChild(java.lang.Object, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.RemoteDebugEventSocketListener com.google.appengine.repackaged.org.antlr.runtime.debug.RemoteDebugEventSocketListener.ProxyTree deserializeNode(java.lang.String[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugParser DebugParser(com.google.appengine.repackaged.org.antlr.runtime.TokenStream, com.google.appengine.repackaged.org.antlr.runtime.RecognizerSharedState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventSocketProxy void errorNode(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugParser DebugParser(com.google.appengine.repackaged.org.antlr.runtime.TokenStream, com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventSocketProxy void recognitionException(com.google.appengine.repackaged.org.antlr.runtime.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.ParseTreeBuilder com.google.appengine.repackaged.org.antlr.runtime.tree.ParseTree epsilonNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeAdaptor java.lang.Object becomeRoot(com.google.appengine.repackaged.org.antlr.runtime.Token, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeAdaptor java.lang.Object create(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeAdaptor int getType(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventRepeater void consumeToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.Profiler void consumeToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.Profiler int[] toArray(java.util.List)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventSocketProxy DebugEventSocketProxy(com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer, com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventHub void consumeHiddenToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.Profiler int[] trim(int[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventListener void consumeToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventSocketProxy void consumeHiddenToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.ParseTreeBuilder com.google.appengine.repackaged.org.antlr.runtime.tree.ParseTree create(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventRepeater void createNode(java.lang.Object, com.google.appengine.repackaged.org.antlr.runtime.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeParser java.lang.Object getMissingSymbol(com.google.appengine.repackaged.org.antlr.runtime.IntStream, com.google.appengine.repackaged.org.antlr.runtime.RecognitionException, int, com.google.appengine.repackaged.org.antlr.runtime.BitSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeAdaptor java.lang.Object deleteChild(java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.RemoteDebugEventSocketListener.ProxyTree java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.BlankDebugEventListener void recognitionException(com.google.appengine.repackaged.org.antlr.runtime.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventRepeater void recognitionException(com.google.appengine.repackaged.org.antlr.runtime.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventRepeater void consumeHiddenToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventHub void errorNode(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.Profiler void recognitionException(com.google.appengine.repackaged.org.antlr.runtime.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventSocketProxy void createNode(java.lang.Object, com.google.appengine.repackaged.org.antlr.runtime.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventListener void createNode(java.lang.Object, com.google.appengine.repackaged.org.antlr.runtime.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.RemoteDebugEventSocketListener com.google.appengine.repackaged.org.antlr.runtime.debug.RemoteDebugEventSocketListener.ProxyToken deserializeToken(java.lang.String[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.ParseTreeBuilder void consumeToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventRepeater void errorNode(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventListener void consumeHiddenToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.TraceDebugEventListener void createNode(java.lang.Object, com.google.appengine.repackaged.org.antlr.runtime.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugParser void reportError(java.io.IOException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeParser void reportError(java.io.IOException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventHub void consumeToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeParser DebugTreeParser(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeNodeStream, com.google.appengine.repackaged.org.antlr.runtime.RecognizerSharedState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.RemoteDebugEventSocketListener com.google.appengine.repackaged.org.antlr.runtime.debug.RemoteDebugEventSocketListener.ProxyToken deserializeToken(java.lang.String[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.ParseTreeBuilder void recognitionException(com.google.appengine.repackaged.org.antlr.runtime.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.RemoteDebugEventSocketListener.ProxyToken void setText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeParser java.lang.Object getMissingSymbol(com.google.appengine.repackaged.org.antlr.runtime.IntStream, com.google.appengine.repackaged.org.antlr.runtime.RecognitionException, int, com.google.appengine.repackaged.org.antlr.runtime.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.Profiler void examineRuleMemoization(com.google.appengine.repackaged.org.antlr.runtime.IntStream, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.BlankDebugEventListener void createNode(java.lang.Object, com.google.appengine.repackaged.org.antlr.runtime.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventListener void errorNode(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.BlankDebugEventListener void consumeHiddenToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.BlankDebugEventListener void errorNode(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.Profiler int[] toArray(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventSocketProxy void consumeToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTokenStream DebugTokenStream(com.google.appengine.repackaged.org.antlr.runtime.TokenStream, com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.Profiler int[] trim(int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.BlankDebugEventListener void consumeToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugTreeNodeStream DebugTreeNodeStream(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeNodeStream, com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.RemoteDebugEventSocketListener com.google.appengine.repackaged.org.antlr.runtime.debug.RemoteDebugEventSocketListener.ProxyTree deserializeNode(java.lang.String[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.debug.DebugEventSocketProxy void serializeText(java.lang.StringBuffer, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

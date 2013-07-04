@@ -1,0 +1,23 @@
+<root>
+    <item name='org.apache.taglibs.standard.tei.Util boolean isSpecified(javax.servlet.jsp.tagext.TagData, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tei.XmlParseTEI boolean isValid(javax.servlet.jsp.tagext.TagData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tei.DeclareTEI javax.servlet.jsp.tagext.VariableInfo[] getVariableInfo(javax.servlet.jsp.tagext.TagData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tei.ImportTEI boolean isValid(javax.servlet.jsp.tagext.TagData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tei.ForEachTEI boolean isValid(javax.servlet.jsp.tagext.TagData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tei.DeclareTEI javax.servlet.jsp.tagext.VariableInfo[] getVariableInfo(javax.servlet.jsp.tagext.TagData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tei.XmlTransformTEI boolean isValid(javax.servlet.jsp.tagext.TagData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

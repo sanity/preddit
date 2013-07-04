@@ -1,0 +1,230 @@
+<root>
+    <item name='org.apache.taglibs.standard.lang.jstl.StringLiteral java.lang.String toStringToken(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ELEvaluator java.lang.Object parseExpressionString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects org.apache.taglibs.standard.lang.jstl.ImplicitObjects getImplicitObjects(javax.servlet.jsp.PageContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.StringLiteral java.lang.String getValueFromToken(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.OrOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.LessThanOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.PlusOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.FunctionInvocation java.lang.Object evaluate(java.lang.Object, org.apache.taglibs.standard.lang.jstl.VariableResolver, java.util.Map, java.lang.String, org.apache.taglibs.standard.lang.jstl.Logger) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.EqualsOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createHeadersMap(javax.servlet.jsp.PageContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.LessThanOrEqualsOperator boolean apply(java.lang.String, java.lang.String, org.apache.taglibs.standard.lang.jstl.Logger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.NullLiteral java.lang.String getExpressionString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.Constants java.lang.String getStringResource(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createRequestScopeMap(javax.servlet.jsp.PageContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.Evaluator java.lang.String parseAndRender(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.IntegerDivideOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.GreaterThanOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createApplicationScopeMap(javax.servlet.jsp.PageContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.Expression java.lang.Object evaluate(java.lang.Object, org.apache.taglibs.standard.lang.jstl.VariableResolver, java.util.Map, java.lang.String, org.apache.taglibs.standard.lang.jstl.Logger) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createInitParamMap(javax.servlet.jsp.PageContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createParamsMap(javax.servlet.jsp.PageContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.LessThanOperator boolean apply(java.lang.String, java.lang.String, org.apache.taglibs.standard.lang.jstl.Logger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.StringLiteral org.apache.taglibs.standard.lang.jstl.StringLiteral fromToken(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.MultiplyOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.LessThanOrEqualsOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ELEvaluator java.lang.String parseAndRender(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ELEvaluator java.lang.Object evaluate(java.lang.String, java.lang.Object, java.lang.Class, java.util.Map, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ComplexValue java.lang.Object evaluate(java.lang.Object, org.apache.taglibs.standard.lang.jstl.VariableResolver, java.util.Map, java.lang.String, org.apache.taglibs.standard.lang.jstl.Logger) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.EmptyOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.GreaterThanOrEqualsOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects org.apache.taglibs.standard.lang.jstl.ImplicitObjects getImplicitObjects(javax.servlet.jsp.PageContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createHeaderMap(javax.servlet.jsp.PageContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.NotOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.BinaryOperatorExpression java.lang.Object evaluate(java.lang.Object, org.apache.taglibs.standard.lang.jstl.VariableResolver, java.util.Map, java.lang.String, org.apache.taglibs.standard.lang.jstl.Logger) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.Evaluator java.lang.Object evaluate(java.lang.String, java.lang.String, java.lang.Class, javax.servlet.jsp.tagext.Tag, javax.servlet.jsp.PageContext, java.util.Map, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.AndOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.RelationalOperator boolean apply(java.lang.String, java.lang.String, org.apache.taglibs.standard.lang.jstl.Logger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createCookieMap(javax.servlet.jsp.PageContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.UnaryMinusOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createHeaderMap(javax.servlet.jsp.PageContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createParamsMap(javax.servlet.jsp.PageContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.Literal java.lang.Object evaluate(java.lang.Object, org.apache.taglibs.standard.lang.jstl.VariableResolver, java.util.Map, java.lang.String, org.apache.taglibs.standard.lang.jstl.Logger) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createParamMap(javax.servlet.jsp.PageContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.DivideOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.UnaryOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.BinaryOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createPageScopeMap(javax.servlet.jsp.PageContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.NotEqualsOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.StringLiteral org.apache.taglibs.standard.lang.jstl.StringLiteral fromToken(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.Evaluator java.lang.Object evaluate(java.lang.String, java.lang.String, java.lang.Class, javax.servlet.jsp.tagext.Tag, javax.servlet.jsp.PageContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createInitParamMap(javax.servlet.jsp.PageContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createHeadersMap(javax.servlet.jsp.PageContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.MinusOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.GreaterThanOrEqualsOperator boolean apply(java.lang.String, java.lang.String, org.apache.taglibs.standard.lang.jstl.Logger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.NamedValue java.lang.Object evaluate(java.lang.Object, org.apache.taglibs.standard.lang.jstl.VariableResolver, java.util.Map, java.lang.String, org.apache.taglibs.standard.lang.jstl.Logger) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.StringLiteral org.apache.taglibs.standard.lang.jstl.StringLiteral fromLiteralValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.GreaterThanOperator boolean apply(java.lang.String, java.lang.String, org.apache.taglibs.standard.lang.jstl.Logger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createParamMap(javax.servlet.jsp.PageContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.StringLiteral java.lang.String toIdentifierToken(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createSessionScopeMap(javax.servlet.jsp.PageContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.UnaryOperatorExpression java.lang.Object evaluate(java.lang.Object, org.apache.taglibs.standard.lang.jstl.VariableResolver, java.util.Map, java.lang.String, org.apache.taglibs.standard.lang.jstl.Logger) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.BooleanLiteral java.lang.String getExpressionString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ImplicitObjects java.util.Map createCookieMap(javax.servlet.jsp.PageContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.Expression java.lang.String getExpressionString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.BeanInfoManager org.apache.taglibs.standard.lang.jstl.BeanInfoManager getBeanInfoManager(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.ModulusOperator java.lang.String getOperatorSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

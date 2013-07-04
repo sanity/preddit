@@ -1,0 +1,116 @@
+<root>
+    <item name='com.google.appengine.api.search.checkers.GetRequestChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.ListDocumentsParams checkListDocumentsParams(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.ListDocumentsParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.SortOptionsChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.ScorerSpec checkValid(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.ScorerSpec)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.DocumentChecker java.lang.String checkDocumentId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.QueryOptionsChecker java.util.List&lt;java.lang.String&gt; checkFieldNames(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.GetIndexesRequestChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.ListIndexesParams checkListIndexesParams(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.ListIndexesParams)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.Preconditions T checkNotNull(T, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.QueryChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SearchParams checkValid(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SearchParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.GeoPointChecker com.google.apphosting.api.search.DocumentPb.FieldValue.Geo checkValid(com.google.apphosting.api.search.DocumentPb.FieldValue.Geo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.IndexChecker java.lang.String checkName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.FieldChecker java.lang.String checkFieldName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.SortExpressionChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SortSpec checkValid(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SortSpec)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.FieldChecker com.google.apphosting.api.search.DocumentPb.Field checkValid(com.google.apphosting.api.search.DocumentPb.Field)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.FieldChecker java.lang.String checkExpression(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.DocumentChecker void checkFieldSet(com.google.apphosting.api.search.DocumentPb.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.QueryOptionsChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SearchParams checkValid(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SearchParams)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.GetRequestChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.ListDocumentsParams checkListDocumentsParams(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.ListDocumentsParams)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.QueryChecker java.lang.String checkQuery(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.QueryChecker java.lang.String checkQuery(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.DocumentChecker com.google.apphosting.api.search.DocumentPb.Document checkValid(com.google.apphosting.api.search.DocumentPb.Document)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.DocumentChecker java.lang.String checkDocumentId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.QueryOptionsChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SearchParams checkValid(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SearchParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.QueryOnlyCustomerDocumentChecker void checkValid(com.google.apphosting.api.search.DocumentPb.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.SortOptionsChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.ScorerSpec checkValid(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.ScorerSpec) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.QueryChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SearchParams checkValidFast(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SearchParams)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.Preconditions T checkNotNull(T, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.DocumentChecker com.google.apphosting.api.search.DocumentPb.Document checkValid(com.google.apphosting.api.search.DocumentPb.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.GeoPointChecker com.google.apphosting.api.search.DocumentPb.FieldValue.Geo checkValid(com.google.apphosting.api.search.DocumentPb.FieldValue.Geo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.QueryChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SearchParams checkValid(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SearchParams)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.FieldChecker java.lang.String checkFieldName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.FieldChecker com.google.apphosting.api.search.DocumentPb.Field checkValid(com.google.apphosting.api.search.DocumentPb.Field) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.SortExpressionChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SortSpec checkValid(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SortSpec) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.FieldChecker java.lang.String checkFieldName(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.QueryChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SearchParams checkValidFast(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.SearchParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.GetIndexesRequestChecker com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.ListIndexesParams checkListIndexesParams(com.google.appengine.repackaged.com.google.appengine.api.search.SearchServicePb.ListIndexesParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.IndexChecker java.lang.String checkName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.FieldChecker java.lang.String checkFieldName(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.FieldChecker java.lang.String checkExpression(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.checkers.QueryOptionsChecker java.util.List&lt;java.lang.String&gt; checkFieldNames(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

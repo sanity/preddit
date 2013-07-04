@@ -1,0 +1,35 @@
+<root>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.EvaluationTest boolean isDifferentFiles(java.io.DataInput, java.io.DataInput) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.ParserTest void runTests(java.io.DataInput, java.io.PrintStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.ParserTest void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.ParserTest boolean isDifferentFiles(java.io.DataInput, java.io.DataInput) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.StaticFunctionTests java.lang.Integer getInteger(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.StaticFunctionTests java.util.Map getSampleMethodMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.StaticFunctionTests int getInt(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.EvaluationTest void runTests(java.io.DataInput, java.io.PrintStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.EvaluationTest boolean isDifferentFiles(java.io.DataInput, java.io.DataInput) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.ParserTest boolean isDifferentFiles(java.io.DataInput, java.io.DataInput) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.EvaluationTest void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,8 @@
+<root>
+    <item name='org.apache.taglibs.standard.lang.support.ExpressionEvaluator java.lang.Object evaluate(java.lang.String, java.lang.String, java.lang.Class, javax.servlet.jsp.tagext.Tag, javax.servlet.jsp.PageContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

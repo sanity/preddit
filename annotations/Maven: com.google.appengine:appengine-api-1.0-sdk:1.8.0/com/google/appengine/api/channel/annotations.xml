@@ -1,0 +1,731 @@
+<root>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest mergeFrom(com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError mergeFrom(com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelService java.lang.String createChannel(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse clearDurationMinutes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelService com.google.appengine.api.channel.ChannelMessage parseMessage(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelService com.google.appengine.api.channel.ChannelPresence parsePresence(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest setMessage(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest addApplicationKeyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse mergeFrom(com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest addApplicationKey(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest setApplicationKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse setDurationMinutes(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult setApplicationKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult setApplicationKey(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest setMessage(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse mergeFrom(com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest setApplicationKey(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest setDurationMinutes(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest setApplicationKey(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.IChannelServiceFactory com.google.appengine.api.channel.ChannelService getChannelService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest setApplicationKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse setToken(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest clearApplicationKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.IChannelServiceFactoryProvider com.google.appengine.api.channel.IChannelServiceFactory getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult setApplicationKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest setApplicationKey(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelService com.google.appengine.api.channel.ChannelPresence parsePresence(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult mergeFrom(com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest setApplicationKeyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest mergeFrom(com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelService com.google.appengine.api.channel.ChannelMessage parseMessage(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest setApplicationKey(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse mergeFrom(com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult setIsAvailable(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult setApplicationKey(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest setApplicationKeyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest setApplicationKey(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult mergeFrom(com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelService void sendMessage(com.google.appengine.api.channel.ChannelMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest setApplicationKey(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult setApplicationKeyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest addApplicationKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse clearQueryResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest clearApplicationKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult addQueryResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest clearApplicationKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest mergeFrom(com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse setToken(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError mergeFrom(com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse setToken(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.IChannelServiceFactoryProvider java.lang.Object getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest setApplicationKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest clearDurationMinutes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest addApplicationKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse setToken(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest setMessageAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest mergeFrom(com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult clearApplicationKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelService java.lang.String createChannel(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest addApplicationKey(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult setErrorCode(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest setApplicationKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest mergeFrom(com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult clearErrorCode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest mergeFrom(com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest clearMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest setApplicationKeyAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest setApplicationKey(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest setApplicationKey(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse setTokenAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest setMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest setMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse_QueryResult clearIsAvailable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse clearToken()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse mergeFrom(com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

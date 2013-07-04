@@ -1,0 +1,1361 @@
+<root>
+    <item name='com.google.appengine.api.datastore.DatastoreCallbacks.NoOpDatastoreCallbacks void executePrePutCallbacks(com.google.appengine.api.datastore.PutContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query addProjection(com.google.appengine.api.datastore.Projection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query addFilter(java.lang.String, com.google.appengine.api.datastore.Query.FilterOperator, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Key&gt; put(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Entity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query java.util.List&lt;com.google.appengine.api.datastore.Query.SortPredicate&gt; getSortPredicates()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PropertyContainer void setPropertiesFrom(com.google.appengine.api.datastore.PropertyContainer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.KeyRange&gt; allocateIds(com.google.appengine.api.datastore.Key, java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Cursor com.google.appengine.api.datastore.Cursor fromWebSafeString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.CompositeIndexManager com.google.storage.onestore.v3.OnestoreEntity.Index compositeIndexForQuery(com.google.appengine.api.datastore.CompositeIndexManager.IndexComponentsOnlyQuery) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity Entity(java.lang.String, long, com.google.appengine.api.datastore.Key) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.MemcacheServiceHelper.Builder com.google.appengine.api.datastore.MemcacheServiceHelper withLogAndAbsorbMemcacheServiceErrors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.CompositeIndexManager com.google.storage.onestore.v3.OnestoreEntity.Index minimumCompositeIndexForQuery(com.google.appengine.api.datastore.CompositeIndexManager.IndexComponentsOnlyQuery, java.util.Collection&lt;com.google.storage.onestore.v3.OnestoreEntity.Index&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.KeyRange&gt; allocateIds(com.google.appengine.api.datastore.Key, java.lang.String, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCachingStrategy.NoOpEntityCachingStrategy com.google.appengine.api.datastore.EntityCachingStrategy.PreMutationCachingResult preCommit(java.util.List&lt;com.google.appengine.api.datastore.Entity&gt;, java.util.List&lt;com.google.appengine.api.datastore.Key&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query addSort(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PropertyProjection java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions.Builder com.google.appengine.api.datastore.FetchOptions withStartCursor(com.google.appengine.api.datastore.Cursor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.KeyRange&gt; allocateIds(java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreCallbacks.NoOpDatastoreCallbacks void executePostPutCallbacks(com.google.appengine.api.datastore.PutContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.TransactionOptions.Builder com.google.appengine.api.datastore.TransactionOptions withXG(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCachingStrategy.NoOpEntityCachingStrategy com.google.appengine.api.datastore.EntityCachingStrategy.PreMutationCachingResult prePut(com.google.appengine.api.datastore.CurrentTransactionProvider, java.util.List&lt;com.google.appengine.api.datastore.Entity&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory java.lang.String createKeyString(com.google.appengine.api.datastore.Key, java.lang.String, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService.QueryBuilder com.google.appengine.api.datastore.Query build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Category int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DataTypeTranslator java.util.Collection&lt;com.google.storage.onestore.v3.OnestoreEntity.Property&gt; findIndexedPropertiesOnPb(com.google.storage.onestore.v3.OnestoreEntity.EntityProto, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreCallbacks.NoOpDatastoreCallbacks void executePostLoadCallbacks(com.google.appengine.api.datastore.PostLoadContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig.Builder com.google.appengine.api.datastore.DatastoreServiceConfig withDeadline(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity Entity(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Projection java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.KeyRange&gt; allocateIds(com.google.appengine.api.datastore.Key, java.lang.String, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entities com.google.appengine.api.datastore.Key createEntityGroupKey(com.google.appengine.api.datastore.Key)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions.Builder com.google.appengine.api.datastore.FetchOptions withPrefetchSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;java.lang.Void&gt; delete(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions com.google.appengine.api.datastore.FetchOptions prefetchSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService getInstance(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory com.google.appengine.api.datastore.Key createKey(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilter CompositeFilter(com.google.appengine.api.datastore.Query.CompositeFilterOperator, java.util.Collection&lt;com.google.appengine.api.datastore.Query.Filter&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig.Builder com.google.appengine.api.datastore.DatastoreServiceConfig withDefaults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreCallbacks.NoOpDatastoreCallbacks void executePostDeleteCallbacks(com.google.appengine.api.datastore.DeleteContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Entity&gt; get(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Key) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt;&gt; get(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery java.util.List&lt;com.google.appengine.api.datastore.Entity&gt; asList(com.google.appengine.api.datastore.FetchOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.Index compositeIndexForQuery(com.google.appengine.api.datastore.Query) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DataTypeTranslator void addPropertiesToPb(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, com.google.storage.onestore.v3.OnestoreEntity.EntityProto) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query setAncestor(com.google.appengine.api.datastore.Key)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService com.google.appengine.api.datastore.Entity get(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Key) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory com.google.appengine.api.datastore.Key createKey(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.PreparedQuery prepare(com.google.appengine.api.datastore.Query)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Key&gt; put(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Entity) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory.Builder com.google.appengine.api.datastore.KeyFactory.Builder addChild(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig.Builder com.google.appengine.api.datastore.DatastoreServiceConfig withMaxEntityGroupsPerRpc(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.ReadPolicy com.google.appengine.api.datastore.ReadPolicy.Consistency getConsistency()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Transaction&gt; beginTransaction(com.google.appengine.api.datastore.TransactionOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.Index minimumCompositeIndexForQuery(com.google.appengine.api.datastore.Query, java.util.Collection&lt;com.google.appengine.api.datastore.Index&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DataTypeTranslator java.util.Collection&lt;com.google.storage.onestore.v3.OnestoreEntity.Property&gt; findIndexedPropertiesOnPb(com.google.storage.onestore.v3.OnestoreEntity.EntityProto, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EmbeddedEntity com.google.appengine.api.datastore.EmbeddedEntity clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entities java.lang.String getNamespaceFromNamespaceKey(com.google.appengine.api.datastore.Key) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery com.google.appengine.api.datastore.QueryResultList&lt;com.google.appengine.api.datastore.Entity&gt; asQueryResultList(com.google.appengine.api.datastore.FetchOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Key java.lang.String getAppId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory.Builder Builder(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.GeoPt int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService com.google.appengine.api.datastore.Key put(com.google.appengine.api.datastore.Entity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.IndexTranslator com.google.appengine.api.datastore.Index convertFromPb(com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilter CompositeFilter(com.google.appengine.api.datastore.Query.CompositeFilterOperator, java.util.Collection&lt;com.google.appengine.api.datastore.Query.Filter&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreConfig com.google.appengine.api.datastore.ImplicitTransactionManagementPolicy getImplicitTransactionManagementPolicy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCachingStrategy.NoOpEntityCachingStrategy com.google.appengine.api.datastore.EntityCachingStrategy.PreGetCachingResult preGet(com.google.appengine.api.datastore.CurrentTransactionProvider, java.util.List&lt;com.google.appengine.api.datastore.Key&gt;, java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilterOperator com.google.appengine.api.datastore.Query.CompositeFilter and(java.util.Collection&lt;com.google.appengine.api.datastore.Query.Filter&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions com.google.appengine.api.datastore.FetchOptions startCursor(com.google.appengine.api.datastore.Cursor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query addProjection(com.google.appengine.api.datastore.Projection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCacheConfig.Builder com.google.appengine.api.datastore.EntityCacheConfig withDefaults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query addFilter(java.lang.String, com.google.appengine.api.datastore.Query.FilterOperator, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory java.lang.String createKeyString(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreGetContext void setResultForCurrentElement(com.google.appengine.api.datastore.Entity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query addSort(java.lang.String, com.google.appengine.api.datastore.Query.SortDirection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCachingStrategy.NoOpEntityCachingStrategy com.google.appengine.api.datastore.EntityCachingStrategy.PreGetCachingResult preGet(com.google.appengine.api.datastore.CurrentTransactionProvider, java.util.List&lt;com.google.appengine.api.datastore.Key&gt;, java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;java.util.List&lt;com.google.appengine.api.datastore.Key&gt;&gt; put(java.lang.Iterable&lt;com.google.appengine.api.datastore.Entity&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery com.google.appengine.api.datastore.QueryResultList&lt;com.google.appengine.api.datastore.Entity&gt; asQueryResultList(com.google.appengine.api.datastore.FetchOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCacheConfig.Builder com.google.appengine.api.datastore.EntityCacheConfig withEntityCachingCriteria(com.google.appengine.api.datastore.EntityCachingCriteria)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PostalAddress int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory.Builder com.google.appengine.api.datastore.KeyFactory.Builder addChild(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery java.util.List&lt;com.google.appengine.api.datastore.Entity&gt; asList(com.google.appengine.api.datastore.FetchOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery java.lang.Iterable&lt;com.google.appengine.api.datastore.Entity&gt; asIterable(com.google.appengine.api.datastore.FetchOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreAttributes com.google.appengine.api.datastore.DatastoreAttributes.DatastoreType getDatastoreType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions.Builder com.google.appengine.api.datastore.FetchOptions withOffset(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.SortPredicate SortPredicate(java.lang.String, com.google.appengine.api.datastore.Query.SortDirection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.TransactionOptions com.google.appengine.api.datastore.TransactionOptions clearMultipleEntityGroups()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory.Builder Builder(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;java.util.List&lt;com.google.appengine.api.datastore.Key&gt;&gt; put(java.lang.Iterable&lt;com.google.appengine.api.datastore.Entity&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig com.google.appengine.api.datastore.DatastoreServiceConfig maxEntityGroupsPerRpc(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions.Builder com.google.appengine.api.datastore.FetchOptions withStartCursor(com.google.appengine.api.datastore.Cursor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query setDistinct(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query clearKeysOnly()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService.KeyBuilder newKeyBuilder(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory com.google.appengine.api.datastore.Key createKey(java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilterOperator com.google.appengine.api.datastore.Query.CompositeFilter of(java.util.Collection&lt;com.google.appengine.api.datastore.Query.Filter&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IDatastoreServiceFactory com.google.appengine.api.datastore.AsyncDatastoreService getAsyncDatastoreService(com.google.appengine.api.datastore.DatastoreServiceConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService.KeyBuilder newKeyBuilder(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilterOperator com.google.appengine.api.datastore.Query.CompositeFilter of(java.util.Collection&lt;com.google.appengine.api.datastore.Query.Filter&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.BaseDatastoreService com.google.appengine.api.datastore.PreparedQuery prepare(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Query)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.Index minimumCompositeIndexForQuery(com.google.appengine.api.datastore.Query, java.util.Collection&lt;com.google.appengine.api.datastore.Index&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IndexTranslator com.google.appengine.api.datastore.Index convertFromPb(com.google.storage.onestore.v3.OnestoreEntity.Index) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCachingStrategy.NoOpEntityCachingStrategy com.google.appengine.api.datastore.EntityCachingStrategy.PreMutationCachingResult prePut(com.google.appengine.api.datastore.CurrentTransactionProvider, java.util.List&lt;com.google.appengine.api.datastore.Entity&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.FilterOperator com.google.appengine.api.datastore.Query.FilterPredicate of(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCache.CasCacheValues CasCacheValues(com.google.appengine.api.datastore.EntityCache.IdentifiableCacheValue, com.google.apphosting.datastore.EntityStorage.CacheValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.MemcacheServiceHelper.Builder com.google.appengine.api.datastore.MemcacheServiceHelper withDefaultValueExpirationTime(com.google.appengine.api.memcache.Expiration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService.QueryBuilder newQueryBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Category Category(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;java.util.List&lt;com.google.appengine.api.datastore.Key&gt;&gt; put(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Entity&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DataTypeTranslator void extractImplicitPropertiesFromPb(com.google.storage.onestore.v3.OnestoreEntity.EntityProto, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity Entity(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EmbeddedEntity java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions.Builder com.google.appengine.api.datastore.FetchOptions withChunkSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions.Builder com.google.appengine.api.datastore.FetchOptions withEndCursor(com.google.appengine.api.datastore.Cursor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Email Email(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.ExtendableEntityUtil com.google.appengine.api.datastore.Key createKey(com.google.appengine.api.datastore.Key, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCachingStrategy.NoOpEntityCachingStrategy void postGet(com.google.appengine.api.datastore.EntityCachingStrategy.PreGetCachingResult, java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory com.google.appengine.api.datastore.Key createKey(com.google.appengine.api.datastore.Key, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService getInstance(com.google.appengine.api.datastore.DatastoreServiceConfig, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig com.google.appengine.api.datastore.DatastoreServiceConfig readPolicy(com.google.appengine.api.datastore.ReadPolicy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IDatastoreServiceFactory com.google.appengine.api.datastore.AsyncDatastoreService getAsyncDatastoreService(com.google.appengine.api.datastore.DatastoreServiceConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.PostalAddress int compareTo(com.google.appengine.api.datastore.PostalAddress) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt;&gt; get(java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IDatastoreServiceFactory com.google.appengine.api.datastore.DatastoreService getDatastoreService(com.google.appengine.api.datastore.DatastoreServiceConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyRange java.util.Iterator&lt;com.google.appengine.api.datastore.Key&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.BaseDatastoreService com.google.appengine.api.datastore.PreparedQuery prepare(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Query) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService com.google.appengine.api.datastore.KeyRange allocateIds(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity Entity(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;java.util.List&lt;com.google.appengine.api.datastore.Key&gt;&gt; put(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Entity&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.DatastoreAttributes&gt; getDatastoreAttributes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IMHandle int compareTo(com.google.appengine.api.datastore.IMHandle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IndexTranslator com.google.storage.onestore.v3.OnestoreEntity.Index convertToPb(com.google.appengine.api.datastore.Index) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilterOperator com.google.appengine.api.datastore.Query.CompositeFilter or(java.util.Collection&lt;com.google.appengine.api.datastore.Query.Filter&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.BaseDatastoreService com.google.appengine.api.datastore.PreparedQuery prepare(com.google.appengine.api.datastore.Query) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Transaction&gt; beginTransaction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity java.lang.String getAppId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.TransactionOptions.Builder com.google.appengine.api.datastore.TransactionOptions withDefaults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory com.google.appengine.api.datastore.Key createKey(com.google.appengine.api.datastore.Key, java.lang.String, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Entity&gt; get(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Key)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity Entity(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Key com.google.appengine.api.datastore.Key getChild(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.GeoPt int compareTo(com.google.appengine.api.datastore.GeoPt) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Entity&gt; get(com.google.appengine.api.datastore.Key)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Cursor com.google.appengine.api.datastore.Cursor fromWebSafeString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory.Builder com.google.appengine.api.datastore.KeyFactory.Builder addChild(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityTranslator com.google.appengine.api.datastore.Entity createFromPbBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.MemcacheServiceHelper.Builder com.google.appengine.api.datastore.MemcacheServiceHelper withRpcDeadlineSecs(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService.EntityBuilder com.google.appengine.api.datastore.Entity build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory com.google.appengine.api.datastore.Key createKey(com.google.appengine.api.datastore.Key, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entities com.google.appengine.api.datastore.Key createPropertyKey(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity com.google.appengine.api.datastore.Entity clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCachingStrategy.NoOpEntityCachingStrategy java.util.concurrent.Future createPostMutationFuture(java.util.concurrent.Future, com.google.appengine.api.datastore.EntityCachingStrategy.PreMutationCachingResult)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.lang.String getNamespace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.ReadPolicy ReadPolicy(com.google.appengine.api.datastore.ReadPolicy.Consistency) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCacheConfig.Builder com.google.appengine.api.datastore.EntityCacheConfig withEntityCachePolicy(com.google.appengine.api.datastore.EntityCachePolicy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService com.google.appengine.api.datastore.KeyRange allocateIds(com.google.appengine.api.datastore.Key, java.lang.String, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.IMHandle IMHandle(java.net.URL, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilterOperator com.google.appengine.api.datastore.Query.CompositeFilter or(java.util.Collection&lt;com.google.appengine.api.datastore.Query.Filter&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityTranslator com.google.storage.onestore.v3.OnestoreEntity.EntityProto convertToPb(com.google.appengine.api.datastore.Entity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.FilterOperator com.google.appengine.api.datastore.Query.FilterPredicate of(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService.EntityBuilder newEntityBuilder(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.ShortBlob int compareTo(com.google.appengine.api.datastore.ShortBlob) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Key com.google.appengine.api.datastore.Key getChild(java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery com.google.appengine.api.datastore.QueryResultIterable&lt;com.google.appengine.api.datastore.Entity&gt; asQueryResultIterable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.FilterPredicate java.lang.String getPropertyName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig com.google.appengine.api.datastore.DatastoreServiceConfig deadline(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityTranslator com.google.storage.onestore.v3.OnestoreEntity.EntityProto convertToPb(com.google.appengine.api.datastore.Entity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Transaction java.util.concurrent.Future&lt;java.lang.Void&gt; commitAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.CompositeIndexManager.ValidatedQuery ValidatedQuery(com.google.apphosting.api.DatastorePb.Query) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory com.google.appengine.api.datastore.Key createKey(com.google.appengine.api.datastore.Key, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Key&gt; put(com.google.appengine.api.datastore.Entity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService getInstance(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCachingStrategy.NoOpEntityCachingStrategy com.google.appengine.api.datastore.EntityCachingStrategy.PreMutationCachingResult preDelete(com.google.appengine.api.datastore.CurrentTransactionProvider, java.util.List&lt;com.google.appengine.api.datastore.Key&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query addSort(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entities com.google.appengine.api.datastore.Key createPropertyKey(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService getInstance(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.TransactionOptions com.google.appengine.api.datastore.TransactionOptions setXG(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCachingStrategy.NoOpEntityCachingStrategy com.google.appengine.api.datastore.EntityCachingStrategy.PreMutationCachingResult preDelete(com.google.appengine.api.datastore.CurrentTransactionProvider, java.util.List&lt;com.google.appengine.api.datastore.Key&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.IndexTranslator com.google.appengine.api.datastore.Index.Property convertFromPb(com.google.storage.onestore.v3.OnestoreEntity.Index.Property)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Email int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity java.lang.String getNamespace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery int countEntities(com.google.appengine.api.datastore.FetchOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entities long getVersionProperty(com.google.appengine.api.datastore.Entity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;java.lang.Void&gt; delete(java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Key&gt; put(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Entity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityTranslator com.google.appengine.api.datastore.Entity createFromPb(com.google.storage.onestore.v3.OnestoreEntity.EntityProto, java.util.Collection&lt;com.google.appengine.api.datastore.Projection&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions.Builder com.google.appengine.api.datastore.FetchOptions withCursor(com.google.appengine.api.datastore.Cursor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService.QueryBuilder newQueryBuilder(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Category int compareTo(com.google.appengine.api.datastore.Category) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Transaction java.util.concurrent.Future&lt;java.lang.Void&gt; rollbackAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilterOperator com.google.appengine.api.datastore.Query.CompositeFilter and(java.util.Collection&lt;com.google.appengine.api.datastore.Query.Filter&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DataTypeTranslator void extractPropertiesFromPb(com.google.storage.onestore.v3.OnestoreEntity.EntityProto, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilterOperator com.google.appengine.api.datastore.Query.CompositeFilter and(com.google.appengine.api.datastore.Query.Filter...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity Entity(java.lang.String, java.lang.String, com.google.appengine.api.datastore.Key) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory java.lang.String createKeyString(com.google.appengine.api.datastore.Key, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilterOperator com.google.appengine.api.datastore.Query.CompositeFilter of(com.google.appengine.api.datastore.Query.Filter...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DataTypeTranslator.ComparableByteArray int compareTo(com.google.appengine.api.datastore.DataTypeTranslator.ComparableByteArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query setFilter(com.google.appengine.api.datastore.Query.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Rating int compareTo(com.google.appengine.api.datastore.Rating) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;java.lang.Void&gt; delete(java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.PreparedQuery prepare(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Query) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt;&gt; get(java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.FilterPredicate FilterPredicate(java.lang.String, com.google.appengine.api.datastore.Query.FilterOperator, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery java.lang.Iterable&lt;com.google.appengine.api.datastore.Entity&gt; asIterable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;java.util.List&lt;com.google.appengine.api.datastore.Key&gt;&gt; put(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Entity&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.FilterPredicate com.google.appengine.api.datastore.Query.FilterOperator getOperator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Key com.google.appengine.api.datastore.Key getChild(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreApiHelper java.lang.RuntimeException translateError(com.google.apphosting.api.ApiProxy.ApplicationException)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IMHandle IMHandle(java.net.URL, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.SortPredicate com.google.appengine.api.datastore.Query.SortDirection getDirection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions com.google.appengine.api.datastore.FetchOptions cursor(com.google.appengine.api.datastore.Cursor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Entity&gt; get(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Key)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreCallbacks.NoOpDatastoreCallbacks void executePreGetCallbacks(com.google.appengine.api.datastore.PreGetContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilter java.util.List&lt;com.google.appengine.api.datastore.Query.Filter&gt; getSubFilters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DataTypeTranslator void extractIndexedPropertiesFromPb(com.google.storage.onestore.v3.OnestoreEntity.EntityProto, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions com.google.appengine.api.datastore.FetchOptions endCursor(com.google.appengine.api.datastore.Cursor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceFactory com.google.appengine.api.datastore.DatastoreService getDatastoreService(com.google.appengine.api.datastore.DatastoreConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions com.google.appengine.api.datastore.FetchOptions startCursor(com.google.appengine.api.datastore.Cursor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entities com.google.appengine.api.datastore.Key createNamespaceKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.CompositeIndexManager.IndexComponentsOnlyQuery IndexComponentsOnlyQuery(com.google.apphosting.api.DatastorePb.Query) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig com.google.appengine.api.datastore.DatastoreServiceConfig implicitTransactionManagementPolicy(com.google.appengine.api.datastore.ImplicitTransactionManagementPolicy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Email int compareTo(com.google.appengine.api.datastore.Email) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityTranslator com.google.appengine.api.datastore.Entity createFromPb(com.google.storage.onestore.v3.OnestoreEntity.EntityProto, java.util.Collection&lt;com.google.appengine.api.datastore.Projection&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IMHandle IMHandle(com.google.appengine.api.datastore.IMHandle.Scheme, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions com.google.appengine.api.datastore.FetchOptions cursor(com.google.appengine.api.datastore.Cursor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCache.CasCacheValues com.google.appengine.api.datastore.EntityCache.IdentifiableCacheValue getOldValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PropertyProjection PropertyProjection(java.lang.String, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory java.lang.String createKeyString(com.google.appengine.api.datastore.Key, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt;&gt; get(java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;java.util.Map&lt;com.google.appengine.api.datastore.Index,com.google.appengine.api.datastore.Index.IndexState&gt;&gt; getIndexes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PhoneNumber PhoneNumber(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;java.lang.Void&gt; delete(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PostalAddress PostalAddress(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IndexTranslator com.google.storage.onestore.v3.OnestoreEntity.Index.Property convertToPb(com.google.appengine.api.datastore.Index.Property)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService java.util.List&lt;com.google.appengine.api.datastore.Key&gt; put(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Entity&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.IDatastoreServiceFactory com.google.appengine.api.datastore.DatastoreService getDatastoreService(com.google.appengine.api.datastore.DatastoreServiceConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.ExtendableEntityUtil com.google.appengine.api.datastore.Key createKey(com.google.appengine.api.datastore.Key, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions.Builder com.google.appengine.api.datastore.FetchOptions withEndCursor(com.google.appengine.api.datastore.Cursor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.FilterPredicate FilterPredicate(java.lang.String, com.google.appengine.api.datastore.Query.FilterOperator, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyRange KeyRange(com.google.appengine.api.datastore.Key, java.lang.String, long, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PropertyContainer java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Key&gt; put(com.google.appengine.api.datastore.Entity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreCallbacks.NoOpDatastoreCallbacks void executePreDeleteCallbacks(com.google.appengine.api.datastore.DeleteContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory.Builder com.google.appengine.api.datastore.KeyFactory.Builder addChild(java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Rating int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions com.google.appengine.api.datastore.FetchOptions chunkSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreCallbacks.NoOpDatastoreCallbacks void executePreQueryCallbacks(com.google.appengine.api.datastore.PreQueryContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;java.util.Map&lt;com.google.appengine.api.datastore.Index,com.google.appengine.api.datastore.Index.IndexState&gt;&gt; getIndexes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService void delete(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService com.google.appengine.api.datastore.Entity get(com.google.appengine.api.datastore.Key)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions.Builder com.google.appengine.api.datastore.FetchOptions withDefaults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IMHandle IMHandle(com.google.appengine.api.datastore.IMHandle.Scheme, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilter com.google.appengine.api.datastore.Query.CompositeFilterOperator getOperator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory com.google.appengine.api.datastore.Key stringToKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig.Builder com.google.appengine.api.datastore.DatastoreServiceConfig withImplicitTransactionManagementPolicy(com.google.appengine.api.datastore.ImplicitTransactionManagementPolicy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.KeyRange&gt; allocateIds(com.google.appengine.api.datastore.Key, java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entities com.google.appengine.api.datastore.Key createPropertyKey(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.KeyRange&gt; allocateIds(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig.Builder com.google.appengine.api.datastore.DatastoreServiceConfig withReadPolicy(com.google.appengine.api.datastore.ReadPolicy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCacheConfig.Builder com.google.appengine.api.datastore.EntityCacheConfig withEntityCachingCriteria(com.google.appengine.api.datastore.EntityCachingCriteria) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt;&gt; get(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entities com.google.appengine.api.datastore.Key createKindKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Transaction&gt; beginTransaction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IndexTranslator com.google.storage.onestore.v3.OnestoreEntity.Index.Property convertToPb(com.google.appengine.api.datastore.Index.Property) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.PreparedQuery prepare(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Query)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions com.google.appengine.api.datastore.FetchOptions offset(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Entity&gt; get(com.google.appengine.api.datastore.Key) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig com.google.appengine.api.datastore.DatastoreServiceConfig readPolicy(com.google.appengine.api.datastore.ReadPolicy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PropertyProjection java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entities com.google.appengine.api.datastore.Key createKindKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityTranslator com.google.appengine.api.datastore.Entity createFromPb(com.google.storage.onestore.v3.OnestoreEntity.EntityProto, java.util.Collection&lt;com.google.appengine.api.datastore.Projection&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.SortPredicate SortPredicate(java.lang.String, com.google.appengine.api.datastore.Query.SortDirection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService void delete(java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig.Builder com.google.appengine.api.datastore.DatastoreServiceConfig withReadPolicy(com.google.appengine.api.datastore.ReadPolicy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery java.util.Iterator&lt;com.google.appengine.api.datastore.Entity&gt; asIterator(com.google.appengine.api.datastore.FetchOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory.Builder Builder(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entities com.google.appengine.api.datastore.Key createEntityGroupKey(com.google.appengine.api.datastore.Key) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entities com.google.appengine.api.datastore.Key createNamespaceKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityTranslator com.google.appengine.api.datastore.Entity createFromPb(com.google.storage.onestore.v3.OnestoreEntity.EntityProto)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IndexTranslator com.google.storage.onestore.v3.OnestoreEntity.Index convertToPb(com.google.appengine.api.datastore.Index)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IndexTranslator com.google.appengine.api.datastore.Index convertFromPb(com.google.storage.onestore.v3.OnestoreEntity.CompositeIndex)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Link int compareTo(com.google.appengine.api.datastore.Link) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;java.util.List&lt;com.google.appengine.api.datastore.Key&gt;&gt; put(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Entity&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Entity&gt; get(com.google.appengine.api.datastore.Key) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;java.util.List&lt;com.google.appengine.api.datastore.Key&gt;&gt; put(java.lang.Iterable&lt;com.google.appengine.api.datastore.Entity&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig com.google.appengine.api.datastore.DatastoreServiceConfig implicitTransactionManagementPolicy(com.google.appengine.api.datastore.ImplicitTransactionManagementPolicy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IMHandle int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.CompositeIndexManager java.lang.String generateXmlForIndex(com.google.storage.onestore.v3.OnestoreEntity.Index, com.google.appengine.api.datastore.CompositeIndexManager.IndexSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery com.google.appengine.api.datastore.QueryResultIterator&lt;com.google.appengine.api.datastore.Entity&gt; asQueryResultIterator(com.google.appengine.api.datastore.FetchOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService com.google.appengine.api.datastore.Key put(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Entity) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.IndexTranslator com.google.appengine.api.datastore.Index.Property convertFromPb(com.google.storage.onestore.v3.OnestoreEntity.Index.Property) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DataTypeTranslator.ComparableByteArray int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt; get(java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService com.google.appengine.api.datastore.DatastoreService.KeyRangeState allocateIdRange(com.google.appengine.api.datastore.KeyRange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory com.google.appengine.api.datastore.Key createKey(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCachingStrategy.NoOpEntityCachingStrategy java.util.concurrent.Future createPostGetFuture(java.util.concurrent.Future, com.google.appengine.api.datastore.EntityCachingStrategy.PreGetCachingResult)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions.Builder com.google.appengine.api.datastore.FetchOptions withLimit(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery com.google.appengine.api.datastore.QueryResultIterator&lt;com.google.appengine.api.datastore.Entity&gt; asQueryResultIterator(com.google.appengine.api.datastore.FetchOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;java.util.List&lt;com.google.appengine.api.datastore.Key&gt;&gt; put(java.lang.Iterable&lt;com.google.appengine.api.datastore.Entity&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService com.google.appengine.api.datastore.DatastoreService.KeyRangeState allocateIdRange(com.google.appengine.api.datastore.KeyRange)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query addFilter(java.lang.String, com.google.appengine.api.datastore.Query.FilterOperator, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Key&gt; put(com.google.appengine.api.datastore.Entity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.KeyRange&gt; allocateIds(java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PhoneNumber int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Entity&gt; get(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Key) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.Cursor com.google.appengine.api.datastore.Cursor reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityTranslator com.google.appengine.api.datastore.Entity createFromPb(com.google.storage.onestore.v3.OnestoreEntity.EntityProto) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.TransactionOptions.Builder com.google.appengine.api.datastore.TransactionOptions allowMultipleEntityGroups(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.MemcacheServiceHelper.Builder com.google.appengine.api.datastore.MemcacheServiceHelper withDefaults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Key java.lang.String getNamespace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity Entity(java.lang.String, com.google.appengine.api.datastore.Key) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity void setPropertiesFrom(com.google.appengine.api.datastore.Entity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Link int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory java.lang.String keyToString(com.google.appengine.api.datastore.Key) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DataTypeTranslator java.lang.Comparable&lt;java.lang.Object&gt; getComparablePropertyValue(com.google.storage.onestore.v3.OnestoreEntity.Property) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory com.google.appengine.api.datastore.Key createKey(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityProtoComparators.EntityProtoComparator boolean matches(com.google.storage.onestore.v3.OnestoreEntity.Property) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query java.util.List&lt;com.google.appengine.api.datastore.Query.FilterPredicate&gt; getFilterPredicates()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt;&gt; get(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory java.lang.String createKeyString(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService getInstance(com.google.appengine.api.datastore.DatastoreServiceConfig, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService getInstance(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions com.google.appengine.api.datastore.FetchOptions limit(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt;&gt; get(java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Key com.google.appengine.api.datastore.Key getChild(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory java.lang.String createKeyString(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Transaction&gt; beginTransaction(com.google.appengine.api.datastore.TransactionOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.ShortBlob int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory com.google.appengine.api.datastore.Key createKey(com.google.appengine.api.datastore.Key, java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityProtoComparators.EntityProtoComparator EntityProtoComparator(java.util.List&lt;com.google.apphosting.api.DatastorePb.Query.Order&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService getInstance(com.google.appengine.api.datastore.DatastoreServiceConfig, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService com.google.appengine.api.datastore.Entity get(com.google.appengine.api.datastore.Key) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.BaseDatastoreService com.google.appengine.api.datastore.PreparedQuery prepare(com.google.appengine.api.datastore.Query)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions com.google.appengine.api.datastore.FetchOptions endCursor(com.google.appengine.api.datastore.Cursor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService java.util.List&lt;com.google.appengine.api.datastore.Key&gt; put(java.lang.Iterable&lt;com.google.appengine.api.datastore.Entity&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCachingStrategy.NoOpEntityCachingStrategy void postMutation(com.google.appengine.api.datastore.EntityCachingStrategy.PreMutationCachingResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.KeyRange&gt; allocateIds(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService getInstance(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceFactory com.google.appengine.api.datastore.DatastoreConfig getDefaultDatastoreConfig()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.PreparedQuery prepare(com.google.appengine.api.datastore.Query) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreApiHelper java.lang.RuntimeException translateError(com.google.apphosting.api.ApiProxy.ApplicationException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityProtoComparators.EntityProtoComparator EntityProtoComparator(java.util.List&lt;com.google.apphosting.api.DatastorePb.Query.Order&gt;, java.util.List&lt;com.google.apphosting.api.DatastorePb.Query.Filter&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Entity&gt; get(com.google.appengine.api.datastore.Key)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt;&gt; get(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query setKeysOnly()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.ShortBlob ShortBlob(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.lang.String getAppId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityCacheConfig.Builder com.google.appengine.api.datastore.EntityCacheConfig withEntityCachePolicy(com.google.appengine.api.datastore.EntityCachePolicy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.CompositeFilterOperator com.google.appengine.api.datastore.Query.CompositeFilter or(com.google.appengine.api.datastore.Query.Filter...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreServiceConfig.Builder com.google.appengine.api.datastore.DatastoreServiceConfig withImplicitTransactionManagementPolicy(com.google.appengine.api.datastore.ImplicitTransactionManagementPolicy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query addSort(java.lang.String, com.google.appengine.api.datastore.Query.SortDirection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.DataTypeTranslator java.lang.Object getPropertyValue(com.google.storage.onestore.v3.OnestoreEntity.Property) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PhoneNumber int compareTo(com.google.appengine.api.datastore.PhoneNumber) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService getInstance(com.google.appengine.api.datastore.DatastoreServiceConfig, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Entity Entity(java.lang.String, java.lang.String, com.google.appengine.api.datastore.Key) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.TransactionOptions com.google.appengine.api.datastore.TransactionOptions clearXG()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.SortPredicate com.google.appengine.api.datastore.Query.SortPredicate reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.DatastoreAttributes&gt; getDatastoreAttributes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.AsyncDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Key&gt; put(com.google.appengine.api.datastore.Transaction, com.google.appengine.api.datastore.Entity) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.DatastoreService java.util.Map&lt;com.google.appengine.api.datastore.Key,com.google.appengine.api.datastore.Entity&gt; get(com.google.appengine.api.datastore.Transaction, java.lang.Iterable&lt;com.google.appengine.api.datastore.Key&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.TransactionOptions com.google.appengine.api.datastore.TransactionOptions multipleEntityGroups(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.IndexTranslator com.google.appengine.api.datastore.Index convertFromPb(com.google.storage.onestore.v3.OnestoreEntity.Index)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery com.google.appengine.api.datastore.QueryResultIterable&lt;com.google.appengine.api.datastore.Entity&gt; asQueryResultIterable(com.google.appengine.api.datastore.FetchOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.PreparedQuery java.util.Iterator&lt;com.google.appengine.api.datastore.Entity&gt; asIterator(com.google.appengine.api.datastore.FetchOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.datastore.EntityProtoComparators.EntityProtoComparator EntityProtoComparator(java.util.List&lt;com.google.apphosting.api.DatastorePb.Query.Order&gt;, java.util.List&lt;com.google.apphosting.api.DatastorePb.Query.Filter&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService java.util.concurrent.Future&lt;com.google.appengine.api.datastore.Key&gt; put(com.google.appengine.api.datastore.Entity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query com.google.appengine.api.datastore.Query addSort(java.lang.String, com.google.appengine.api.datastore.Query.SortDirection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService getInstance(com.google.appengine.api.datastore.DatastoreServiceConfig, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.Query.SortPredicate java.lang.String getPropertyName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService.QueryBuilder com.google.appengine.api.datastore.AdminDatastoreService.QueryBuilder setKind(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.KeyFactory.Builder com.google.appengine.api.datastore.KeyFactory.Builder addChild(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.AdminDatastoreService com.google.appengine.api.datastore.AdminDatastoreService.EntityBuilder newEntityBuilder(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.datastore.FetchOptions.Builder com.google.appengine.api.datastore.FetchOptions withCursor(com.google.appengine.api.datastore.Cursor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

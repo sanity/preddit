@@ -1,0 +1,203 @@
+<root>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.PeriodConverter void setInto(com.google.appengine.repackaged.org.joda.time.ReadWritablePeriod, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.ConverterManager com.google.appengine.repackaged.org.joda.time.convert.PeriodConverter[] getPeriodConverters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.PartialConverter int[] getPartialValues(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.PartialConverter int[] getPartialValues(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology, com.google.appengine.repackaged.org.joda.time.format.DateTimeFormatter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.ConverterManager com.google.appengine.repackaged.org.joda.time.convert.InstantConverter[] getInstantConverters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.AbstractConverter int[] getPartialValues(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology, com.google.appengine.repackaged.org.joda.time.format.DateTimeFormatter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.AbstractConverter long getInstantMillis(java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.ConverterManager com.google.appengine.repackaged.org.joda.time.convert.DurationConverter getDurationConverter(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.PartialConverter com.google.appengine.repackaged.org.joda.time.Chronology getChronology(java.lang.Object, com.google.appengine.repackaged.org.joda.time.DateTimeZone)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.ConverterManager com.google.appengine.repackaged.org.joda.time.convert.DurationConverter[] getDurationConverters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.ConverterManager com.google.appengine.repackaged.org.joda.time.convert.IntervalConverter getIntervalConverter(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.IntervalConverter void setInto(com.google.appengine.repackaged.org.joda.time.ReadWritableInterval, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.AbstractConverter com.google.appengine.repackaged.org.joda.time.Chronology getChronology(java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.AbstractConverter com.google.appengine.repackaged.org.joda.time.PeriodType getPeriodType(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.ConverterManager com.google.appengine.repackaged.org.joda.time.convert.InstantConverter getInstantConverter(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.InstantConverter com.google.appengine.repackaged.org.joda.time.Chronology getChronology(java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.PartialConverter com.google.appengine.repackaged.org.joda.time.Chronology getChronology(java.lang.Object, com.google.appengine.repackaged.org.joda.time.DateTimeZone) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.ConverterManager com.google.appengine.repackaged.org.joda.time.convert.PartialConverter getPartialConverter(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.PartialConverter int[] getPartialValues(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology, com.google.appengine.repackaged.org.joda.time.format.DateTimeFormatter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.ConverterManager com.google.appengine.repackaged.org.joda.time.convert.PeriodConverter getPeriodConverter(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.PartialConverter int[] getPartialValues(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.PeriodConverter void setInto(com.google.appengine.repackaged.org.joda.time.ReadWritablePeriod, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.ConverterManager com.google.appengine.repackaged.org.joda.time.convert.IntervalConverter[] getIntervalConverters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.PartialConverter int[] getPartialValues(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology, com.google.appengine.repackaged.org.joda.time.format.DateTimeFormatter) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.AbstractConverter int[] getPartialValues(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.PartialConverter int[] getPartialValues(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.AbstractConverter int[] getPartialValues(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology, com.google.appengine.repackaged.org.joda.time.format.DateTimeFormatter) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.AbstractConverter int[] getPartialValues(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.ConverterManager com.google.appengine.repackaged.org.joda.time.convert.PartialConverter[] getPartialConverters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.InstantConverter long getInstantMillis(java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.InstantConverter com.google.appengine.repackaged.org.joda.time.Chronology getChronology(java.lang.Object, com.google.appengine.repackaged.org.joda.time.DateTimeZone)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.AbstractConverter int[] getPartialValues(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology, com.google.appengine.repackaged.org.joda.time.format.DateTimeFormatter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.DurationConverter long getDurationMillis(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.PeriodConverter com.google.appengine.repackaged.org.joda.time.PeriodType getPeriodType(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.AbstractConverter int[] getPartialValues(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.AbstractConverter com.google.appengine.repackaged.org.joda.time.Chronology getChronology(java.lang.Object, com.google.appengine.repackaged.org.joda.time.DateTimeZone)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.AbstractConverter com.google.appengine.repackaged.org.joda.time.PeriodType getPeriodType(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.PartialConverter com.google.appengine.repackaged.org.joda.time.Chronology getChronology(java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.InstantConverter com.google.appengine.repackaged.org.joda.time.Chronology getChronology(java.lang.Object, com.google.appengine.repackaged.org.joda.time.DateTimeZone) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.IntervalConverter void setInto(com.google.appengine.repackaged.org.joda.time.ReadWritableInterval, java.lang.Object, com.google.appengine.repackaged.org.joda.time.Chronology) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.convert.AbstractConverter com.google.appengine.repackaged.org.joda.time.Chronology getChronology(java.lang.Object, com.google.appengine.repackaged.org.joda.time.DateTimeZone) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

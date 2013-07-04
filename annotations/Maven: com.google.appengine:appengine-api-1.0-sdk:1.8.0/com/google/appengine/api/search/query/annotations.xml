@@ -1,0 +1,107 @@
+<root>
+    <item name='com.google.appengine.api.search.query.QueryParser java.lang.String[] getTokenNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryTreeContext java.util.Set&lt;com.google.appengine.api.search.query.QueryTreeContext.Type&gt; getCommonReturnTypes(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryTreeBuilder com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTree parse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.text_return text()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.composite_return composite()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.orOp_return orOp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser java.lang.String getGrammarFileName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.notOp_return notOp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.term_return term()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.comparator_return comparator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.arglist_return arglist()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.fnname_return fnname()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryTreeContext java.lang.Iterable&lt;T&gt; children()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.factor_return factor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryLexer java.lang.String getGrammarFileName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.andOp_return andOp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.ParserUtils java.lang.String normalizePhrase(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryTreeWalker com.google.appengine.repackaged.org.antlr.runtime.tree.Tree simplify(com.google.appengine.repackaged.org.antlr.runtime.tree.Tree) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.comparable_return comparable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.ParserUtils java.lang.String trimLast(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.primitive_return primitive()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.sequence_return sequence()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.query_return query()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryTreeContext java.util.Set&lt;com.google.appengine.api.search.query.QueryTreeContext.Type&gt; getCommonReturnTypes(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryTreeWalker void walk(com.google.appengine.repackaged.org.antlr.runtime.tree.Tree, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryTreeWalker void postBooleanExpression(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.function_return function()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.arg_return arg()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.phrase_return phrase()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.expression_return expression()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.restrict_return restrict()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParserFactory com.google.appengine.api.search.query.QueryParser newParser(com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.value_return value()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.item_return item()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.query.QueryParser com.google.appengine.api.search.query.QueryParser.sep_return sep()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

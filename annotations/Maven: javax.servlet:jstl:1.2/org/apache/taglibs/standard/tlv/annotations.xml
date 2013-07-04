@@ -1,0 +1,38 @@
+<root>
+    <item name='org.apache.taglibs.standard.tlv.JstlBaseTLV boolean hasEmptyVar(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tlv.JstlCoreTLV org.xml.sax.helpers.DefaultHandler getHandler()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tlv.JstlBaseTLV boolean isSpecified(javax.servlet.jsp.tagext.TagData, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tlv.JstlSqlTLV org.xml.sax.helpers.DefaultHandler getHandler()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tlv.JstlBaseTLV boolean hasAttribute(org.xml.sax.Attributes, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tlv.JstlBaseTLV org.xml.sax.helpers.DefaultHandler getHandler()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.tlv.JstlXmlTLV org.xml.sax.helpers.DefaultHandler getHandler()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tlv.JstlFmtTLV org.xml.sax.helpers.DefaultHandler getHandler()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tlv.JstlBaseTLV boolean hasNoInvalidScope(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tlv.JstlBaseTLV java.lang.String getLocalPart(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tlv.JstlBaseTLV boolean hasDanglingScope(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

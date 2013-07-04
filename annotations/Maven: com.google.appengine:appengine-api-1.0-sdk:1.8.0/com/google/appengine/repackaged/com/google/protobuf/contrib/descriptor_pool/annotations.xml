@@ -1,0 +1,20 @@
+<root>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.contrib.descriptor_pool.DescriptorPool com.google.appengine.repackaged.com.google.protobuf.contrib.descriptor_pool.DescriptorPool.Builder builder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.contrib.descriptor_pool.DescriptorPool.Builder com.google.appengine.repackaged.com.google.protobuf.contrib.descriptor_pool.DescriptorPool.Builder populateFromFileDescriptor(com.google.appengine.repackaged.com.google.protobuf.Descriptors.FileDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.contrib.descriptor_pool.DescriptorPool.Builder com.google.appengine.repackaged.com.google.protobuf.contrib.descriptor_pool.DescriptorPool.Builder populateFromFileDescriptor(com.google.appengine.repackaged.com.google.protobuf.Descriptors.FileDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.contrib.descriptor_pool.DescriptorPool.Builder com.google.appengine.repackaged.com.google.protobuf.contrib.descriptor_pool.DescriptorPool build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.contrib.descriptor_pool.DescriptorPool.Builder com.google.appengine.repackaged.com.google.protobuf.contrib.descriptor_pool.DescriptorPool.Builder populateFromMessageType(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.contrib.descriptor_pool.DescriptorPool.Builder com.google.appengine.repackaged.com.google.protobuf.contrib.descriptor_pool.DescriptorPool.Builder populateFromMessageType(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

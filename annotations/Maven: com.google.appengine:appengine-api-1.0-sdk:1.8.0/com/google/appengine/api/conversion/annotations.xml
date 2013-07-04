@@ -1,0 +1,1895 @@
+<root>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder setConversion(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder setResult(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.Conversion com.google.appengine.api.conversion.ConversionOptions getOptions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder addAllAsset(java.lang.Iterable&lt;? extends com.google.appengine.api.conversion.ConversionServicePb.AssetInfo&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionOptions.Builder com.google.appengine.api.conversion.ConversionOptions withOcrInputLanguage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionOptions com.google.appengine.api.conversion.ConversionOptions lastPage(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder newBuilder(com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder addAsset(com.google.appengine.api.conversion.ConversionServicePb.AssetInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder addFlag(com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder addResult(com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder addAllConversion(java.lang.Iterable&lt;? extends com.google.appengine.api.conversion.ConversionServicePb.ConversionInput&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.Asset Asset(java.lang.String, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder addResult(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder setNameBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder setOutput(com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder clearFlag()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.Conversion com.google.appengine.api.conversion.Document getInputDoc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder addResult(com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder setValueBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder addFlag(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder mergeInput(com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder removeFlag(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder setMimeType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder setErrorCode(com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.ErrorCode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder setValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServiceFactory com.google.appengine.api.conversion.ConversionService getConversionService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder addResult(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder addAllFlag(java.lang.Iterable&lt;? extends com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder clearKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder clearErrorCode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder setOutputMimeTypeBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder setAsset(int, com.google.appengine.api.conversion.ConversionServicePb.AssetInfo) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder clearOutputMimeType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServiceFactory com.google.appengine.api.conversion.ConversionService getConversionService(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder setMimeTypeBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder setResult(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionService java.util.concurrent.Future&lt;com.google.appengine.api.conversion.ConversionResult&gt; convertAsync(com.google.appengine.api.conversion.Conversion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionOptions com.google.appengine.api.conversion.ConversionOptions imageWidth(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder clearOutput()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder mergeFrom(com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionOptions.Builder com.google.appengine.api.conversion.ConversionOptions withOcrInputLanguage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder newBuilder(com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder setMimeTypeBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder addAsset(int, com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionService com.google.appengine.api.conversion.ConversionServicePb.ConversionService.ServiceParameters newBlockingService(com.google.inject.Provider&lt;com.google.appengine.api.conversion.ConversionServicePb.ConversionService.BlockingServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder addAllResult(java.lang.Iterable&lt;? extends com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder setOutputMimeType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder setOutput(com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder clearMimeType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder setOutputMimeTypeBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder addFlag(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder setFlag(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder addResult(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionOptions.Builder com.google.appengine.api.conversion.ConversionOptions withDefaults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder addConversion(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder newBuilder(com.google.appengine.api.conversion.ConversionServicePb.AssetInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionService com.google.appengine.api.conversion.ConversionServicePb.ConversionService.ServiceParameters newService(com.google.inject.Provider&lt;com.google.appengine.api.conversion.ConversionServicePb.ConversionService.ServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.Conversion Conversion(com.google.appengine.api.conversion.Document, java.lang.String, com.google.appengine.api.conversion.ConversionOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder setKeyBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder addFlag(com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder clearValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.api.conversion.ConversionServicePb.ConversionInput getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder clearData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionService java.util.concurrent.Future&lt;java.util.List&lt;com.google.appengine.api.conversion.ConversionResult&gt;&gt; convertAsync(java.util.List&lt;com.google.appengine.api.conversion.Conversion&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.Conversion Conversion(com.google.appengine.api.conversion.Document, java.lang.String, com.google.appengine.api.conversion.ConversionOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder newBuilder(com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder setInput(com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder mergeFrom(com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder mergeFrom(com.google.appengine.api.conversion.ConversionServicePb.ConversionInput)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder setFlag(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder mergeFrom(com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.Conversion Conversion(com.google.appengine.api.conversion.Document, java.lang.String, com.google.appengine.api.conversion.ConversionOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder addAsset(int, com.google.appengine.api.conversion.ConversionServicePb.AssetInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder addAsset(com.google.appengine.api.conversion.ConversionServicePb.AssetInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.api.conversion.ConversionServicePb.AssetInfo getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder addFlag(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder removeResult(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder addFlag(com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder addAllResult(java.lang.Iterable&lt;? extends com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder mergeFrom(com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder setKeyBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder setAsset(int, com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder setData(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder setConversion(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.Document Document(java.util.List&lt;com.google.appengine.api.conversion.Asset&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.api.conversion.ConversionServicePb.AssetInfo getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.Asset Asset(java.lang.String, byte[], java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder setOutputMimeType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder setMimeType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder addConversion(com.google.appengine.api.conversion.ConversionServicePb.ConversionInput) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder newBuilder(com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder newBuilder(com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder addAllConversion(java.lang.Iterable&lt;? extends com.google.appengine.api.conversion.ConversionServicePb.ConversionInput&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder addConversion(com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.ErrorCode com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.ErrorCode valueOf(com.google.appengine.repackaged.com.google.protobuf.Descriptors.EnumValueDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder setValueBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder clearInput()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder removeConversion(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder newBuilder(com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder setInput(com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder mergeOutput(com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder mergeFrom(com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder addAllAsset(java.lang.Iterable&lt;? extends com.google.appengine.api.conversion.ConversionServicePb.AssetInfo&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder setFlag(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder setData(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder addConversion(com.google.appengine.api.conversion.ConversionServicePb.ConversionInput)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder addConversion(com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder addFlag(com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder addAllFlag(java.lang.Iterable&lt;? extends com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder setAsset(int, com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder addResult(com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder addConversion(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder newBuilder(com.google.appengine.api.conversion.ConversionServicePb.ConversionInput)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder setOutput(com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder addAsset(int, com.google.appengine.api.conversion.ConversionServicePb.AssetInfo) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder addAsset(com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder setFlag(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder addAsset(com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.api.conversion.ConversionServicePb.ConversionInput getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder addConversion(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder setConversion(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder setErrorCode(com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.ErrorCode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionOptions com.google.appengine.api.conversion.ConversionOptions ocrInputLanguage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionOptions.Builder com.google.appengine.api.conversion.ConversionOptions withFirstPage(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder addAsset(int, com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionOptions com.google.appengine.api.conversion.ConversionOptions ocrInputLanguage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionService.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_Convert()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder setInput(com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionOptions com.google.appengine.api.conversion.ConversionOptions firstPage(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionService com.google.appengine.api.conversion.ConversionServicePb.ConversionService.Stub newStub(com.google.net.rpc3.client.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder setOutput(com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionOptions.Builder com.google.appengine.api.conversion.ConversionOptions withLastPage(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder setResult(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder clearAsset()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionService com.google.net.rpc3.client.RpcStubDescriptor getStubDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder setNameBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder clearResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionOptions.Builder com.google.appengine.api.conversion.ConversionOptions withImageWidth(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder removeAsset(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.Document Document(com.google.appengine.api.conversion.Asset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionService com.google.appengine.api.conversion.ConversionServicePb.ConversionService.ServiceParameters newBlockingService(com.google.appengine.api.conversion.ConversionServicePb.ConversionService.BlockingServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder setAsset(int, com.google.appengine.api.conversion.ConversionServicePb.AssetInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder setKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionService com.google.appengine.api.conversion.ConversionServicePb.ConversionService.ServiceParameters newService(com.google.appengine.api.conversion.ConversionServicePb.ConversionService.ServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder setConversion(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.Conversion Conversion(com.google.appengine.api.conversion.Document, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder setResult(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder setKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder mergeFrom(com.google.appengine.api.conversion.ConversionServicePb.AssetInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder clearConversion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo.Builder com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder addConversion(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder addFlag(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.Conversion Conversion(com.google.appengine.api.conversion.Document, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder mergeFrom(com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.AuxData.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionInput.Builder setInput(com.google.appengine.api.conversion.ConversionServicePb.DocumentInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder addResult(com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.AssetInfo com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder com.google.appengine.api.conversion.ConversionServicePb.ConversionResponse.Builder addResult(int, com.google.appengine.api.conversion.ConversionServicePb.ConversionOutput.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

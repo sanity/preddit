@@ -1,0 +1,2012 @@
+<root>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item setTypeId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item setMessage(com.google.appengine.repackaged.com.google.io.protocol.RawMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor clearType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption setValue(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setSecurityLevel(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setFilename(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setSecurityLabel(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setFilenameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setProtocol(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearDuplicateSuppression()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item addItem()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setType(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setClientMessageTypeAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setRequestFormat(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor addService(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType clearParent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setForeignProtoName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearDefaultValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearFailFast()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType clearProto2Name()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileScopeInfoAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileMaster(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream clearClientLogging()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearSecurityLabel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setProtocol(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setType(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setForeignProtoName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileMaster(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setService(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType clearAllowAlias()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag addTag()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream clearTokenUnit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag addTag()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream addStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setEnumId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType setProto2Name(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearArgumentType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2Name(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setServerMessageTypeAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item clearTypeId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileScopeInfo(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method addMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearDeclaredType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item setMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType setProto2Name(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setSecurityLabel(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setFilename(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setForeignAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setSecurityLabel(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType setAllowAlias(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearServerLogging()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileMasterAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor clearMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearRequestFormat()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType addEnumType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setFilename(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setArgumentType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor clearMulticastStub()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setResultTypeAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item clearMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setSecurityLevel(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setFullName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setMulticastStub(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setFilenameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearSecurityLevel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal clearItem()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2ExtensionInfo(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setServerLogging(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setDeadline(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setWeakTags(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearResponseFormat()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setResponseFormat(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor clearService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setStreamType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption clearValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setFilename(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setServerMessageType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setService(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor clearFilename()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor clearStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item setMessageAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setSecurityLabel(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item setMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setStreamType(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearFlags()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setArgumentType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setFilename(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setRequestFormatAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setProtocol(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setFullName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream clearServerLogging()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setWireType(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType setProto2Name(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setClientMessageType(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item setTypeId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProtoName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setFullName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setFilename(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setTokenUnitAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setTokenUnit(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setTokenUnit(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProtoName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearForeignProtoName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setFailureDetectionDelay(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item setMessage(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor addType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setResponseFormat(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag clearValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setSecurityLevel(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setSecurityLabel(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor clearFilename()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor addService(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearNumber()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setTokenUnit(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setForeign(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setParent(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setWeakTags(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setDuplicateSuppression(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setWeakTagsAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearStreamType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setClientMessageType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2ExtensionInfoAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setTokenUnit(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor clearProto2FileMaster()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor addType(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor addType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setRequestFormat(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setFullName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearEnumId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag setValue(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setStreamTypeAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor clearProto2FileDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileScopeInfo(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor clearWeakTags()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setWeakTags(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream clearSecurityLevel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption setValue(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProtoName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setForeign(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setResponseFormatAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setDefaultValueAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item clearTypeId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setFilename(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2ExtensionInfo(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setResultType(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setTypeAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setFullNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item addItem()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType setProto2Name(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor addTypeAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileScopeInfo(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setSecurityLabelAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearClientLogging()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileDescriptor(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setSecurityLevel(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor clearFilename()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption addOption()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords clearItem()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setDefaultValue(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileDescriptorAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor clearProto2ExtensionInfo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setClientMessageType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setForeignProtoName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setServerInitialTokens(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setDeprecated(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor addService(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setFilename(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearResultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType clearTag()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setSecurityLabel(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setStreamType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setClientLogging(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setServerLogging(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setSecurityLabel(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setSecurityLevelAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearLabel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor clearFullName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setResponseFormat(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setSecurityLevelAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setService(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setForeign(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption setValueAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearOption()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream clearServerInitialTokens()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2Name(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setLabel(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setForeignProtoName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setSecurityLabel(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileDescriptor(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setFlags(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileDescriptor(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item clearMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2NameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setServerMessageType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setSecurityLevel(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setResultType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearParent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor addService(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setArgumentTypeAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setDefaultValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setType(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setFilename(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setDefaultValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item setMessage(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setResponseFormat(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor clearProto2FileScopeInfo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream clearServerMessageType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setFilename(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setArgumentType(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setProtocolAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileDescriptor(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setFilename(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setServerMessageType(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setSecurityLevel(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2Name(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType setParent(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setServerMessageType(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearProtocol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setSecurityLevel(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setServiceAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setRequestFormat(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearWireType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setClientInitialTokens(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method clearDeadline()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearForeign()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor clearProto2Name()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setArgumentType(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setNumber(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setWeakTags(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setClientLogging(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor clearProtoName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setResultType(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setRequestFormat(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProtoName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2ExtensionInfo(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor setFilenameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setDeclaredType(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType setProto2NameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor addType(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor clearTag()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setResultType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.TagOption setValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileScopeInfo(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor clearEnumType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream clearSecurityLabel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2Name(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternalUsingCords.Item boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setDefaultValue(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileMaster(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setClientMessageType(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor clearFailureDetectionDelay()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream clearClientMessageType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream setSecurityLevel(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.OpaqueMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setStreamType(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag clearDeprecated()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProtoNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setService(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setSecurityLabelAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setProtocol(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2FileMaster(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumTypeTag&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor setProto2ExtensionInfo(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.EnumType boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setType(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item com.google.appengine.repackaged.com.google.io.protocol.proto.MessageSetInternal.Item setMessage(com.google.appengine.repackaged.com.google.io.protocol.RawMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setForeign(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor addServiceAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Method setFailFast(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor.Tag setForeignProtoNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor.Stream clearClientInitialTokens()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolFileDescriptor setFilename(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

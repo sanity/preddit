@@ -1,0 +1,713 @@
+<root>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response clearException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setMethod(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setResponse(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request clearRequest()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setRequestId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError setDetailAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError setDetail(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition clearHash()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult clearEntityGroup()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setServiceName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setResponse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setMethod(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setJavaException(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setExceptionAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setJavaExceptionAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError setCode(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request mergeFrom(com.google.apphosting.utils.remoteapi.RemoteApiPb.Request) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition setKey(com.google.storage.onestore.v3.OnestoreEntity.Reference)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest clearDeletes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setServiceName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setServiceName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setRequest(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setRequestId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setMethod(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest mergeFrom(com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setResponseAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest clearPuts()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setServiceNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setRequestId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request mergeFrom(com.google.apphosting.utils.remoteapi.RemoteApiPb.Request)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiServlet void doPost(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult setResult(com.google.apphosting.api.DatastorePb.QueryResult)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setApplicationError(com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request clearMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition setHash(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.utils.remoteapi.RemoteApiPb.Response&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError mergeFrom(com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError setDetail(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setApplicationError(com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setRequest(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition setHash(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response clearJavaException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition addPrecondition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response clearApplicationError()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition setKey(com.google.storage.onestore.v3.OnestoreEntity.Reference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setMethod(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setException(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response mergeFrom(com.google.apphosting.utils.remoteapi.RemoteApiPb.Response)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setJavaException(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response mergeFrom(com.google.apphosting.utils.remoteapi.RemoteApiPb.Response) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest setDeletes(com.google.apphosting.api.DatastorePb.DeleteRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult clearEntityGroupKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.utils.remoteapi.RemoteApiPb.Request&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request clearRequestId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError mergeFrom(com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError setDetail(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setException(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult setEntityGroupKey(com.google.storage.onestore.v3.OnestoreEntity.Reference)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition clearKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setException(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setRequest(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition mergeFrom(com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest mergeFrom(com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult mergeFrom(com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition mergeFrom(com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setJavaException(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest setDeletes(com.google.apphosting.api.DatastorePb.DeleteRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult setEntityGroup(com.google.storage.onestore.v3.OnestoreEntity.EntityProto)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setRequestIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiServlet void doGet(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest clearPrecondition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setResponse(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult clearResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setRequestAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setServiceName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest setPuts(com.google.apphosting.api.DatastorePb.PutRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setJavaException(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult setEntityGroupKey(com.google.storage.onestore.v3.OnestoreEntity.Reference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setRequest(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest setAllowMultipleEg(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setException(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError setDetail(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest clearAllowMultipleEg()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult mergeFrom(com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response setResponse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setRequestId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.apphosting.utils.remoteapi.RemoteApiPb.Response clearResponse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request setMethodAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest setPuts(com.google.apphosting.api.DatastorePb.PutRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError clearCode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult setEntityGroup(com.google.storage.onestore.v3.OnestoreEntity.EntityProto) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Response com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition setHashAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition setHash(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.Request com.google.apphosting.utils.remoteapi.RemoteApiPb.Request clearServiceName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionRequest.Precondition setHash(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError com.google.apphosting.utils.remoteapi.RemoteApiPb.ApplicationError clearDetail()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult com.google.apphosting.utils.remoteapi.RemoteApiPb.TransactionQueryResult setResult(com.google.apphosting.api.DatastorePb.QueryResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

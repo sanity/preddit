@@ -1,0 +1,188 @@
+<root>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Enum com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Enum valueOf(com.google.appengine.repackaged.com.google.protobuf.Descriptors.EnumValueDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder newBuilder(com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder mergeFrom(com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy com.google.apphosting.base.proto2api.MemcacheShardingStrategyPb.MemcacheShardingStrategy.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

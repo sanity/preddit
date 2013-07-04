@@ -1,0 +1,137 @@
+<root>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withEndTimeUsec(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery endTimeMillis(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogService java.lang.Iterable&lt;com.google.appengine.api.log.RequestLogs&gt; fetch(com.google.appengine.api.log.LogQuery) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery majorVersionIds(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery startTimeUsec(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery includeIncomplete(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withMajorVersionIds(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withServerVersions(java.util.List&lt;com.google.appengine.repackaged.com.google.common.base.Pair&lt;java.lang.String,java.lang.String&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQueryResult LogQueryResult(com.google.apphosting.api.logservice.LogServicePb.LogReadResponse, com.google.appengine.api.log.LogQuery) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.ILogServiceFactoryProvider com.google.appengine.api.log.ILogServiceFactory getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withStartTimeMillis(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withIncludeIncomplete(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.ILogServiceFactory com.google.appengine.api.log.LogService getLogService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.log.LogQueryResult com.google.apphosting.api.logservice.LogServicePb.LogOffset parseOffset(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withBatchSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQueryResult com.google.apphosting.api.logservice.LogServicePb.LogOffset parseOffset(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery requestIds(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery serverVersions(java.util.List&lt;com.google.appengine.repackaged.com.google.common.base.Pair&lt;java.lang.String,java.lang.String&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withRequestIds(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery includeAppLogs(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery majorVersionIds(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery batchSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.ILogServiceFactoryProvider java.lang.Object getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery offset(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withStartTimeUsec(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withOffset(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery endTimeUsec(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery startTimeMillis(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQueryResult java.util.Iterator&lt;com.google.appengine.api.log.RequestLogs&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQueryResult LogQueryResult(com.google.apphosting.api.logservice.LogServicePb.LogReadResponse, com.google.appengine.api.log.LogQuery) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withMajorVersionIds(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.RequestLogs RequestLogs(com.google.apphosting.api.logservice.LogServicePb.RequestLog, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery minLogLevel(com.google.appengine.api.log.LogService.LogLevel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withDefaults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery requestIds(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withIncludeAppLogs(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withMinLogLevel(com.google.appengine.api.log.LogService.LogLevel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withRequestIds(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withEndTimeMillis(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery com.google.appengine.api.log.LogQuery serverVersions(java.util.List&lt;com.google.appengine.repackaged.com.google.common.base.Pair&lt;java.lang.String,java.lang.String&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.log.LogQuery.Builder com.google.appengine.api.log.LogQuery withServerVersions(java.util.List&lt;com.google.appengine.repackaged.com.google.common.base.Pair&lt;java.lang.String,java.lang.String&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

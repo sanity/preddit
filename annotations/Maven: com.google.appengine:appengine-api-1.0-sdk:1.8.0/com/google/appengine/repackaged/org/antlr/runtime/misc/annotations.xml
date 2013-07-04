@@ -1,0 +1,17 @@
+<root>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.misc.Stats int max(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.misc.Stats int sum(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.misc.Stats double avg(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.misc.Stats int min(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.misc.Stats double stddev(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

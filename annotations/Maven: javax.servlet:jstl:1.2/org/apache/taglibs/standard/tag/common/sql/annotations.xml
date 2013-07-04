@@ -1,0 +1,5 @@
+<root>
+    <item name='org.apache.taglibs.standard.tag.common.sql.ResultImpl ResultImpl(java.sql.ResultSet, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

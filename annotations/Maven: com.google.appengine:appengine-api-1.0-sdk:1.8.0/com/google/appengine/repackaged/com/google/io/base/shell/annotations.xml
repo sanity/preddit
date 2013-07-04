@@ -1,0 +1,11 @@
+<root>
+    <item name='com.google.appengine.repackaged.com.google.io.base.shell.ShellUtils java.lang.String prettyPrintArgv(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.shell.ShellUtils void tokenize(java.util.List&lt;java.lang.String&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.shell.ShellUtils java.lang.String shellEscape(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

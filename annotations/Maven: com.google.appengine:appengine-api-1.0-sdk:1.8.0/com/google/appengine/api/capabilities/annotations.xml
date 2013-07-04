@@ -1,0 +1,1109 @@
+<root>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder addCall(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setAdminMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder addConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder addCapability(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder addConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder clearCall()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder addAllCapability(java.lang.Iterable&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder clearSummaryStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService void callMethod(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor, com.google.appengine.repackaged.com.google.protobuf.RpcController, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.RpcCallback&lt;com.google.appengine.repackaged.com.google.protobuf.Message&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder clearErrorMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder addConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder addCapability(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesService com.google.appengine.api.capabilities.CapabilityState getStatus(com.google.appengine.api.capabilities.Capability)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setErrorMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.ICapabilitiesServiceFactoryProvider java.lang.Object getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService.Stub newStub(com.google.appengine.repackaged.com.google.protobuf.RpcChannel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder clearConfig()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setAdminMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder clearPackage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder addConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder setConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder mergeFrom(com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder addConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3 com.google.net.rpc3.client.RpcStubDescriptor getStubDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder addConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setInternalMessageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder setSummaryStatus(com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.SummaryStatus)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.ICapabilitiesServiceFactoryProvider com.google.appengine.api.capabilities.ICapabilitiesServiceFactory getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder addConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder clearInternalMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder setDefaultConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder addConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder clearStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder setCall(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder newBuilder(com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder addCall(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setAdminMessageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder removeConfig(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder addConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3 com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3.ServiceParameters newService(com.google.inject.Provider&lt;com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3.ServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder addAllCapability(java.lang.Iterable&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setErrorMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder addConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder setPackage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setPackage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder removeConfig(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3 com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3.ServiceParameters newBlockingService(com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3.BlockingServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder clearTimeUntilScheduled()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder addAllCall(java.lang.Iterable&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder addConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setErrorMessageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setScheduledTime(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setPackage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setStatus(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder addConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder clearConfig()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder mergeFrom(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService com.google.appengine.repackaged.com.google.protobuf.Message getResponsePrototype(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder setCall(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setScheduledTime(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder setConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder setDefaultConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService com.google.appengine.repackaged.com.google.protobuf.Message getRequestPrototype(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder newBuilder(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setScheduledTimeBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder mergeFrom(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setCapabilityBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder setDefaultConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService.BlockingInterface newBlockingStub(com.google.appengine.repackaged.com.google.protobuf.BlockingRpcChannel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder addCallBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setCapability(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setScheduledTimeBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder newBuilder(com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder addAllConfig(java.lang.Iterable&lt;? extends com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setPackageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder clearCapability()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder setConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder setConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService com.google.appengine.repackaged.com.google.protobuf.Message getRequestPrototype(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder setPackageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder clearScheduledTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3 com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3.ServiceParameters newService(com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3.ServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService com.google.appengine.repackaged.com.google.protobuf.BlockingService newReflectiveBlockingService(com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService.BlockingInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder clearAdminMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Status com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Status valueOf(com.google.appengine.repackaged.com.google.protobuf.Descriptors.EnumValueDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder clearCapability()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setInternalMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder setConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder addConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder setCapability(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setAdminMessageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder addCapabilityBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService com.google.appengine.repackaged.com.google.protobuf.Message getResponsePrototype(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder setDefaultConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder addAllConfig(java.lang.Iterable&lt;? extends com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3 com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3.ServiceParameters newBlockingService(com.google.inject.Provider&lt;com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3.BlockingServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService com.google.appengine.repackaged.com.google.protobuf.Service newReflectiveService(com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService.Interface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder setConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setInternalMessageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setStatus(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3 com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3.Stub newStub(com.google.net.rpc3.client.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.ICapabilitiesServiceFactory com.google.appengine.api.capabilities.CapabilitiesService getCapabilitiesService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder newBuilder(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.CapabilityService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_IsEnabled()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setCapabilityBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesService com.google.appengine.api.capabilities.CapabilityState getStatus(com.google.appengine.api.capabilities.Capability) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder addConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder setConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder addAllCall(java.lang.Iterable&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder setConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.SummaryStatus com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.SummaryStatus valueOf(com.google.appengine.repackaged.com.google.protobuf.Descriptors.EnumValueDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder addAllConfig(java.lang.Iterable&lt;? extends com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder clearPackage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setInternalMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder addCallBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder addAllConfig(java.lang.Iterable&lt;? extends com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setPackageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder mergeFrom(com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder setCapability(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder setTimeUntilScheduled(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder setPackage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder addCapabilityBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder addConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setErrorMessageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder setSummaryStatus(com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.SummaryStatus) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder mergeDefaultConfig(com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder setCapability(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder addConfig(int, com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder clearDefaultConfig()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder setPackageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfig.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilityServicePb.IsEnabledRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.capabilities.CapabilitiesPb.CapabilityConfigList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

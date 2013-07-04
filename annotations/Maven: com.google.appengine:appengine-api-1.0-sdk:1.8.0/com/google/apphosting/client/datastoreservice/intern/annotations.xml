@@ -1,0 +1,56 @@
+<root>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcService com.google.appengine.repackaged.com.google.common.collect.ImmutableList&lt;com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcHandler&lt;? extends com.google.appengine.repackaged.com.google.protobuf.MessageLite,? extends com.google.appengine.repackaged.com.google.protobuf.MessageLite&gt;&gt; getRpcHandlers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcException com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcException createForTest(com.google.appengine.repackaged.com.google.net.util.error.Codes.Code, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcHandler java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcService java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcHandler S call(com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcHandler.CallOptions, R)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcHandler S makeError(com.google.appengine.repackaged.com.google.net.util.error.Codes.Code, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcHandler com.google.apphosting.client.datastoreservice.api.DatastoreServiceRpcProto.ResponseHeader makeErrorHeader(com.google.appengine.repackaged.com.google.net.util.error.Codes.Code, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcHandler com.google.apphosting.client.datastoreservice.api.DatastoreServiceRpcProto.ResponseHeader makeErrorHeader(com.google.appengine.repackaged.com.google.net.util.error.Codes.Code, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcHandler S call(com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcHandler.CallOptions, R) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcHandler S call(com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcHandler.CallOptions, R) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcHandler com.google.apphosting.client.datastoreservice.api.DatastoreServiceRpcProto.ResponseHeader makeErrorHeader(com.google.appengine.repackaged.com.google.net.util.error.Codes.Code, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcService RemoteDatastoreRpcService(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.client.datastoreservice.intern.RemoteDatastoreRpcService java.lang.String getVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

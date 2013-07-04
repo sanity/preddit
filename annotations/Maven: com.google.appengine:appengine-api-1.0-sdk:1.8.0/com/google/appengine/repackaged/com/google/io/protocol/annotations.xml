@@ -1,0 +1,1703 @@
+<root>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor void visitLong(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedLongExtension void write(java.lang.Long, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitFloat(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport boolean[] growArray(boolean[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.BooleanExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.StringExtension java.lang.Object readOne(java.nio.ByteBuffer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,java.lang.Integer&gt;, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessageEnum) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.StringExtension com.google.appengine.repackaged.com.google.io.protocol.ProtoString readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.UninterpretedTags com.google.appengine.repackaged.com.google.common.collect.Multimap&lt;java.lang.Integer,byte[]&gt; delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType java.util.List&lt;com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType&gt; getTags(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport java.util.List&lt;java.lang.Double&gt; asList(double[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtensionTags void addLengthDelimited(int, byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.DoubleExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.BooleanExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.HtmlFormGenerator.BasicFormInfo java.util.Map&lt;java.lang.String,java.lang.String&gt; getHiddenInputs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.IntegerExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink void putForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder addAll(java.lang.Iterable&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.MessageSet unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage Ex addExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,Ex&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.DoubleExtension void write(java.lang.Double, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Proto2ParserAdapter java.lang.Object parsePartialFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitInteger(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB java.util.Set&lt;java.lang.String&gt; findByFileName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.PrimitiveExtension T readOne(java.nio.ByteBuffer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FloatExtension void write(java.lang.Float, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.MessageSet add(int, com.google.appengine.repackaged.com.google.protobuf.MessageLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol long[] growArray(long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Proto2ParserAdapter com.google.appengine.repackaged.com.google.protobuf.MessageLite parsePartialFrom(com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitString(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol double[] growArray(double[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport int[] growArray(int[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink void putBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedLongExtension void write(java.lang.Long, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void visitString(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder addAllService(java.lang.Iterable&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage com.google.appengine.repackaged.com.google.io.protocol.RawMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolTextParser java.util.List&lt;T&gt; loadFromStreamStrict(java.io.InputStream, java.lang.String, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FloatExtension void write(java.lang.Float, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,java.lang.Integer&gt;, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessageEnum) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage boolean parseFrom(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolTextParser T parse(java.lang.CharSequence, T, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol int[] ensureCapacity(int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage com.google.appengine.repackaged.com.google.protobuf.ByteString toByteString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB, com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedLongExtension java.lang.Object readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.BooleanExtension int encodingSize(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource ProtocolSource(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport int[] ensureCapacity(int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitByteArray(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol float[] growArray(float[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor void visitRawMessage(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedIntegerExtension java.lang.Object readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.CategoryInformation java.lang.String getFullClassName(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet.FieldType void visit(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport byte[] freezeString(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB, com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage com.google.appengine.repackaged.com.google.io.protocol.RawMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.RawMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol boolean[] ensureCapacity(boolean[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.LongExtension java.lang.Object readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MissingFieldVisitor void visitGroup(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport double[] growArray(double[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink byte[] toArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.MessageSet add(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink void putPrefixedData(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.DoubleExtension void write(java.lang.Double, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void visitGroup(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension void write(java.util.List&lt;T&gt;, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,Ex&gt;, int, Ex) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet.FieldType void visit(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.StringExtension void write(com.google.appengine.repackaged.com.google.io.protocol.ProtoString, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.StringExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport boolean[] ensureCapacity(boolean[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB, com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.HtmlFormGenerator.FormInfo java.lang.String getSubmitButtonName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtensionTags void putAll(com.google.appengine.repackaged.com.google.io.protocol.ExtensionTags) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension java.util.List&lt;T&gt; readFromRepeatedTags(java.util.List&lt;java.nio.ByteBuffer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.IntegerExtension java.lang.Integer readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor void visitString(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.BooleanExtension java.lang.Boolean readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.DoubleExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.HtmlFormGenerator T handleFormSubmit(java.lang.String, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitByteArray(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, byte[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension java.util.List&lt;T&gt; merge(java.util.List&lt;T&gt;, java.util.List&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.StringExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Proto2ParserAdapter java.lang.Object parsePartialFrom(com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport float[] ensureCapacity(float[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolTextParser T parseCppCompatible(java.lang.CharSequence, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.LongExtension java.lang.Long readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder add(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.IntegerExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder addService(com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T addExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,java.lang.Integer&gt;, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessageEnum) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage com.google.appengine.repackaged.com.google.protobuf.Parser&lt;? extends com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitRawMessage(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType void setNthValue(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension java.lang.Object readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension T merge(T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolTextParser T parse(java.lang.CharSequence, java.lang.Class&lt;T&gt;, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType void visitInTagOrder(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage java.lang.String toString(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.PrintFlag...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension java.lang.Object readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.PrimitiveExtension int encodingSize(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void visitInteger(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitDouble(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AbstractVisitor void append(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport long[] ensureCapacity(long[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage T internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolTextParser T parse(java.lang.CharSequence, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension int encodingSize(P) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension java.lang.Object newValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage T newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol boolean[] growArray(boolean[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType void visitInternal(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor, java.lang.Iterable&lt;com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.LongExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.IntegerExtension int encodingSize(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T addExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,Ex&gt;, Ex) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol long[] growArray(long[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension java.lang.Object readOne(java.nio.ByteBuffer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,Ex&gt;, int, Ex)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T addExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,com.google.appengine.repackaged.com.google.io.protocol.ProtoString&gt;, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitLong(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void visitDouble(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType ProtocolType(java.lang.Class&lt;? extends com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage&gt;, java.lang.String, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.IntegerExtension java.lang.Object readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport T[] growArray(T[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void visitBoolean(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType int size(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension P merge(P, P)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.StringExtension int encodingSize(com.google.appengine.repackaged.com.google.io.protocol.ProtoString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol float[] ensureCapacity(float[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol long getVarLong(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FloatExtension java.lang.Float readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder addRecursively(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension int encodingSize(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitBoolean(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MissingFieldVisitor void visitGroup(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport java.util.List&lt;java.lang.Boolean&gt; asList(boolean[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension void write(P, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType void visitInternal(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor, java.lang.Iterable&lt;com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol double[] ensureCapacity(double[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension T newValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.PrimitiveExtension void write(T, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet.FieldType FieldType(java.lang.Class&lt;? extends com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension java.util.List&lt;T&gt; readFromRepeatedTags(java.util.List&lt;java.nio.ByteBuffer&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType java.util.List&lt;com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType&gt; getTags(java.lang.Class&lt;? extends com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType com.google.appengine.repackaged.com.google.io.protocol.ProtocolType newProtocolType(java.lang.Class&lt;? extends com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage&gt;, java.lang.String, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension void write(P, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType void visitInternal(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor, java.lang.Iterable&lt;com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource ProtocolSource(java.nio.ByteBuffer, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.PrimitiveExtension T readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,com.google.appengine.repackaged.com.google.io.protocol.ProtoString&gt;, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport java.lang.String freezeString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet T mutable(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType java.lang.Object getSingleValue(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol void putBoolean(boolean, java.nio.ByteBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolTextParser T parse(java.lang.CharSequence, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage byte[] toByteArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage boolean equalsIgnoreUninterpreted(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage void outputTo(java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension java.lang.Object readFromRepeatedTags(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol T[] growArray(T[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolTextParser java.util.List&lt;T&gt; loadFromFileStrictCppCompatible(java.lang.String, java.lang.String, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor void visitGroup(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitFloat(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.UninterpretedTags void addMessage(int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitGroup(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol java.util.List&lt;java.lang.Float&gt; asList(float[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor void visitInteger(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage void makeReadAccessThreadSafe(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void visitDouble(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage Ex getExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,Ex&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension P readFromRepeatedTags(java.util.List&lt;java.nio.ByteBuffer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,com.google.appengine.repackaged.com.google.io.protocol.ProtoString&gt;, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T clearExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,Ex&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.UninterpretedTags void addLengthDelimited(int, byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedIntegerExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder builder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension P readOne(java.nio.ByteBuffer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AbstractVisitor AbstractVisitor(java.lang.StringBuilder, java.lang.String, java.util.Set&lt;com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.PrintFlag&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage boolean equals(T, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage java.util.List&lt;Ex&gt; getMutableExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,Ex&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol double[] growArray(double[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol java.util.List&lt;java.lang.Double&gt; asList(double[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.PrimitiveExtension T readFromRepeatedTags(java.util.List&lt;java.nio.ByteBuffer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor AsciiVisitor(java.lang.StringBuilder, java.lang.String, java.util.Set&lt;com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.PrintFlag&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedIntegerExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType void visit(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageAppender void addMessage(int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitBoolean(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitGroup(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension int encodingSize(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol long[] ensureCapacity(long[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor void visitGroup(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor void visitDouble(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage void mergeToOther(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet T get(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.MessageSet add(int, com.google.appengine.repackaged.com.google.protobuf.MessageLite) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,com.google.appengine.repackaged.com.google.io.protocol.ProtoString&gt;, int, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.LongExtension void write(java.lang.Long, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage Ex getMutableExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,Ex&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport java.util.List&lt;java.lang.Float&gt; asList(float[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.IntegerExtension void write(java.lang.Integer, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol byte[] getPrefixedData(java.nio.ByteBuffer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MissingFieldVisitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitByteArray(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage com.google.appengine.repackaged.com.google.io.protocol.RawMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.RawMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol java.util.List&lt;java.lang.Boolean&gt; asList(boolean[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType void visit(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage void mergeTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.LongExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitLong(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.BooleanExtension void write(java.lang.Boolean, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.LongExtension void write(java.lang.Long, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void visitBoolean(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.IntegerExtension void write(java.lang.Integer, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol java.util.List&lt;java.lang.Integer&gt; asList(int[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage void outputTo(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.UninterpretedTags java.lang.Object delegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AbstractVisitor void visitRawMessage(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.DoubleExtension int encodingSize(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage void writeTo(java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.BooleanExtension void write(java.lang.Boolean, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage T mergeFrom(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage T unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport java.util.Iterator&lt;T&gt; emptyIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol void skipData(java.nio.ByteBuffer, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage boolean mergeFrom(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension int encodingSize(java.util.List&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MissingFieldVisitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolTextParser java.util.List&lt;T&gt; loadFromStreamStrictCppCompatible(java.io.InputStream, java.lang.String, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage T mergeFrom(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,Ex&gt;, Ex)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,com.google.appengine.repackaged.com.google.io.protocol.ProtoString&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.IntegerExtension int encodingSize(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension java.lang.Object merge(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void visitGroup(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.PrimitiveExtension void write(T, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedLongExtension java.lang.Long readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolTextParser java.util.List&lt;T&gt; loadFromFileStrict(java.lang.String, java.lang.String, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol void putVarLong(long, java.nio.ByteBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension java.lang.Object merge(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol boolean getBoolean(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension P merge(P, P) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource ProtocolSource(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AbstractVisitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage T clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol int[] growArray(int[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage Ex getExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,Ex&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport int[] growArray(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageAppender void addLengthDelimited(int, byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType void visit(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB java.util.Set&lt;java.lang.String&gt; findByFileName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void visitLong(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T addExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,java.lang.Integer&gt;, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessageEnum)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Proto2ParserAdapter T parsePartialFrom(byte[], int, int, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.GrowableProtocolSink void putBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitDouble(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage T freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.MessageSet add(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage boolean parseFrom(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void visitGroup(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.StringExtension void write(com.google.appengine.repackaged.com.google.io.protocol.ProtoString, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage com.google.appengine.repackaged.com.google.io.protocol.RawMessage getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Proto2ParserAdapter com.google.appengine.repackaged.com.google.protobuf.MessageLite parsePartialFrom(byte[], int, int, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FloatExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,com.google.appengine.repackaged.com.google.io.protocol.ProtoString&gt;, int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.BoundedAsciiVisitor void visitByteArray(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, byte[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.CategoryInformation T parse(java.lang.CharSequence, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.PrimitiveExtension T merge(T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.HtmlFormGenerator java.lang.String getSubmitButtonsMarkup(java.lang.String, java.lang.String...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,java.lang.Integer&gt;, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessageEnum) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder addService(com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void visitFloat(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension java.lang.Object merge(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.MessageSet getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Proto2ParserAdapter java.lang.Object parsePartialFrom(byte[], int, int, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource pop()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;E,T&gt; asRepeated()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FloatExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.StringExtension int encodingSize(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport T newInstance(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedIntegerExtension java.lang.Integer readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport long[] growArray(long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,com.google.appengine.repackaged.com.google.io.protocol.ProtoString&gt;, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType com.google.appengine.repackaged.com.google.io.protocol.ProtocolType newProtocolType(java.lang.Class&lt;? extends com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage&gt;, com.google.appengine.repackaged.com.google.common.base.Supplier&lt;java.lang.String&gt;, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.DoubleExtension java.lang.Double readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet.FieldType int size(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource byte[] getUninterpreted(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol void putPrefixedData(byte[], java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.BoundedAsciiVisitor void visitByteArray(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink toProtocolSink()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor void visitBoolean(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,java.lang.Integer&gt;, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessageEnum) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension T readOne(java.nio.ByteBuffer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.GrowableProtocolSink byte[] toArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.LongExtension int encodingSize(java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension void write(T, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.StringExtension java.lang.Object readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage com.google.appengine.repackaged.com.google.io.protocol.RawMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType void visit(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtensionTags void addMessage(int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport java.lang.String internString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol void putPrefixedData(byte[], java.nio.ByteBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder addAll(java.lang.Iterable&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void visitFloat(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void visitString(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport double[] ensureCapacity(double[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport java.util.List&lt;java.lang.Long&gt; asList(long[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,java.lang.Integer&gt;, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessageEnum)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.CategoryInformation java.lang.String getSimpleClassName(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType void visitInTagOrder(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitInteger(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolTextParser java.util.List&lt;T&gt; loadFromFile(java.lang.String, java.lang.String, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void visitByteArray(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, byte[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.HtmlFormGenerator.BasicFormInfo java.lang.String getSubmitButtonName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void visitGroup(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension void write(T, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder add(com.google.appengine.repackaged.com.google.io.protocol.proto.ProtocolDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FloatExtension java.lang.Object readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol void putString(java.lang.String, java.nio.ByteBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage void mergeFromOther(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T addExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,com.google.appengine.repackaged.com.google.io.protocol.ProtoString&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AbstractVisitor void header(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage boolean mergeFrom(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,com.google.appengine.repackaged.com.google.io.protocol.ProtoString&gt;, int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType com.google.appengine.repackaged.com.google.io.protocol.ProtocolType newProtocolType(java.lang.Class&lt;? extends com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage&gt;, java.lang.String, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,Ex&gt;, Ex) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol boolean[] growArray(boolean[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage void writeDelimitedTo(java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType void setSingleValue(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension java.lang.Object readFromRepeatedTags(java.util.List)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitGroup(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T addExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,java.lang.Integer&gt;, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessageEnum) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.LongExtension int encodingSize(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T addExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,com.google.appengine.repackaged.com.google.io.protocol.ProtoString&gt;, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage boolean equals(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType void visit(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor void visitString(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension int encodingSize(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.GrowableProtocolSink void putPrefixedData(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.BooleanExtension java.lang.Object readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension T merge(T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void visitByteArray(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,java.lang.Integer&gt;, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessageEnum)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet.FieldType java.lang.Object getSingleValue(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB java.util.Set&lt;java.lang.Integer&gt; findAllExtensionNumbers(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.MessageSet getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol int[] growArray(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T addExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,Ex&gt;, Ex)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension T readFromRepeatedTags(java.util.List&lt;java.nio.ByteBuffer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet int getTypeIdForMessage(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol byte[] getPrefixedData(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void header(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport java.util.List&lt;java.lang.Integer&gt; asList(int[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol int getVarInt(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitGroup(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType void visitInternal(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor, java.lang.Iterable&lt;com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport byte[] freezeString(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension java.util.List&lt;T&gt; merge(java.util.List&lt;T&gt;, java.util.List&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol float[] growArray(float[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource byte[] getPrefixedData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType com.google.appengine.repackaged.com.google.io.protocol.ProtocolType newProtocolType(java.lang.Class&lt;? extends com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage&gt;, com.google.appengine.repackaged.com.google.common.base.Supplier&lt;java.lang.String&gt;, com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.HtmlFormGenerator T handleFormSubmit(java.lang.String, java.lang.Class&lt;? extends T&gt;, T) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension P readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedIntegerExtension void write(java.lang.Integer, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension T readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void visitLong(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.HtmlFormGenerator.FormInfo java.util.Map&lt;java.lang.String,java.lang.String&gt; getHiddenInputs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldBaseType com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.WireType getWireType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedLongExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder addRecursively(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType void visitInternal(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor, java.lang.Iterable&lt;com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolTextParser java.util.List&lt;T&gt; loadFromStream(java.io.InputStream, java.lang.String, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void visitByteArray(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AbstractVisitor void visit(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.MessageSet mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.MessageSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB com.google.appengine.repackaged.com.google.io.protocol.ProtocolDB getEmptyDB()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.HtmlFormGenerator T handleFormSubmit(java.lang.String, java.lang.Class&lt;? extends T&gt;, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedIntegerExtension int encodingSize(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AbstractVisitor void visitForeign(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport float[] growArray(float[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport double[] growArray(double[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.MessageSet newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.protobuf.MessageLite get(int, com.google.appengine.repackaged.com.google.protobuf.MessageLite) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.MessageSet mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.MessageSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T addExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,com.google.appengine.repackaged.com.google.io.protocol.ProtoString&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport float[] growArray(float[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.DoubleExtension java.lang.Object readOne(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage T setExtension(com.google.appengine.repackaged.com.google.io.protocol.Extensions.Extension&lt;T,com.google.appengine.repackaged.com.google.io.protocol.ProtoString&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedLongExtension void write(java.lang.Object, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport boolean[] growArray(boolean[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension java.lang.Object readFromRepeatedTags(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol void putString(java.lang.String, java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitRawMessage(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.LazyParsingExtension void merge(com.google.appengine.repackaged.com.google.io.protocol.LazyParsingExtension) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.BaseMessageVisitor void visitByteArray(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, byte[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.AsciiVisitor void header(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolTextParser T parse(java.lang.CharSequence, T, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder com.google.appengine.repackaged.com.google.io.protocol.SimpleProtocolDB.Builder addAllService(java.lang.Iterable&lt;com.google.appengine.repackaged.com.google.io.protocol.proto.RPC_ServiceDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.RawMessage boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource push(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.MessageExtension java.lang.Object merge(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension java.util.List&lt;T&gt; newValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void visitByteArray(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, byte[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.MessageSet com.google.appengine.repackaged.com.google.io.protocol.MessageSet freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FloatExtension int encodingSize(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolSupport long[] growArray(long[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol void putVarInt(int, java.nio.ByteBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedIntegerExtension void write(java.lang.Integer, com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ExtendableProtocolMessage int extensionSize(com.google.appengine.repackaged.com.google.io.protocol.Extensions.RepeatedExtension&lt;T,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.CategoryInformation T parse(java.lang.CharSequence, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Protocol java.util.List&lt;java.lang.Long&gt; asList(long[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage.XmlVisitor void visitInteger(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.Visitor void visitFloat(com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType, int, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.StringExtension com.google.appengine.repackaged.com.google.io.protocol.ProtoString readOne(java.nio.ByteBuffer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.Extensions.FixedLongExtension int encodingSize(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.protocol.ProtocolType void visitInternal(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, com.google.appengine.repackaged.com.google.io.protocol.MessageVisitor, java.lang.Iterable&lt;com.google.appengine.repackaged.com.google.io.protocol.ProtocolType.FieldType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

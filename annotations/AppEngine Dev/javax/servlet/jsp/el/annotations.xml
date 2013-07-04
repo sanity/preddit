@@ -1,0 +1,32 @@
+<root>
+    <item name='javax.servlet.jsp.el.ScopedAttributeELResolver java.lang.Object getValue(javax.el.ELContext, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.el.ScopedAttributeELResolver void setValue(javax.el.ELContext, java.lang.Object, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.el.ScopedAttributeELResolver java.lang.Class&lt;java.lang.Object&gt; getType(javax.el.ELContext, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.el.ImplicitObjectELResolver java.lang.Object getValue(javax.el.ELContext, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.el.ImplicitObjectELResolver boolean isReadOnly(javax.el.ELContext, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.el.ELException ELException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.el.ImplicitObjectELResolver java.lang.Class getType(javax.el.ELContext, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.el.ImplicitObjectELResolver void setValue(javax.el.ELContext, java.lang.Object, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.el.ScopedAttributeELResolver java.util.Iterator&lt;java.beans.FeatureDescriptor&gt; getFeatureDescriptors(javax.el.ELContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.el.ScopedAttributeELResolver boolean isReadOnly(javax.el.ELContext, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

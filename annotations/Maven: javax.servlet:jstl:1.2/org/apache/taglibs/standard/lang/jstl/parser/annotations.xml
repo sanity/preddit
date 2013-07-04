@@ -1,0 +1,56 @@
+<root>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParser org.apache.taglibs.standard.lang.jstl.PropertySuffix PropertySuffix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParser org.apache.taglibs.standard.lang.jstl.parser.ParseException generateParseException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ParseException java.lang.String add_escapes(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.TokenMgrError TokenMgrError(boolean, int, int, int, java.lang.String, char, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParser org.apache.taglibs.standard.lang.jstl.BooleanLiteral BooleanLiteral()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParser org.apache.taglibs.standard.lang.jstl.FloatingPointLiteral FloatingPointLiteral()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParser org.apache.taglibs.standard.lang.jstl.NullLiteral NullLiteral()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParserTokenManager org.apache.taglibs.standard.lang.jstl.parser.Token getNextToken()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.TokenMgrError java.lang.String addEscapes(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParser org.apache.taglibs.standard.lang.jstl.ArraySuffix ArraySuffix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParser org.apache.taglibs.standard.lang.jstl.ValueSuffix ValueSuffix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.Token org.apache.taglibs.standard.lang.jstl.parser.Token newToken(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.SimpleCharStream char[] GetSuffix(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParser org.apache.taglibs.standard.lang.jstl.FunctionInvocation FunctionInvocation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParser org.apache.taglibs.standard.lang.jstl.IntegerLiteral IntegerLiteral()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParser org.apache.taglibs.standard.lang.jstl.Literal Literal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParser org.apache.taglibs.standard.lang.jstl.NamedValue NamedValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.parser.ELParser org.apache.taglibs.standard.lang.jstl.StringLiteral StringLiteral()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

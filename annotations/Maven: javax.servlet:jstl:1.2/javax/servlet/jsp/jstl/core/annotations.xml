@@ -1,0 +1,50 @@
+<root>
+    <item name='javax.servlet.jsp.jstl.core.Config void remove(javax.servlet.ServletContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.ConditionalTagSupport void setScope(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.Config void remove(javax.servlet.jsp.PageContext, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.Config void set(javax.servlet.jsp.PageContext, java.lang.String, java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.Config void set(javax.servlet.http.HttpSession, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.Config void set(javax.servlet.ServletRequest, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.LoopTagSupport java.lang.String getDelims()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.Config java.lang.Object find(javax.servlet.jsp.PageContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.Config java.lang.Object get(javax.servlet.ServletContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.Config void remove(javax.servlet.http.HttpSession, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.IteratedValueExpression java.lang.Class getExpectedType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.Config java.lang.Object get(javax.servlet.jsp.PageContext, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.Config void remove(javax.servlet.ServletRequest, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.Config java.lang.Object get(javax.servlet.ServletRequest, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.Config void set(javax.servlet.ServletContext, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.servlet.jsp.jstl.core.IndexedValueExpression java.lang.Class getExpectedType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

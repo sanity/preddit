@@ -1,0 +1,1343 @@
+<root>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder setValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.IURLFetchServiceFactoryProvider com.google.appengine.api.urlfetch.IURLFetchServiceFactory getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchService com.google.appengine.api.urlfetch.HTTPResponse fetch(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder addHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder addHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder addHeader(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setExternalBytesReceived(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setFinalUrlBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions.Builder com.google.appengine.api.urlfetch.FetchOptions doNotFollowRedirects()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder clearApiBytesReceived()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder clearHeader()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder addAllHeader(java.lang.Iterable&lt;? extends com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService.BlockingInterface newBlockingStub(com.google.appengine.repackaged.com.google.protobuf.BlockingRpcChannel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder clearDeadline()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setApiBytesReceived(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.HTTPRequest void setHeader(com.google.appengine.api.urlfetch.HTTPHeader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder setKeyBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3 com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3.ServiceParameters newBlockingService(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3.BlockingServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder newBuilder(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder newBuilder(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder mergeFrom(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setApiCpuMilliseconds(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setFinalUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setMethod(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.RequestMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setFinalUrl(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder clearApiCpuMilliseconds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder mergeFrom(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder clearHeader()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions com.google.appengine.api.urlfetch.FetchOptions followRedirects()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions.Builder com.google.appengine.api.urlfetch.FetchOptions withDefaults()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder setKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions.Builder com.google.appengine.api.urlfetch.FetchOptions doNotValidateCertificate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.IURLFetchServiceFactory com.google.appengine.api.urlfetch.URLFetchService getURLFetchService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setContentWasTruncated(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder clearKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder setKeyBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder newBuilder(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder setValueBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder addAllHeader(java.lang.Iterable&lt;? extends com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3 com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3.ServiceParameters newBlockingService(com.google.inject.Provider&lt;com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3.BlockingServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchService java.util.concurrent.Future&lt;com.google.appengine.api.urlfetch.HTTPResponse&gt; fetchAsync(com.google.appengine.api.urlfetch.HTTPRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder newBuilder(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder addHeader(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder addHeader(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService com.google.appengine.repackaged.com.google.protobuf.Service newReflectiveService(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService.Interface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder clearKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder addHeader(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder setValueBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder clearUrl()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions.Builder com.google.appengine.api.urlfetch.FetchOptions disallowTruncate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder clearMustValidateServerCertificate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchService com.google.appengine.api.urlfetch.HTTPResponse fetch(com.google.appengine.api.urlfetch.HTTPRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setPayload(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService com.google.appengine.repackaged.com.google.protobuf.Message getRequestPrototype(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder clearStatusCode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions com.google.appengine.api.urlfetch.FetchOptions doNotFollowRedirects()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions.Builder com.google.appengine.api.urlfetch.FetchOptions allowTruncate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setFinalUrlBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions.Builder com.google.appengine.api.urlfetch.FetchOptions validateCertificate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService com.google.appengine.repackaged.com.google.protobuf.Message getResponsePrototype(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder setKeyBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder setKeyBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder clearPayload()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions com.google.appengine.api.urlfetch.FetchOptions validateCertificate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder clearFinalUrl()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder setValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService com.google.appengine.repackaged.com.google.protobuf.BlockingService newReflectiveBlockingService(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService.BlockingInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder addHeader(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3 com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3.ServiceParameters newService(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3.ServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setDeadline(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder clearContentWasTruncated()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setUrl(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setStatusCode(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder addHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.RequestMethod com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.RequestMethod valueOf(com.google.appengine.repackaged.com.google.protobuf.Descriptors.EnumValueDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder addHeader(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder addAllHeader(java.lang.Iterable&lt;? extends com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setFollowRedirects(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService com.google.appengine.repackaged.com.google.protobuf.Message getRequestPrototype(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setContent(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder clearExternalBytesReceived()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder removeHeader(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder clearExternalBytesSent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder setKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder setKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.HTTPRequest void addHeader(com.google.appengine.api.urlfetch.HTTPHeader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setPayload(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchService com.google.appengine.api.urlfetch.HTTPResponse fetch(com.google.appengine.api.urlfetch.HTTPRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.IURLFetchServiceFactoryProvider java.lang.Object getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService com.google.appengine.repackaged.com.google.protobuf.Message getResponsePrototype(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder mergeFrom(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setUrlBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions.Builder com.google.appengine.api.urlfetch.FetchOptions followRedirects()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder removeHeader(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions com.google.appengine.api.urlfetch.FetchOptions setDeadline(java.lang.Double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder clearValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder addHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions com.google.appengine.api.urlfetch.FetchOptions allowTruncate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder clearMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder clearFollowRedirects()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder setKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setApiBytesSent(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setMethod(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.RequestMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setExternalBytesSent(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder addAllHeader(java.lang.Iterable&lt;? extends com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchService java.util.concurrent.Future&lt;com.google.appengine.api.urlfetch.HTTPResponse&gt; fetchAsync(com.google.appengine.api.urlfetch.HTTPRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder clearApiBytesSent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder newBuilder(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder setValueBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder mergeFrom(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService void callMethod(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor, com.google.appengine.repackaged.com.google.protobuf.RpcController, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.RpcCallback&lt;com.google.appengine.repackaged.com.google.protobuf.Message&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_Fetch()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3 com.google.net.rpc3.client.RpcStubDescriptor getStubDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setUrlBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder addHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setContent(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder setHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions com.google.appengine.api.urlfetch.FetchOptions disallowTruncate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder addHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions.Builder com.google.appengine.api.urlfetch.FetchOptions withDeadline(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder addHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder clearValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3 com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3.ServiceParameters newService(com.google.inject.Provider&lt;com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3.ServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder addHeader(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder clearContent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder setMustValidateServerCertificate(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder addHeader(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.FetchOptions com.google.appengine.api.urlfetch.FetchOptions doNotValidateCertificate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchService java.util.concurrent.Future&lt;com.google.appengine.api.urlfetch.HTTPResponse&gt; fetchAsync(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3 com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService_3.Stub newStub(com.google.net.rpc3.client.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder mergeFrom(com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder setValueBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder addHeader(int, com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.ErrorCode com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchServiceError.ErrorCode valueOf(com.google.appengine.repackaged.com.google.protobuf.Descriptors.EnumValueDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchService.Stub newStub(com.google.appengine.repackaged.com.google.protobuf.RpcChannel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchRequest.Header.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Header.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse com.google.appengine.api.urlfetch.URLFetchServicePb.URLFetchResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,422 @@
+<root>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getPseudoColumns(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.PreparedStatement prepareStatement(java.lang.String, int[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getPrimaryKeys(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getSuperTables(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.ResultSet java.io.InputStream getAsciiStream(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setCharacterStream(int, java.io.Reader, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void throwIfNotOfClass(java.lang.Object, java.lang.String, java.lang.Class&lt;?&gt;...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement char[] toCharArray(java.io.Reader, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getUDTs(java.lang.String, java.lang.String, java.lang.String, int[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.ResultSet com.google.cloud.sql.jdbc.internal.SqlRpcOptions getRpcOptions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.PreparedStatement prepareStatement(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getVersionColumns(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.StreamingResultSet StreamingResultSet(com.google.cloud.sql.jdbc.Statement, com.google.protos.cloud.sql.Client.ResultProto, java.sql.SQLWarning, java.lang.String, com.google.cloud.sql.jdbc.internal.SqlRpcOptions, long) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setClob(int, java.io.Reader, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.ResultSet ResultSet(com.google.cloud.sql.jdbc.Statement, java.util.List&lt;com.google.protos.cloud.sql.Client.TupleProto&gt;, java.util.List&lt;com.google.protos.cloud.sql.Client.ColumnProto&gt;, java.sql.SQLWarning, java.lang.String, com.google.cloud.sql.jdbc.internal.SqlRpcOptions) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement java.lang.Number boolAsNumber(java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getTablePrivileges(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setCharacterStream(int, java.io.Reader) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.DatabaseMetaData getMetaData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.CallableStatement void setObject(java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getExportedKeys(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getVersionColumns(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.PreparedStatement prepareStatement(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.Savepoint setSavepoint()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getSuperTypes(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getSuperTypes(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getImportedKeys(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getCrossReference(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getProcedureColumns(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getClientInfoProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getColumnPrivileges(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getTypeInfo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.ResultSet T getObject(int, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getSchemas()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getTablePrivileges(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.Savepoint setSavepoint(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.CallableStatement java.io.Reader getCharacterStream(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Statement java.sql.ResultSet getGeneratedKeys()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setAsciiStream(int, java.io.InputStream, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getProcedureColumns(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.PreparedStatement prepareStatement(java.lang.String, java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.ResultSet ResultSet(com.google.cloud.sql.jdbc.Statement, java.util.List&lt;com.google.protos.cloud.sql.Client.TupleProto&gt;, java.util.List&lt;com.google.protos.cloud.sql.Client.ColumnProto&gt;, java.sql.SQLWarning, java.lang.String, com.google.cloud.sql.jdbc.internal.SqlRpcOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getProcedures(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.PreparedStatement prepareStatement(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setAsciiStream(int, java.io.InputStream, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.Savepoint setSavepoint(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setClob(int, java.io.Reader) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getSuperTables(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.ResultSet T getObject(java.lang.String, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getImportedKeys(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.Savepoint setSavepoint()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Statement int[] executeBatch()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getBestRowIdentifier(java.lang.String, java.lang.String, java.lang.String, int, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getColumns(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.Statement createStatement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getFunctionColumns(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.lang.String nativeSQL(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement java.math.BigDecimal toBigDecimal(java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getColumnPrivileges(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.Statement createStatement(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.lang.String getDriverName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setNClob(int, java.io.Reader, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getColumns(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setAsciiStream(int, java.io.InputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getTableTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setNCharacterStream(int, java.io.Reader) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.Statement createStatement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.CallableStatement prepareCall(java.lang.String, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.Clob createClob()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setBlob(int, java.io.InputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getProcedures(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.Statement createStatement(int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getIndexInfo(java.lang.String, java.lang.String, java.lang.String, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getFunctions(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getCatalogs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.NClob createNClob()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getIndexInfo(java.lang.String, java.lang.String, java.lang.String, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.CallableStatement T getObject(java.lang.String, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getCrossReference(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.ResultSet ResultSet(com.google.cloud.sql.jdbc.Statement, java.util.List&lt;com.google.protos.cloud.sql.Client.TupleProto&gt;, java.util.List&lt;com.google.protos.cloud.sql.Client.ColumnProto&gt;, java.sql.SQLWarning, java.lang.String, com.google.cloud.sql.jdbc.internal.SqlRpcOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getCatalogs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.StreamingResultSet StreamingResultSet(com.google.cloud.sql.jdbc.Statement, com.google.protos.cloud.sql.Client.ResultProto, java.sql.SQLWarning, java.lang.String, com.google.cloud.sql.jdbc.internal.SqlRpcOptions, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getAttributes(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.util.Properties getClientInfo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Statement java.sql.Connection getConnection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.ResultSet java.io.InputStream getAsciiStream(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.RowIdLifetime toRowIdLifetime(com.google.protos.cloud.sql.Client.JdbcDatabaseMetaDataProto.RowIdLifetime) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setNCharacterStream(int, java.io.Reader, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.CallableStatement prepareCall(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement java.sql.ParameterMetaData getParameterMetaData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getSchemas(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.PreparedStatement prepareStatement(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.CallableStatement prepareCall(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getTypeInfo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.ResultSet java.sql.ResultSetMetaData getMetaData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.Statement createStatement(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getAttributes(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.PreparedStatement prepareStatement(java.lang.String, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getSchemas(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.CallableStatement prepareCall(java.lang.String, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setBinaryStream(int, java.io.InputStream, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.PreparedStatement prepareStatement(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.PreparedStatement prepareStatement(java.lang.String, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement byte[] toByteArray(java.io.InputStream, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getBestRowIdentifier(java.lang.String, java.lang.String, java.lang.String, int, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getTables(java.lang.String, java.lang.String, java.lang.String, java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.PreparedStatement prepareStatement(java.lang.String, java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.DatabaseMetaData getMetaData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getExportedKeys(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getFunctions(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setCharacterStream(int, java.io.Reader, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.CallableStatement prepareCall(java.lang.String, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void throwIfNotOfClass(java.lang.Object, java.lang.String, java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getTables(java.lang.String, java.lang.String, java.lang.String, java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getSchemas()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getClientInfoProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setBlob(int, java.io.InputStream, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.CallableStatement prepareCall(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData java.sql.ResultSet getUDTs(java.lang.String, java.lang.String, java.lang.String, int[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.ResultSet com.google.cloud.sql.jdbc.ResultSetMetaData getMetaData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.CallableStatement java.io.Reader getNCharacterStream(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection void setCatalog(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getFunctionColumns(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection java.sql.Blob createBlob()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Statement com.google.cloud.sql.jdbc.Connection getConnection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setNClob(int, java.io.Reader) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Driver java.sql.DriverPropertyInfo[] getPropertyInfo(java.lang.String, java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setBinaryStream(int, java.io.InputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.CallableStatement java.io.Reader getNCharacterStream(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.CallableStatement T getObject(int, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getTableTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.CallableStatement java.io.Reader getCharacterStream(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.Statement createStatement(int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.PreparedStatement prepareStatement(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.PreparedStatement void setBinaryStream(int, java.io.InputStream, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Statement int[] executeBatchImpl(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection Connection(com.google.cloud.sql.jdbc.internal.Url, com.google.cloud.sql.jdbc.internal.SqlClient, com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.Connection com.google.cloud.sql.jdbc.PreparedStatement prepareStatement(java.lang.String, int[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.DatabaseMetaData com.google.cloud.sql.jdbc.ResultSet getPrimaryKeys(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.StreamingResultSet StreamingResultSet(com.google.cloud.sql.jdbc.Statement, com.google.protos.cloud.sql.Client.ResultProto, java.sql.SQLWarning, java.lang.String, com.google.cloud.sql.jdbc.internal.SqlRpcOptions, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,32 @@
+<root>
+    <item name='com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock CidrAddressBlock(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock CidrAddressBlock(java.net.InetAddress) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock java.util.Iterator&lt;java.net.InetAddress&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock create(java.net.InetAddress, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock create(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock create(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock CidrAddressBlock(java.net.InetAddress, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock CidrAddressBlock(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock java.net.InetAddress getInetAddress()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock com.google.appengine.repackaged.com.google.net.base.CidrAddressBlock create(java.net.InetAddress, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

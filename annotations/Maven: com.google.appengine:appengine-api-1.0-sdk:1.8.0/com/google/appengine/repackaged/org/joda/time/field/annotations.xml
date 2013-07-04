@@ -1,0 +1,392 @@
+<root>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.PreciseDateTimeField com.google.appengine.repackaged.org.joda.time.DurationField getRangeDurationField()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.MillisDurationField com.google.appengine.repackaged.org.joda.time.DurationFieldType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DecoratedDurationField com.google.appengine.repackaged.org.joda.time.DurationField getWrappedField()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDurationField DelegatedDurationField(com.google.appengine.repackaged.org.joda.time.DurationField, com.google.appengine.repackaged.org.joda.time.DurationFieldType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.OffsetDateTimeField OffsetDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.SkipDateTimeField SkipDateTimeField(com.google.appengine.repackaged.org.joda.time.Chronology, com.google.appengine.repackaged.org.joda.time.DateTimeField, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField com.google.appengine.repackaged.org.joda.time.DateTimeFieldType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.MillisDurationField int compareTo(com.google.appengine.repackaged.org.joda.time.DurationField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.SkipUndoDateTimeField SkipUndoDateTimeField(com.google.appengine.repackaged.org.joda.time.Chronology, com.google.appengine.repackaged.org.joda.time.DateTimeField, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField int[] addWrapField(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDurationField com.google.appengine.repackaged.org.joda.time.DurationFieldType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.OffsetDateTimeField OffsetDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, int, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.ImpreciseDateTimeField ImpreciseDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField int[] addWrapField(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], java.lang.String, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.RemainderDateTimeField RemainderDateTimeField(com.google.appengine.repackaged.org.joda.time.field.DividedDateTimeField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DecoratedDateTimeField DecoratedDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField DelegatedDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField java.lang.String getAsText(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField int[] addWrapField(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], java.lang.String, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField java.lang.String getAsShortText(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.StrictDateTimeField StrictDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField java.lang.String getAsText(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField DelegatedDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField int[] addWrapField(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DecoratedDateTimeField DecoratedDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.AbstractReadableInstantFieldProperty int compareTo(com.google.appengine.repackaged.org.joda.time.ReadableInstant) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DecoratedDurationField DecoratedDurationField(com.google.appengine.repackaged.org.joda.time.DurationField, com.google.appengine.repackaged.org.joda.time.DurationFieldType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.OffsetDateTimeField OffsetDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.ImpreciseDateTimeField com.google.appengine.repackaged.org.joda.time.DurationField getDurationField()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.ScaledDurationField ScaledDurationField(com.google.appengine.repackaged.org.joda.time.DurationField, com.google.appengine.repackaged.org.joda.time.DurationFieldType, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.RemainderDateTimeField RemainderDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField com.google.appengine.repackaged.org.joda.time.DateTimeField getWrappedField()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.PreciseDateTimeField PreciseDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, com.google.appengine.repackaged.org.joda.time.DurationField, com.google.appengine.repackaged.org.joda.time.DurationField) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDurationField BaseDurationField(com.google.appengine.repackaged.org.joda.time.DurationFieldType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.LenientDateTimeField LenientDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.Chronology) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DecoratedDurationField DecoratedDurationField(com.google.appengine.repackaged.org.joda.time.DurationField, com.google.appengine.repackaged.org.joda.time.DurationFieldType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField int[] addWrapField(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DecoratedDateTimeField com.google.appengine.repackaged.org.joda.time.DateTimeField getWrappedField()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.AbstractPartialFieldProperty int compareTo(com.google.appengine.repackaged.org.joda.time.ReadablePartial) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField int getMaximumValue(com.google.appengine.repackaged.org.joda.time.ReadablePartial) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.OffsetDateTimeField OffsetDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.AbstractPartialFieldProperty int compareTo(com.google.appengine.repackaged.org.joda.time.ReadableInstant) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.SkipDateTimeField SkipDateTimeField(com.google.appengine.repackaged.org.joda.time.Chronology, com.google.appengine.repackaged.org.joda.time.DateTimeField) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], java.lang.String, java.util.Locale) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField int[] addWrapField(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.PreciseDurationDateTimeField PreciseDurationDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, com.google.appengine.repackaged.org.joda.time.DurationField) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.PreciseDurationDateTimeField com.google.appengine.repackaged.org.joda.time.DurationField getDurationField()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDurationField com.google.appengine.repackaged.org.joda.time.DurationField getWrappedField()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.RemainderDateTimeField RemainderDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField getInstance(com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, com.google.appengine.repackaged.org.joda.time.DurationField)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.OffsetDateTimeField OffsetDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.ZeroIsMaxDateTimeField int getMaximumValue(com.google.appengine.repackaged.org.joda.time.ReadablePartial) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.ZeroIsMaxDateTimeField int[] addWrapField(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField java.lang.String getAsText(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.MillisDurationField int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.PreciseDurationDateTimeField PreciseDurationDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, com.google.appengine.repackaged.org.joda.time.DurationField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField int getMaximumValue(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.PreciseDateTimeField PreciseDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, com.google.appengine.repackaged.org.joda.time.DurationField, com.google.appengine.repackaged.org.joda.time.DurationField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.AbstractReadableInstantFieldProperty int compareTo(com.google.appengine.repackaged.org.joda.time.ReadablePartial) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField int getMaximumValue(com.google.appengine.repackaged.org.joda.time.ReadablePartial) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField int getMaximumValue(com.google.appengine.repackaged.org.joda.time.ReadablePartial) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField BaseDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeFieldType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.ScaledDurationField ScaledDurationField(com.google.appengine.repackaged.org.joda.time.DurationField, com.google.appengine.repackaged.org.joda.time.DurationFieldType, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDurationField DelegatedDurationField(com.google.appengine.repackaged.org.joda.time.DurationField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], java.lang.String, java.util.Locale)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.PreciseDateTimeField PreciseDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, com.google.appengine.repackaged.org.joda.time.DurationField, com.google.appengine.repackaged.org.joda.time.DurationField) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], java.lang.String, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DividedDateTimeField DividedDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField int[] addWrapField(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.PreciseDurationField PreciseDurationField(com.google.appengine.repackaged.org.joda.time.DurationFieldType, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.ZeroIsMaxDateTimeField int getMaximumValue(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.ZeroIsMaxDateTimeField int[] addWrapField(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], java.lang.String, java.util.Locale) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.RemainderDateTimeField RemainderDateTimeField(com.google.appengine.repackaged.org.joda.time.field.DividedDateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField int getMaximumValue(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DividedDateTimeField DividedDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DividedDateTimeField DividedDateTimeField(com.google.appengine.repackaged.org.joda.time.field.RemainderDateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.SkipUndoDateTimeField SkipUndoDateTimeField(com.google.appengine.repackaged.org.joda.time.Chronology, com.google.appengine.repackaged.org.joda.time.DateTimeField) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDurationField com.google.appengine.repackaged.org.joda.time.field.UnsupportedDurationField getInstance(com.google.appengine.repackaged.org.joda.time.DurationFieldType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.MillisDurationField java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDurationField int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.ZeroIsMaxDateTimeField ZeroIsMaxDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField com.google.appengine.repackaged.org.joda.time.DurationField getDurationField()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.RemainderDateTimeField RemainderDateTimeField(com.google.appengine.repackaged.org.joda.time.field.DividedDateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField int[] set(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int, int[], java.lang.String, java.util.Locale) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField java.lang.String getAsShortText(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDurationField int compareTo(com.google.appengine.repackaged.org.joda.time.DurationField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.MillisDurationField java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.AbstractReadableInstantFieldProperty com.google.appengine.repackaged.org.joda.time.Interval toInterval()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DelegatedDateTimeField int getMaximumValue(com.google.appengine.repackaged.org.joda.time.ReadablePartial, int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.UnsupportedDateTimeField com.google.appengine.repackaged.org.joda.time.DateTimeFieldType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.BaseDateTimeField java.lang.String getAsShortText(com.google.appengine.repackaged.org.joda.time.ReadablePartial, java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.ZeroIsMaxDateTimeField ZeroIsMaxDateTimeField(com.google.appengine.repackaged.org.joda.time.DateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.field.DividedDateTimeField DividedDateTimeField(com.google.appengine.repackaged.org.joda.time.field.RemainderDateTimeField, com.google.appengine.repackaged.org.joda.time.DateTimeFieldType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

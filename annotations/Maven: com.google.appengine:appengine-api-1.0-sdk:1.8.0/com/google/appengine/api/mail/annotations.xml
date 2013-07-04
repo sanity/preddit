@@ -1,0 +1,725 @@
+<root>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.api.mail.MailServicePb.MailServiceError getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setCc(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setHtmlBody(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.IMailServiceFactoryProvider com.google.appengine.api.mail.IMailServiceFactory getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.api.mail.MailServicePb.MailServiceError mergeFrom(com.google.appengine.api.mail.MailServicePb.MailServiceError) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig exportService(com.google.appengine.api.mail.MailServicePb.MailService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setHtmlBody(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader mergeFrom(com.google.appengine.api.mail.MailServicePb.MailHeader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailService.Header java.lang.String getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage clearSender()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addCc(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setReplyToAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage clearCc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader setValue(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailService.Attachment Attachment(java.lang.String, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.appengine.api.mail.MailServicePb.MailService.Stub newStub(com.google.net.rpc.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addCc(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setBcc(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setSubject(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addTo(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addBccAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment setData(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setCc(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailService.Attachment Attachment(java.lang.String, byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader setValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader clearValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService void exportBlockingServiceUsingConfig(com.google.appengine.api.mail.MailServicePb.MailService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.api.mail.MailServicePb.MailServiceError mergeFrom(com.google.appengine.api.mail.MailServicePb.MailServiceError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addBcc(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment setData(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService void exportBlockingServiceUsingConfig(com.google.appengine.api.mail.MailServicePb.MailService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment setFileName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setTextBodyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.IMailServiceFactory com.google.appengine.api.mail.MailService getMailService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setSubject(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailService void send(com.google.appengine.api.mail.MailService.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailService void sendToAdmins(com.google.appengine.api.mail.MailService.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setSenderAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.IMailServiceFactoryProvider java.lang.Object getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addBcc(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setTo(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_Send()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService_3 com.google.appengine.api.mail.MailServicePb.MailService_3.ServiceParameters newBlockingService(com.google.inject.Provider&lt;com.google.appengine.api.mail.MailServicePb.MailService_3.BlockingServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment clearData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setSubject(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.mail.MailServicePb.MailMessage&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setSubject(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig exportBlockingService(com.google.appengine.api.mail.MailServicePb.MailService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setCc(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addCc(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addBcc(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService.BlockingStub com.google.apphosting.api.ApiBasePb.VoidProto send(com.google.net.rpc.RPC, com.google.appengine.api.mail.MailServicePb.MailMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage clearReplyTo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setReplyTo(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setHtmlBody(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setBcc(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_SendToAdmins()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailAttachment addAttachment()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService_3 com.google.appengine.api.mail.MailServicePb.MailService_3.Stub newStub(com.google.net.rpc3.client.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailService.Header Header(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setSender(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage mergeFrom(com.google.appengine.api.mail.MailServicePb.MailMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig exportService(com.google.appengine.api.mail.MailServicePb.MailService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailHeader addHeader()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addTo(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService_3 com.google.appengine.api.mail.MailServicePb.MailService_3.ServiceParameters newService(com.google.inject.Provider&lt;com.google.appengine.api.mail.MailServicePb.MailService_3.ServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment setFileName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailService.Header Header(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader setName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment mergeFrom(com.google.appengine.api.mail.MailServicePb.MailAttachment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addCc(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setSender(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setCcAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addCcAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig exportBlockingService(com.google.appengine.api.mail.MailServicePb.MailService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addTo(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setReplyTo(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService.BlockingInterface com.google.apphosting.api.ApiBasePb.VoidProto sendToAdmins(com.google.net.rpc.RPC, com.google.appengine.api.mail.MailServicePb.MailMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment mergeFrom(com.google.appengine.api.mail.MailServicePb.MailAttachment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setSender(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.BounceNotificationParser com.google.appengine.api.mail.BounceNotification parse(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setCc(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailService.Attachment byte[] getData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService void exportServiceUsingConfig(com.google.appengine.api.mail.MailServicePb.MailService.Interface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setTextBody(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig exportService(com.google.appengine.api.mail.MailServicePb.MailService.Interface, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService void exportServiceUsingConfig(com.google.appengine.api.mail.MailServicePb.MailService.Interface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage clearHeader()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.api.mail.MailServicePb.MailServiceError internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig exportBlockingService(com.google.appengine.api.mail.MailServicePb.MailService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setTo(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setTextBody(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setReplyTo(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService_3 com.google.appengine.api.mail.MailServicePb.MailService_3.ServiceParameters newService(com.google.appengine.api.mail.MailServicePb.MailService_3.ServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment setFileNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage clearAttachment()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setTextBody(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setHtmlBodyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService void exportBlockingServiceUsingConfig(com.google.appengine.api.mail.MailServicePb.MailService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setBccAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setToAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.mail.MailServicePb.MailAttachment&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService.BlockingStub com.google.apphosting.api.ApiBasePb.VoidProto sendToAdmins(com.google.net.rpc.RPC, com.google.appengine.api.mail.MailServicePb.MailMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.mail.MailServicePb.MailHeader&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService void exportServiceUsingConfig(com.google.appengine.api.mail.MailServicePb.MailService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailService.Header java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment setFileName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService void exportBlockingServiceUsingConfig(com.google.appengine.api.mail.MailServicePb.MailService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService void exportServiceUsingConfig(com.google.appengine.api.mail.MailServicePb.MailService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setTextBody(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage mergeFrom(com.google.appengine.api.mail.MailServicePb.MailMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.api.mail.MailServicePb.MailServiceError getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader setValueAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage clearHtmlBody()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setTo(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService.BlockingInterface com.google.apphosting.api.ApiBasePb.VoidProto send(com.google.net.rpc.RPC, com.google.appengine.api.mail.MailServicePb.MailMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment setData(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment setData(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.mail.MailServicePb.MailServiceError&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader setName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setBcc(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig exportBlockingService(com.google.appengine.api.mail.MailServicePb.MailService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage clearBcc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader setValue(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader mergeFrom(com.google.appengine.api.mail.MailServicePb.MailHeader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage clearSubject()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService_3 com.google.appengine.api.mail.MailServicePb.MailService_3.ServiceParameters newBlockingService(com.google.appengine.api.mail.MailServicePb.MailService_3.BlockingServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailService.Attachment java.lang.String getFileName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.appengine.api.mail.MailServicePb.MailService.ServerConfig exportService(com.google.appengine.api.mail.MailServicePb.MailService.Interface, com.google.net.rpc3.server.RpcServer.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addBcc(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailHeader com.google.appengine.api.mail.MailServicePb.MailHeader setNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setSender(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage clearTextBody()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.appengine.api.mail.MailServicePb.MailService.BlockingStub newBlockingStub(com.google.net.rpc.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService_3 com.google.net.rpc3.client.RpcStubDescriptor getStubDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment setDataAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addToAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage clearTo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.net.rpc.RpcService newService(com.google.appengine.api.mail.MailServicePb.MailService.Interface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.net.rpc.RpcStubFactory stubFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage addTo(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setTo(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService com.google.net.rpc.RpcService newBlockingService(com.google.appengine.api.mail.MailServicePb.MailService.BlockingInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailServiceError com.google.appengine.api.mail.MailServicePb.MailServiceError newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment setFileName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setBcc(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailService void unexport(com.google.net.rpc.impl.RpcHandlerRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setSubjectAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setReplyTo(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailMessage com.google.appengine.api.mail.MailServicePb.MailMessage setHtmlBody(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.mail.MailServicePb.MailAttachment com.google.appengine.api.mail.MailServicePb.MailAttachment clearFileName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

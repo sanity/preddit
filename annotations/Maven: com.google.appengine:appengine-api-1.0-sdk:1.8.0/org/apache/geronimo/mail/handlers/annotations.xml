@@ -1,0 +1,50 @@
+<root>
+    <item name='org.apache.geronimo.mail.handlers.MultipartHandler void writeTo(java.lang.Object, java.lang.String, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.geronimo.mail.handlers.MultipartHandler java.lang.Object getTransferData(java.awt.datatransfer.DataFlavor, javax.activation.DataSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.geronimo.mail.handlers.MessageHandler java.awt.datatransfer.DataFlavor[] getTransferDataFlavors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.geronimo.mail.handlers.MultipartHandler java.lang.Object getContent(javax.activation.DataSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.geronimo.mail.handlers.MessageHandler java.lang.Object getContent(javax.activation.DataSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.geronimo.mail.handlers.TextHandler java.lang.Object getContent(javax.activation.DataSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.geronimo.mail.handlers.MessageHandler void writeTo(java.lang.Object, java.lang.String, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.geronimo.mail.handlers.TextHandler java.lang.Object getTransferData(java.awt.datatransfer.DataFlavor, javax.activation.DataSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.geronimo.mail.handlers.MultipartHandler java.awt.datatransfer.DataFlavor[] getTransferDataFlavors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.geronimo.mail.handlers.TextHandler void writeTo(java.lang.Object, java.lang.String, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.geronimo.mail.handlers.TextHandler java.awt.datatransfer.DataFlavor[] getTransferDataFlavors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.geronimo.mail.handlers.MessageHandler java.lang.Object getTransferData(java.awt.datatransfer.DataFlavor, javax.activation.DataSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

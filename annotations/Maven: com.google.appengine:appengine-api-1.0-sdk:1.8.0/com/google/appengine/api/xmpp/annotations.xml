@@ -1,0 +1,1535 @@
+<root>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse clearStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.SubscriptionBuilder com.google.appengine.api.xmpp.SubscriptionBuilder withFromJid(com.google.appengine.api.xmpp.JID)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest setJid(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setStatus(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.net.rpc.RpcService newBlockingService(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.SubscriptionBuilder com.google.appengine.api.xmpp.SubscriptionBuilder withStanza(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService com.google.appengine.api.xmpp.Subscription parseSubscription(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.MessageBuilder com.google.appengine.api.xmpp.MessageBuilder asXml(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest clearFromJid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.ErrorBuilder com.google.appengine.api.xmpp.ErrorBuilder withFromJid(com.google.appengine.api.xmpp.JID)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest setFromJidAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest setJidAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_CreateChannel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse java.util.List&lt;java.lang.Integer&gt; mutableStatuss()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.IXMPPServiceFactoryProvider com.google.appengine.api.xmpp.IXMPPServiceFactory getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setFromJid(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingStub com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse sendPresence(com.google.net.rpc.RPC, com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse setPresence(com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse.SHOW)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.SendResponse java.util.Map&lt;com.google.appengine.api.xmpp.JID,com.google.appengine.api.xmpp.SendResponse.Status&gt; getStatusMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.MessageBuilder com.google.appengine.api.xmpp.MessageBuilder withRecipientJids(com.google.appengine.api.xmpp.JID...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingStub com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse sendInvite(com.google.net.rpc.RPC, com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.appengine.api.xmpp.XMPPServicePb.XmppService.Stub newStub(com.google.net.rpc.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest clearFromJid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest addJidAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService com.google.appengine.api.xmpp.Presence getPresence(com.google.appengine.api.xmpp.JID) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse setStatus(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setJid(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingStub newBlockingStub(com.google.net.rpc.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest setFromJid(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setFromJid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest clearType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest setJid(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setShow(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest clearType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse getPresence(com.google.net.rpc.RPC, com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest clearFromJid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse clearIsAvailable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingStub com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse getPresence(com.google.net.rpc.RPC, com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest setJid(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.PresenceBuilder com.google.appengine.api.xmpp.PresenceBuilder withFromJid(com.google.appengine.api.xmpp.JID)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest clearStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest clearFromJid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService com.google.appengine.api.xmpp.SendResponse sendMessage(com.google.appengine.api.xmpp.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest clearJid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3 com.google.net.rpc3.client.RpcStubDescriptor getStubDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService com.google.appengine.api.xmpp.Presence parsePresence(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.SubscriptionBuilder com.google.appengine.api.xmpp.Subscription build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService void exportBlockingServiceUsingConfig(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest addJid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService void sendInvitation(com.google.appengine.api.xmpp.JID) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest setFromJid(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService com.google.appengine.api.xmpp.Presence parsePresence(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3 com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServiceParameters newService(com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse setIsAvailable(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService void exportBlockingServiceUsingConfig(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService java.util.List&lt;com.google.appengine.api.xmpp.Presence&gt; getPresence(java.lang.Iterable&lt;com.google.appengine.api.xmpp.JID&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse clearPresenceResponse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest addJid(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse addStatus(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService com.google.appengine.api.xmpp.Presence getPresence(com.google.appengine.api.xmpp.JID)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.ErrorBuilder com.google.appengine.api.xmpp.Error build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingStub com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse sendMessage(com.google.net.rpc.RPC, com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.SubscriptionBuilder com.google.appengine.api.xmpp.SubscriptionBuilder withToJid(com.google.appengine.api.xmpp.JID)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService void unexport(com.google.net.rpc.impl.RpcHandlerRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest clearJid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3 com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServiceParameters newService(com.google.inject.Provider&lt;com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setRawXml(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.PresenceBuilder com.google.appengine.api.xmpp.Presence build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setFromJid(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.SubscriptionBuilder com.google.appengine.api.xmpp.SubscriptionBuilder withSubscriptionType(com.google.appengine.api.xmpp.SubscriptionType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse sendMessage(com.google.net.rpc.RPC, com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3 com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServiceParameters newBlockingService(com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.BlockingServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest setJid(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest addJid(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig exportBlockingService(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest setFromJid(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.MessageBuilder com.google.appengine.api.xmpp.MessageBuilder withMessageType(com.google.appengine.api.xmpp.MessageType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingStub com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse bulkGetPresence(com.google.net.rpc.RPC, com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest clearJid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setShow(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setJidAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse sendPresence(com.google.net.rpc.RPC, com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_SendMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.PresenceShow com.google.appengine.api.xmpp.PresenceShow fromPresenceResponseEnum(com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse.SHOW)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingStub com.google.apphosting.api.ApiBasePb.VoidProto sendChannelMessage(com.google.net.rpc.RPC, com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setShow(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setJid(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.IXMPPServiceFactoryProvider java.lang.Object getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest setJid(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest setFromJid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.MessageBuilder com.google.appengine.api.xmpp.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.PresenceShow com.google.appengine.api.xmpp.PresenceShow fromPresenceResponseEnum(com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse.SHOW) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setType(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest clearBody()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.IXMPPServiceFactory com.google.appengine.api.xmpp.XMPPService getXMPPService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setFromJid(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService com.google.appengine.api.xmpp.Presence getPresence(com.google.appengine.api.xmpp.JID, com.google.appengine.api.xmpp.JID) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest addJidAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface com.google.apphosting.api.ApiBasePb.VoidProto sendChannelMessage(com.google.net.rpc.RPC, com.google.appengine.api.channel.ChannelServicePb.SendMessageRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService void exportServiceUsingConfig(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_SendChannelMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest setFromJid(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setFromJid(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest clearJid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService com.google.appengine.api.xmpp.Presence getPresence(com.google.appengine.api.xmpp.JID, com.google.appengine.api.xmpp.JID)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setJid(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService com.google.appengine.api.xmpp.Message parseMessage(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.MessageBuilder com.google.appengine.api.xmpp.MessageBuilder withFromJid(com.google.appengine.api.xmpp.JID)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.PresenceBuilder com.google.appengine.api.xmpp.PresenceBuilder withToJid(com.google.appengine.api.xmpp.JID)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService void exportServiceUsingConfig(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig exportBlockingService(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setType(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.PresenceBuilder com.google.appengine.api.xmpp.PresenceBuilder withStatus(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_BulkGetPresence()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest setFromJid(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.MessageBuilder com.google.appengine.api.xmpp.MessageBuilder withBody(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setBody(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.ErrorBuilder com.google.appengine.api.xmpp.ErrorBuilder withStanza(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest setFromJid(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setJid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setType(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest setJid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest setJid(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest clearJid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3 com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServiceParameters newBlockingService(com.google.inject.Provider&lt;com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.BlockingServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_SendPresence()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService void sendPresence(com.google.appengine.api.xmpp.JID, com.google.appengine.api.xmpp.PresenceType, com.google.appengine.api.xmpp.PresenceShow, java.lang.String, com.google.appengine.api.xmpp.JID) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService com.google.appengine.api.xmpp.SendResponse sendMessage(com.google.appengine.api.xmpp.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setJidAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setFromJid(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setStatusAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest addJid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService java.util.List&lt;com.google.appengine.api.xmpp.Presence&gt; getPresence(java.lang.Iterable&lt;com.google.appengine.api.xmpp.JID&gt;, com.google.appengine.api.xmpp.JID) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest setJid(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setFromJidAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setBody(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest setFromJid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService void exportServiceUsingConfig(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.Interface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest clearRawXml()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.net.rpc.RpcService newService(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.Interface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingStub com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse createChannel(com.google.net.rpc.RPC, com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setJid(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse getChannelPresence(com.google.net.rpc.RPC, com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setFromJid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setFromJid(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest clearFromJid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3 com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.Stub newStub(com.google.net.rpc3.client.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig exportService(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.Interface, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig exportService(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig exportService(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.Interface, com.google.net.rpc3.server.RpcServer.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setTypeAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest setJid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig exportBlockingService(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest setFromJid(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest setJidAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setBodyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setStatus(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setType(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService void sendInvitation(com.google.appengine.api.xmpp.JID, com.google.appengine.api.xmpp.JID) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setJid(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService void exportServiceUsingConfig(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.Interface, com.google.net.rpc3.server.RpcServer.Builder, com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_GetPresence()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse sendInvite(com.google.net.rpc.RPC, com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.net.rpc.RpcStubFactory stubFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse addPresenceResponse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest addJid(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest setFromJidAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest setJid(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse clearValid()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setFromJidAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse bulkGetPresence(com.google.net.rpc.RPC, com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig exportBlockingService(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_SendInvite()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse clearPresence()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest setJid(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.PresenceBuilder com.google.appengine.api.xmpp.PresenceBuilder withPresenceType(com.google.appengine.api.xmpp.PresenceType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService com.google.appengine.api.xmpp.Subscription parseSubscription(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_GetChannelPresence()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setStatus(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService void sendPresence(com.google.appengine.api.xmpp.JID, com.google.appengine.api.xmpp.PresenceType, com.google.appengine.api.xmpp.PresenceShow, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingStub com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceResponse getChannelPresence(com.google.net.rpc.RPC, com.google.appengine.api.channel.ChannelServicePb.ChannelPresenceRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest setJidAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest addJid(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest addJid(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse setPresence(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setShowAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setShow(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest setStatus(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest setJid(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setJid(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setBody(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse setValid(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService void exportBlockingServiceUsingConfig(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest clearShow()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest setFromJid(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.PresenceResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService com.google.appengine.api.xmpp.Message parseMessage(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest setFromJid(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setBody(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest setFromJidAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService java.util.List&lt;com.google.appengine.api.xmpp.Presence&gt; getPresence(java.lang.Iterable&lt;com.google.appengine.api.xmpp.JID&gt;, com.google.appengine.api.xmpp.JID)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse java.util.List&lt;java.lang.Integer&gt; statuss()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface com.google.appengine.api.channel.ChannelServicePb.CreateChannelResponse createChannel(com.google.net.rpc.RPC, com.google.appengine.api.channel.ChannelServicePb.CreateChannelRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig exportService(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppInviteRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPService java.util.List&lt;com.google.appengine.api.xmpp.Presence&gt; getPresence(java.lang.Iterable&lt;com.google.appengine.api.xmpp.JID&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setTypeAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest setJid(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceRequest unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.PresenceBuilder com.google.appengine.api.xmpp.PresenceBuilder withPresenceShow(com.google.appengine.api.xmpp.PresenceShow)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse mergeFrom(com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppService void exportBlockingServiceUsingConfig(com.google.appengine.api.xmpp.XMPPServicePb.XmppService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.appengine.api.xmpp.XMPPServicePb.XmppService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest com.google.appengine.api.xmpp.XMPPServicePb.XmppMessageRequest addJid(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppSendPresenceResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.BulkPresenceResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest com.google.appengine.api.xmpp.XMPPServicePb.PresenceRequest setFromJid(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.xmpp.XMPPServicePb.XmppServiceError com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

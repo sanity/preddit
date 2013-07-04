@@ -1,0 +1,299 @@
+<root>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void replace(java.lang.String, com.google.appengine.repackaged.org.antlr.runtime.Token, com.google.appengine.repackaged.org.antlr.runtime.Token, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream java.util.List getProgram(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BitSet com.google.appengine.repackaged.org.antlr.runtime.BitSet of(int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer void matchAny(com.google.appengine.repackaged.org.antlr.runtime.IntStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.Parser java.lang.Object getMissingSymbol(com.google.appengine.repackaged.org.antlr.runtime.IntStream, com.google.appengine.repackaged.org.antlr.runtime.RecognitionException, int, com.google.appengine.repackaged.org.antlr.runtime.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer java.lang.Object getCurrentInputSymbol(com.google.appengine.repackaged.org.antlr.runtime.IntStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer java.lang.String getTokenErrorDisplay(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.Lexer com.google.appengine.repackaged.org.antlr.runtime.Token emit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer void consumeUntil(com.google.appengine.repackaged.org.antlr.runtime.IntStream, com.google.appengine.repackaged.org.antlr.runtime.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.Lexer void match(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer java.util.List getRuleInvocationStack()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream java.util.List getKindOfOps(java.util.List, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.MismatchedRangeException MismatchedRangeException(int, int, com.google.appengine.repackaged.org.antlr.runtime.IntStream) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer void consumeUntil(com.google.appengine.repackaged.org.antlr.runtime.IntStream, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar java.util.List readRules(java.io.DataInputStream, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.ANTLRStringStream ANTLRStringStream(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void replace(com.google.appengine.repackaged.org.antlr.runtime.Token, com.google.appengine.repackaged.org.antlr.runtime.Token, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream java.util.List getKindOfOps(java.util.List, java.lang.Class, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BitSet com.google.appengine.repackaged.org.antlr.runtime.BitSet of(int, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.CommonToken void setText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void insertBefore(com.google.appengine.repackaged.org.antlr.runtime.Token, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.Token void setText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer com.google.appengine.repackaged.org.antlr.runtime.BitSet computeContextSensitiveRuleFOLLOW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar java.util.List readAlt(java.io.DataInputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer java.util.List getRuleInvocationStack(java.lang.Throwable, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.MismatchedTokenException MismatchedTokenException(int, com.google.appengine.repackaged.org.antlr.runtime.IntStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.DFA char[] unpackEncodedStringToUnsignedChars(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.Parser java.lang.Object getCurrentInputSymbol(com.google.appengine.repackaged.org.antlr.runtime.IntStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer void displayRecognitionError(java.lang.String[], com.google.appengine.repackaged.org.antlr.runtime.RecognitionException) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BitSet BitSet(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.DFA int predict(com.google.appengine.repackaged.org.antlr.runtime.IntStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void delete(com.google.appengine.repackaged.org.antlr.runtime.Token, com.google.appengine.repackaged.org.antlr.runtime.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.MissingTokenException MissingTokenException(int, com.google.appengine.repackaged.org.antlr.runtime.IntStream, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer java.lang.Object recoverFromMismatchedToken(com.google.appengine.repackaged.org.antlr.runtime.IntStream, int, com.google.appengine.repackaged.org.antlr.runtime.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.DFA short[] unpackEncodedString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar.Rule readRule(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void insertAfter(java.lang.String, com.google.appengine.repackaged.org.antlr.runtime.Token, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void insertAfter(com.google.appengine.repackaged.org.antlr.runtime.Token, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar java.lang.String readString(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar.Rule readRule(java.io.DataInputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.CommonTokenStream java.util.List getTokens(int, int, java.util.List) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer java.lang.Object match(com.google.appengine.repackaged.org.antlr.runtime.IntStream, int, com.google.appengine.repackaged.org.antlr.runtime.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.RecognitionException RecognitionException(com.google.appengine.repackaged.org.antlr.runtime.IntStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.EarlyExitException EarlyExitException(int, com.google.appengine.repackaged.org.antlr.runtime.IntStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void delete(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BitSet com.google.appengine.repackaged.org.antlr.runtime.BitSet or(com.google.appengine.repackaged.org.antlr.runtime.BitSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BitSet com.google.appengine.repackaged.org.antlr.runtime.BitSet of(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.UnwantedTokenException UnwantedTokenException(int, com.google.appengine.repackaged.org.antlr.runtime.IntStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BitSet java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.MismatchedTreeNodeException MismatchedTreeNodeException(int, com.google.appengine.repackaged.org.antlr.runtime.tree.TreeNodeStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.Parser java.lang.Object getMissingSymbol(com.google.appengine.repackaged.org.antlr.runtime.IntStream, com.google.appengine.repackaged.org.antlr.runtime.RecognitionException, int, com.google.appengine.repackaged.org.antlr.runtime.BitSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.DFA java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void delete(com.google.appengine.repackaged.org.antlr.runtime.Token, com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar java.util.List readAlt(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream java.util.Map reduceToSingleOperationPerIndex(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.DFA short[] unpackEncodedString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.NoViableAltException NoViableAltException(java.lang.String, int, int, com.google.appengine.repackaged.org.antlr.runtime.IntStream) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar.Block readBlock(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void insertBefore(java.lang.String, com.google.appengine.repackaged.org.antlr.runtime.Token, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream java.util.List getKindOfOps(java.util.List, java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BitSet int[] toArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.RecognizerSharedState RecognizerSharedState(com.google.appengine.repackaged.org.antlr.runtime.RecognizerSharedState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void delete(java.lang.String, com.google.appengine.repackaged.org.antlr.runtime.Token, com.google.appengine.repackaged.org.antlr.runtime.Token) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer boolean mismatchIsUnwantedToken(com.google.appengine.repackaged.org.antlr.runtime.IntStream, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer com.google.appengine.repackaged.org.antlr.runtime.BitSet combineFollows(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer com.google.appengine.repackaged.org.antlr.runtime.BitSet computeErrorRecoverySet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer void recover(com.google.appengine.repackaged.org.antlr.runtime.IntStream, com.google.appengine.repackaged.org.antlr.runtime.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer java.lang.String getErrorMessage(com.google.appengine.repackaged.org.antlr.runtime.RecognitionException, java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.CharStream java.lang.String substring(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar.Block readBlock(java.io.DataInputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream java.util.Map reduceToSingleOperationPerIndex(java.util.List)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.ClassicToken ClassicToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void replace(com.google.appengine.repackaged.org.antlr.runtime.Token, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer java.lang.Object getMissingSymbol(com.google.appengine.repackaged.org.antlr.runtime.IntStream, com.google.appengine.repackaged.org.antlr.runtime.RecognitionException, int, com.google.appengine.repackaged.org.antlr.runtime.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BitSet com.google.appengine.repackaged.org.antlr.runtime.BitSet of(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.CommonToken CommonToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.FailedPredicateException FailedPredicateException(com.google.appengine.repackaged.org.antlr.runtime.IntStream, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.MismatchedSetException MismatchedSetException(com.google.appengine.repackaged.org.antlr.runtime.BitSet, com.google.appengine.repackaged.org.antlr.runtime.IntStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer boolean alreadyParsedRule(com.google.appengine.repackaged.org.antlr.runtime.IntStream, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.Lexer java.lang.String getErrorMessage(com.google.appengine.repackaged.org.antlr.runtime.RecognitionException, java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.ANTLRStringStream java.lang.String substring(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.SerializedGrammar void readFile(java.io.DataInputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer java.util.List getRuleInvocationStack(java.lang.Throwable, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void delete(java.lang.String, com.google.appengine.repackaged.org.antlr.runtime.Token, com.google.appengine.repackaged.org.antlr.runtime.Token) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.MismatchedNotSetException MismatchedNotSetException(com.google.appengine.repackaged.org.antlr.runtime.BitSet, com.google.appengine.repackaged.org.antlr.runtime.IntStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.BaseRecognizer java.lang.String getErrorHeader(com.google.appengine.repackaged.org.antlr.runtime.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.ClassicToken void setText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void replace(com.google.appengine.repackaged.org.antlr.runtime.Token, com.google.appengine.repackaged.org.antlr.runtime.Token, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.DFA int specialStateTransition(int, com.google.appengine.repackaged.org.antlr.runtime.IntStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.DFA char[] unpackEncodedStringToUnsignedChars(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.RecognitionException void extractInformationFromTreeNodeStream(com.google.appengine.repackaged.org.antlr.runtime.IntStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.TokenRewriteStream void replace(java.lang.String, com.google.appengine.repackaged.org.antlr.runtime.Token, com.google.appengine.repackaged.org.antlr.runtime.Token, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

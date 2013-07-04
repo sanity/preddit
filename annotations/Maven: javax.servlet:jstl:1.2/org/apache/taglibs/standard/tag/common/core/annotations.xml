@@ -1,0 +1,92 @@
+<root>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(boolean[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(char[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.Util java.lang.String escapeXml(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(long[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(int[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(double[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(float[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(java.util.Enumeration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(short[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(boolean[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.Util java.lang.String getContentTypeAttribute(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.Util java.lang.String getContentTypeAttribute(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(char[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(java.util.Map) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(java.util.Collection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(double[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(java.util.Iterator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(float[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.Util java.util.Enumeration getRequestLocales(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(short[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.OutSupport void out(javax.servlet.jsp.PageContext, boolean, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.OutSupport void out(javax.servlet.jsp.PageContext, boolean, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.tag.common.core.ForEachSupport org.apache.taglibs.standard.tag.common.core.ForEachSupport.ForEachIterator toForEachIterator(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

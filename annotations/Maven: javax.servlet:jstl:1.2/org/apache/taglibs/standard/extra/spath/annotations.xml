@@ -1,0 +1,86 @@
+<root>
+    <item name='org.apache.taglibs.standard.extra.spath.SPathParser org.apache.taglibs.standard.extra.spath.Predicate attributePredicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.Step boolean isMatchingName(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.RelativePath java.util.List getSteps()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.AttributePredicate boolean isMatchingAttribute(org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.Token org.apache.taglibs.standard.extra.spath.Token newToken(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.SPathParser org.apache.taglibs.standard.extra.spath.Predicate predicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.SPathParser org.apache.taglibs.standard.extra.spath.RelativePath relativePath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.ASCII_UCodeESC_CharStream char[] GetSuffix(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.Path java.util.List getSteps()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.AbsolutePath java.util.List getSteps()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.AttributePredicate AttributePredicate(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.SPathParser org.apache.taglibs.standard.extra.spath.ParseException generateParseException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.TokenMgrError java.lang.String addEscapes(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.SPathFilter boolean nodeMatchesStep(org.apache.taglibs.standard.extra.spath.Step, java.lang.String, java.lang.String, java.lang.String, org.xml.sax.Attributes) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.SPathFilter SPathFilter(org.apache.taglibs.standard.extra.spath.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.SPathParser org.apache.taglibs.standard.extra.spath.Step step()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.SPathParser org.apache.taglibs.standard.extra.spath.AbsolutePath absolutePath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.SPathFilter boolean nodeMatchesStep(org.apache.taglibs.standard.extra.spath.Step, java.lang.String, java.lang.String, java.lang.String, org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.RelativePath RelativePath(org.apache.taglibs.standard.extra.spath.Step, org.apache.taglibs.standard.extra.spath.RelativePath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.AbsolutePath AbsolutePath(org.apache.taglibs.standard.extra.spath.RelativePath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.TokenMgrError TokenMgrError(boolean, int, int, int, java.lang.String, char, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.ASCII_CharStream char[] GetSuffix(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.SPathParserTokenManager org.apache.taglibs.standard.extra.spath.Token getNextToken()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.ParseException java.lang.String add_escapes(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.SPathParser org.apache.taglibs.standard.extra.spath.Path expression()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.Step Step(boolean, java.lang.String, java.util.List) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.extra.spath.AttributePredicate AttributePredicate(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

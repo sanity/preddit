@@ -1,0 +1,1862 @@
+<root>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setLanguageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.apphosting.api.search.AclPb.AccessControlList getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setGeo(com.google.apphosting.api.search.DocumentPb.FieldValue.Geo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.apphosting.api.search.AclPb.Entry.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder addType(com.google.apphosting.api.search.DocumentPb.FieldValue.ContentType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.apphosting.api.search.AclPb.Entry getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.apphosting.api.search.DocumentPb.Document getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder setNameBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder clearStorage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.apphosting.api.search.DocumentPb.Field.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder addField(com.google.apphosting.api.search.DocumentPb.Field.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setField(int, com.google.apphosting.api.search.DocumentPb.Field.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.apphosting.api.search.DocumentPb.Document.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.apphosting.api.search.DocumentPb.FieldValue.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder setValue(com.google.apphosting.api.search.DocumentPb.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.apphosting.api.search.DocumentPb.Document.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder mergeValue(com.google.apphosting.api.search.DocumentPb.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder setLng(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder setScope(com.google.apphosting.api.search.AclPb.Scope.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder mergeFrom(com.google.apphosting.api.search.DocumentPb.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder clearOwner()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder addField(int, com.google.apphosting.api.search.DocumentPb.Field.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setType(com.google.apphosting.api.search.DocumentPb.FieldValue.ContentType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder clearScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setOrderId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.apphosting.api.search.DocumentPb.Field.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.apphosting.api.search.DocumentPb.FieldTypes getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder setType(com.google.apphosting.api.search.AclPb.Scope.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder addEntries(int, com.google.apphosting.api.search.AclPb.Entry.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder addAllType(java.lang.Iterable&lt;? extends com.google.apphosting.api.search.DocumentPb.FieldValue.ContentType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder setEntries(int, com.google.apphosting.api.search.AclPb.Entry.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder clearLanguage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder mergeFrom(com.google.apphosting.api.search.DocumentPb.Document)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.ContentType com.google.apphosting.api.search.DocumentPb.FieldValue.ContentType valueOf(com.google.appengine.repackaged.com.google.protobuf.Descriptors.EnumValueDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder setNameBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder clearStringValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setAcl(com.google.apphosting.api.search.AclPb.AccessControlList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder setDisplayName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setStorage(com.google.apphosting.api.search.DocumentPb.Document.Storage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder setOwnerBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder setOwnerBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder removeEntries(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.apphosting.api.search.DocumentPb.FieldValue.Geo getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder addAllEntries(java.lang.Iterable&lt;? extends com.google.apphosting.api.search.AclPb.Entry&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder setValueBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setVersion(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder clearOrderId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.apphosting.api.search.DocumentPb.Document.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder setScope(com.google.apphosting.api.search.AclPb.Scope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setField(int, com.google.apphosting.api.search.DocumentPb.Field) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setAcl(com.google.apphosting.api.search.AclPb.AccessControlList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder addAllField(java.lang.Iterable&lt;? extends com.google.apphosting.api.search.DocumentPb.Field&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setLanguageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder addEntries(int, com.google.apphosting.api.search.AclPb.Entry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder setValue(com.google.apphosting.api.search.DocumentPb.FieldValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.apphosting.api.search.AclPb.AccessControlList.Builder newBuilder(com.google.apphosting.api.search.AclPb.AccessControlList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder clearField()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.apphosting.api.search.DocumentPb.FieldValue.Builder newBuilder(com.google.apphosting.api.search.DocumentPb.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.apphosting.api.search.DocumentPb.FieldTypes getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setLanguage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setGeo(com.google.apphosting.api.search.DocumentPb.FieldValue.Geo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.apphosting.api.search.DocumentPb.Document.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder setScope(com.google.apphosting.api.search.AclPb.Scope.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.apphosting.api.search.DocumentPb.FieldValue.Geo getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder clearType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder addEntries(int, com.google.apphosting.api.search.AclPb.Entry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder setValueBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setStorage(com.google.apphosting.api.search.DocumentPb.Document.Storage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder clearAcl()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder addType(com.google.apphosting.api.search.DocumentPb.FieldValue.ContentType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder setLat(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder setOwner(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder setNameBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.apphosting.api.search.AclPb.Scope getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.apphosting.api.search.DocumentPb.FieldValue getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder clearLng()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setAcl(com.google.apphosting.api.search.AclPb.AccessControlList.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder mergeFrom(com.google.apphosting.api.search.AclPb.Scope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder setScope(com.google.apphosting.api.search.AclPb.Scope) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder mergeFrom(com.google.apphosting.api.search.AclPb.AccessControlList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setLanguage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder mergeFrom(com.google.apphosting.api.search.DocumentPb.FieldValue.Geo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setLanguageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder mergeAcl(com.google.apphosting.api.search.AclPb.AccessControlList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setStringValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.apphosting.api.search.AclPb.Entry getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder addField(int, com.google.apphosting.api.search.DocumentPb.Field)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setStringValueBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.apphosting.api.search.AclPb.Scope getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setStringValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder setPermission(com.google.apphosting.api.search.AclPb.Entry.Permission)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder addField(int, com.google.apphosting.api.search.DocumentPb.Field) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.apphosting.api.search.DocumentPb.Field.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setAcl(com.google.apphosting.api.search.AclPb.AccessControlList.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder clearLat()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.apphosting.api.search.AclPb.Scope.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.apphosting.api.search.DocumentPb.FieldValue.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder setEntries(int, com.google.apphosting.api.search.AclPb.Entry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.apphosting.api.search.DocumentPb.Document getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Geo getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.apphosting.api.search.AclPb.AccessControlList.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder clearPermission()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.apphosting.api.search.DocumentPb.FieldValue.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setType(com.google.apphosting.api.search.DocumentPb.FieldValue.ContentType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.apphosting.api.search.AclPb.Entry.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder setValue(com.google.apphosting.api.search.DocumentPb.FieldValue.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder removeField(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder clearType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder addField(com.google.apphosting.api.search.DocumentPb.Field.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.apphosting.api.search.AclPb.AccessControlList getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.apphosting.api.search.AclPb.AccessControlList.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder addField(com.google.apphosting.api.search.DocumentPb.Field)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder setValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder setValue(com.google.apphosting.api.search.DocumentPb.FieldValue.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder setType(com.google.apphosting.api.search.AclPb.Scope.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setLanguageBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setGeo(com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.apphosting.api.search.DocumentPb.Field.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder clearValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setGeo(com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.apphosting.api.search.AclPb.Entry.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.apphosting.api.search.DocumentPb.Field getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.apphosting.api.search.AclPb.AccessControlList.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder addAllEntries(java.lang.Iterable&lt;? extends com.google.apphosting.api.search.AclPb.Entry&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setField(int, com.google.apphosting.api.search.DocumentPb.Field)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setIdBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder clearVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder mergeFrom(com.google.apphosting.api.search.DocumentPb.Field)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder clearId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.apphosting.api.search.AclPb.AccessControlList.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Geo build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder setDisplayNameBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.apphosting.api.search.AclPb.Entry.Builder newBuilder(com.google.apphosting.api.search.AclPb.Entry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder addEntries(com.google.apphosting.api.search.AclPb.Entry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder addEntries(int, com.google.apphosting.api.search.AclPb.Entry.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder addField(int, com.google.apphosting.api.search.DocumentPb.Field.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder clearGeo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder setType(int, com.google.apphosting.api.search.DocumentPb.FieldValue.ContentType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder setOwner(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder setNameBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder newBuilder(com.google.apphosting.api.search.DocumentPb.FieldTypes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.apphosting.api.search.AclPb.Scope.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder setType(int, com.google.apphosting.api.search.DocumentPb.FieldValue.ContentType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder addAllType(java.lang.Iterable&lt;? extends com.google.apphosting.api.search.DocumentPb.FieldValue.ContentType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder mergeFrom(com.google.apphosting.api.search.AclPb.Entry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder addField(com.google.apphosting.api.search.DocumentPb.Field) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.Message build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.appengine.repackaged.com.google.protobuf.Message getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setLanguage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder setDisplayNameBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.apphosting.api.search.DocumentPb.FieldValue getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder setEntries(int, com.google.apphosting.api.search.AclPb.Entry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.apphosting.api.search.DocumentPb.FieldValue.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder newBuilder(com.google.apphosting.api.search.DocumentPb.FieldValue.Geo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Storage com.google.apphosting.api.search.DocumentPb.Document.Storage valueOf(com.google.appengine.repackaged.com.google.protobuf.Descriptors.EnumValueDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Type com.google.apphosting.api.search.AclPb.Scope.Type valueOf(com.google.appengine.repackaged.com.google.protobuf.Descriptors.EnumValueDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.apphosting.api.search.AclPb.Scope.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder mergeGeo(com.google.apphosting.api.search.DocumentPb.FieldValue.Geo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder setValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.apphosting.api.search.DocumentPb.Field.Builder newBuilder(com.google.apphosting.api.search.DocumentPb.Field)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.apphosting.api.search.AclPb.Scope.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.apphosting.api.search.DocumentPb.Field getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document com.google.apphosting.api.search.DocumentPb.Document.Builder newBuilder(com.google.apphosting.api.search.DocumentPb.Document)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder addEntries(com.google.apphosting.api.search.AclPb.Entry.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder clearDisplayName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder addEntries(com.google.apphosting.api.search.AclPb.Entry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.apphosting.api.search.AclPb.Scope.Builder clearType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes com.google.appengine.repackaged.com.google.protobuf.Message.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder mergeFrom(com.google.apphosting.api.search.DocumentPb.FieldTypes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setLanguage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder clearEntries()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder mergeScope(com.google.apphosting.api.search.AclPb.Scope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.apphosting.api.search.AclPb.Scope.Builder newBuilder(com.google.apphosting.api.search.AclPb.Scope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder setDisplayName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.FieldAccessorTable internalGetFieldAccessorTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry com.google.apphosting.api.search.AclPb.Entry.Builder newBuilderForType(com.google.appengine.repackaged.com.google.protobuf.GeneratedMessage.BuilderParent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setIdBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue void writeTo(com.google.appengine.repackaged.com.google.protobuf.CodedOutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field com.google.appengine.repackaged.com.google.protobuf.Message.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder setStringValueBytes(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field java.lang.Object writeReplace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Scope com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder addEntries(com.google.apphosting.api.search.AclPb.Entry.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Builder clearLanguage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.apphosting.api.search.AclPb.Entry.Builder setPermission(com.google.apphosting.api.search.AclPb.Entry.Permission) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Field.Builder com.google.apphosting.api.search.DocumentPb.Field.Builder clearValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.Message buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.appengine.repackaged.com.google.protobuf.AbstractMessage.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.Message)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Permission com.google.apphosting.api.search.AclPb.Entry.Permission valueOf(com.google.appengine.repackaged.com.google.protobuf.Descriptors.EnumValueDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder setField(int, com.google.apphosting.api.search.DocumentPb.Field.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldTypes.Builder com.google.appengine.repackaged.com.google.protobuf.MessageLite.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Geo buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder com.google.apphosting.api.search.DocumentPb.FieldValue.Geo.Builder clear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.DocumentPb.Document.Builder com.google.apphosting.api.search.DocumentPb.Document.Builder addAllField(java.lang.Iterable&lt;? extends com.google.apphosting.api.search.DocumentPb.Field&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.AccessControlList.Builder com.google.apphosting.api.search.AclPb.AccessControlList.Builder setEntries(int, com.google.apphosting.api.search.AclPb.Entry.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.search.AclPb.Entry.Builder com.google.appengine.repackaged.com.google.protobuf.Message.Builder mergeFrom(com.google.appengine.repackaged.com.google.protobuf.CodedInputStream, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

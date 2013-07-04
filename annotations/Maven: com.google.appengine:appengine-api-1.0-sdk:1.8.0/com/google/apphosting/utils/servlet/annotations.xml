@@ -1,0 +1,50 @@
+<root>
+    <item name='com.google.apphosting.utils.servlet.DeferredTaskServlet void performRequest(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.MultipartMimeUtils javax.mail.internet.MimeMultipart parseMultipartRequest(javax.servlet.http.HttpServletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.JdbcMySqlConnectionCleanupFilter void doFilter(javax.servlet.ServletRequest, javax.servlet.ServletResponse, javax.servlet.FilterChain) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.MultipartMimeUtils java.lang.String getTextContent(javax.mail.BodyPart)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.MultipartMimeUtils javax.mail.internet.MimeMultipart parseMultipartRequest(javax.servlet.http.HttpServletRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.ParseBlobUploadFilter void doFilter(javax.servlet.ServletRequest, javax.servlet.ServletResponse, javax.servlet.FilterChain) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.SessionCleanupServlet void service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.DeferredTaskServlet com.google.appengine.api.taskqueue.DeferredTask readRequest(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.SessionCleanupServlet void service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.MultipartMimeUtils java.lang.String getTextContent(javax.mail.BodyPart) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.TransactionCleanupFilter void doFilter(javax.servlet.ServletRequest, javax.servlet.ServletResponse, javax.servlet.FilterChain) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.MultipartMimeUtils java.lang.String getFieldName(javax.mail.BodyPart) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.ParseBlobUploadFilter void doFilter(javax.servlet.ServletRequest, javax.servlet.ServletResponse, javax.servlet.FilterChain) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.DeferredTaskServlet void service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.MultipartMimeUtils java.lang.String getFieldName(javax.mail.BodyPart)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.utils.servlet.MultipartMimeUtils javax.activation.DataSource createDataSource(java.lang.String, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

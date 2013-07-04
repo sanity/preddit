@@ -1,0 +1,11 @@
+<root>
+    <item name='com.google.appengine.repackaged.com.google.common.xml.XmlEscapers com.google.appengine.repackaged.com.google.common.escape.Escaper xmlAttributeEscaper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.xml.XmlEscapers com.google.appengine.repackaged.com.google.common.escape.Escaper xmlContentEscaper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.common.xml.XmlEscapers com.google.appengine.repackaged.com.google.common.escape.Escaper xmlEscaper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

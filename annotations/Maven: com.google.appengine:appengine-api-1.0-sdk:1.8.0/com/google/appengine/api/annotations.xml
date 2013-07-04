@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.appengine.api.LifecycleManager com.google.appengine.api.LifecycleManager getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.NamespaceManager java.lang.String getGoogleAppsNamespace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

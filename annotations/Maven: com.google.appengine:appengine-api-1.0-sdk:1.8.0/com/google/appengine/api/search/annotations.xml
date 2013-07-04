@@ -1,0 +1,761 @@
+<root>
+    <item name='com.google.appengine.api.search.MatchScorer.Builder com.google.appengine.api.search.MatchScorer build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.PutResponse&gt; putAsync(java.lang.Iterable&lt;com.google.appengine.api.search.Document&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.DeleteException DeleteException(com.google.appengine.api.search.OperationResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortExpression.Builder com.google.appengine.api.search.SortExpression.Builder setExpression(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Query com.google.appengine.api.search.Query.Builder newBuilder(com.google.appengine.api.search.Query) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SearchException SearchException(com.google.appengine.api.search.OperationResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setNumberFoundAccuracy(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.var_return var()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.RescoringMatchScorer.Builder com.google.appengine.api.search.MatchScorer build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.FieldExpression.Builder com.google.appengine.api.search.FieldExpression.Builder setExpression(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Query.Builder com.google.appengine.api.search.Query build(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortExpression.Builder com.google.appengine.api.search.SortExpression.Builder setDefaultValueNumeric(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SearchService java.util.concurrent.Future&lt;com.google.appengine.api.search.GetResponse&lt;com.google.appengine.api.search.Index&gt;&gt; getIndexesAsync(com.google.appengine.api.search.GetIndexesRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.SearchService java.util.concurrent.Future&lt;com.google.appengine.api.search.GetResponse&lt;com.google.appengine.api.search.Index&gt;&gt; getIndexesAsync(com.google.appengine.api.search.GetIndexesRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest.Builder com.google.appengine.api.search.GetIndexesRequest.Builder setSchemaFetched(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.FieldExpression.Builder com.google.appengine.api.search.FieldExpression.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SearchService com.google.appengine.api.search.GetResponse&lt;com.google.appengine.api.search.Index&gt; getIndexes(com.google.appengine.api.search.GetIndexesRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.SearchService com.google.appengine.api.search.Index getIndex(com.google.appengine.api.search.IndexSpec.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.Query.Builder com.google.appengine.api.search.Query.Builder setOptions(com.google.appengine.api.search.QueryOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;java.lang.Void&gt; deleteAsync(java.lang.Iterable&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.ISearchServiceFactoryProvider com.google.appengine.api.search.ISearchServiceFactory getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.GetResponse&lt;com.google.appengine.api.search.Document&gt;&gt; getRangeAsync(com.google.appengine.api.search.GetRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.Query.Builder com.google.appengine.api.search.Query.Builder setQueryString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder addExpressionToReturn(com.google.appengine.api.search.FieldExpression.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Query.Builder com.google.appengine.api.search.Query.Builder setOptions(com.google.appengine.api.search.QueryOptions.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetRequest com.google.appengine.api.search.GetRequest.Builder newBuilder(com.google.appengine.api.search.GetRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.str_return str()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.PutException PutException(com.google.appengine.api.search.OperationResult, java.util.List&lt;com.google.appengine.api.search.OperationResult&gt;, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Cursor com.google.appengine.api.search.Cursor.Builder newBuilder(com.google.appengine.api.search.Cursor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index void delete(java.lang.Iterable&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.ScoredDocument.Builder com.google.appengine.api.search.Document build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;java.lang.Void&gt; deleteAsync(java.lang.Iterable&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.multOp_return multOp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortExpression.Builder com.google.appengine.api.search.SortExpression build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest.Builder com.google.appengine.api.search.GetIndexesRequest.Builder setOffset(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionTreeBuilder com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTree parse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Document.Builder com.google.appengine.api.search.Document.Builder addField(com.google.appengine.api.search.Field.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.PutResponse&gt; putAsync(com.google.appengine.api.search.Document...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.PutResponse&gt; putAsync(com.google.appengine.api.search.Document.Builder...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.SearchService com.google.appengine.api.search.Index getIndex(com.google.appengine.api.search.IndexSpec) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest.Builder com.google.appengine.api.search.GetIndexesRequest.Builder setStartIndexName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Util java.lang.String iterableToString(java.lang.Iterable&lt;T&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.conjunction_return conjunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Document.Builder com.google.appengine.api.search.Document.Builder addField(com.google.appengine.api.search.Field.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetRequest.Builder com.google.appengine.api.search.GetRequest.Builder setLimit(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Field.Builder com.google.appengine.api.search.Field.Builder setText(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder addExpressionToReturn(com.google.appengine.api.search.FieldExpression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortOptions com.google.appengine.api.search.SortOptions.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SearchService java.util.concurrent.Future&lt;com.google.appengine.api.search.GetResponse&lt;com.google.appengine.api.search.Index&gt;&gt; getIndexesAsync(com.google.appengine.api.search.GetIndexesRequest.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setLimit(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.Results&lt;com.google.appengine.api.search.ScoredDocument&gt;&gt; searchAsync(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions com.google.appengine.api.search.QueryOptions.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index com.google.appengine.api.search.PutResponse put(java.lang.Iterable&lt;com.google.appengine.api.search.Document&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.GetResponse&lt;com.google.appengine.api.search.Document&gt;&gt; getRangeAsync(com.google.appengine.api.search.GetRequest.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.Field.Builder com.google.appengine.api.search.Field.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index com.google.appengine.api.search.Results&lt;com.google.appengine.api.search.ScoredDocument&gt; search(com.google.appengine.api.search.Query) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.Document.Builder com.google.appengine.api.search.Document.Builder addField(com.google.appengine.api.search.Field)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.addOp_return addOp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.multExpr_return multExpr()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.disjunction_return disjunction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setFieldsToReturn(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetResponse GetResponse(java.util.List&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.addExpr_return addExpr()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortOptions.Builder com.google.appengine.api.search.SortOptions.Builder setMatchScorer(com.google.appengine.api.search.MatchScorer.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder addExpressionToReturn(com.google.appengine.api.search.FieldExpression.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortOptions.Builder com.google.appengine.api.search.SortOptions build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.lang.String getNamespace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.RescoringMatchScorer.Builder com.google.appengine.api.search.RescoringMatchScorer build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setCursor(com.google.appengine.api.search.Cursor.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Field.Builder com.google.appengine.api.search.Field build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions com.google.appengine.api.search.QueryOptions.Builder newBuilder(com.google.appengine.api.search.QueryOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortOptions.Builder com.google.appengine.api.search.SortOptions.Builder addSortExpression(com.google.appengine.api.search.SortExpression.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Document.Builder com.google.appengine.api.search.Document.Builder setRank(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.Results&lt;com.google.appengine.api.search.ScoredDocument&gt;&gt; searchAsync(com.google.appengine.api.search.Query) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest.Builder com.google.appengine.api.search.GetIndexesRequest.Builder setLimit(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.unary_return unary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Query.Builder com.google.appengine.api.search.Query build(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Schema.Builder com.google.appengine.api.search.Schema build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortOptions.Builder com.google.appengine.api.search.SortOptions.Builder addSortExpression(com.google.appengine.api.search.SortExpression.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Document Document(com.google.appengine.api.search.Document.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Document com.google.appengine.api.search.Document.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Field.Builder com.google.appengine.api.search.Field.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest.Builder com.google.appengine.api.search.GetIndexesRequest.Builder setIndexNamePrefix(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.FieldExpression.Builder com.google.appengine.api.search.FieldExpression build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setSortOptions(com.google.appengine.api.search.SortOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Cursor com.google.appengine.api.search.Cursor.Builder newBuilder(com.google.appengine.api.search.Cursor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortOptions.Builder com.google.appengine.api.search.SortOptions.Builder addSortExpression(com.google.appengine.api.search.SortExpression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortOptions.Builder com.google.appengine.api.search.SortOptions.Builder setMatchScorer(com.google.appengine.api.search.MatchScorer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SearchService com.google.appengine.api.search.Index getIndex(com.google.appengine.api.search.IndexSpec)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.ScoredDocument.Builder com.google.appengine.api.search.ScoredDocument build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortOptions.Builder com.google.appengine.api.search.SortOptions.Builder setMatchScorer(com.google.appengine.api.search.RescoringMatchScorer.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.fnName_return fnName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Document.Builder com.google.appengine.api.search.Document.Builder addField(com.google.appengine.api.search.Field) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetRequest.Builder com.google.appengine.api.search.GetRequest.Builder setReturningIdsOnly(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortOptions.Builder com.google.appengine.api.search.SortOptions.Builder setLimit(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Field.Builder com.google.appengine.api.search.Field.Builder setGeoPoint(com.google.appengine.api.search.GeoPoint)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Schema com.google.appengine.api.search.Schema.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SearchService com.google.appengine.api.search.Index getIndex(com.google.appengine.api.search.IndexSpec.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.SearchService java.lang.String getNamespace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.ScoredDocument.Builder com.google.appengine.api.search.ScoredDocument.Builder setCursor(com.google.appengine.api.search.Cursor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.cmpExpr_return cmpExpr()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.Results&lt;com.google.appengine.api.search.ScoredDocument&gt;&gt; searchAsync(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.ScoredDocument.Builder com.google.appengine.api.search.ScoredDocument.Builder addScore(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index com.google.appengine.api.search.GetResponse&lt;com.google.appengine.api.search.Document&gt; getRange(com.google.appengine.api.search.GetRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.SearchService com.google.appengine.api.search.GetResponse&lt;com.google.appengine.api.search.Index&gt; getIndexes(com.google.appengine.api.search.GetIndexesRequest.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.name_return name()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.negation_return negation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SearchService java.util.concurrent.Future&lt;com.google.appengine.api.search.GetResponse&lt;com.google.appengine.api.search.Index&gt;&gt; getIndexesAsync(com.google.appengine.api.search.GetIndexesRequest.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setFieldsToSnippet(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setCursor(com.google.appengine.api.search.Cursor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest com.google.appengine.api.search.GetIndexesRequest.Builder newBuilder(com.google.appengine.api.search.GetIndexesRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.PutResponse PutResponse(java.util.List&lt;com.google.appengine.api.search.OperationResult&gt;, java.util.List&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Document.Builder com.google.appengine.api.search.Document.Builder setId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Cursor.Builder com.google.appengine.api.search.Cursor build(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.MatchScorer com.google.appengine.api.search.MatchScorer.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.IndexSpec com.google.appengine.api.search.IndexSpec.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Document.Builder com.google.appengine.api.search.Document build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.DeleteException DeleteException(com.google.appengine.api.search.OperationResult, java.util.List&lt;com.google.appengine.api.search.OperationResult&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest com.google.appengine.api.search.GetIndexesRequest.Builder newBuilder(com.google.appengine.api.search.GetIndexesRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.FieldExpression.Builder com.google.appengine.api.search.FieldExpression.Builder setExpression(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser java.lang.String[] getTokenNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index com.google.appengine.api.search.Document get(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.ScoredDocument.Builder com.google.appengine.api.search.ScoredDocument.Builder addExpression(com.google.appengine.api.search.Field) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortOptions.Builder com.google.appengine.api.search.SortOptions.Builder setMatchScorer(com.google.appengine.api.search.MatchScorer.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SearchBaseException SearchBaseException(com.google.appengine.api.search.OperationResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Field.Builder com.google.appengine.api.search.Field.Builder setHTML(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Query.Builder com.google.appengine.api.search.Query.Builder setOptions(com.google.appengine.api.search.QueryOptions.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setFieldsToSnippet(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Cursor.Builder com.google.appengine.api.search.Cursor.Builder setPerResult(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setFieldsToReturn(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortOptions.Builder com.google.appengine.api.search.SortOptions.Builder setMatchScorer(com.google.appengine.api.search.RescoringMatchScorer.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortExpression com.google.appengine.api.search.SortExpression.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.atom_return atom()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.condExpr_return condExpr()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Field.Builder com.google.appengine.api.search.Field.Builder setLocale(java.util.Locale)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionLexer java.lang.String getGrammarFileName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Document.Builder com.google.appengine.api.search.Document.Builder setLocale(java.util.Locale)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.FieldExpression com.google.appengine.api.search.FieldExpression.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.PutException PutException(com.google.appengine.api.search.OperationResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;java.lang.Void&gt; deleteSchemaAsync()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.Cursor.Builder com.google.appengine.api.search.Cursor build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.IndexSpec.Builder com.google.appengine.api.search.IndexSpec.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.GetResponse&lt;com.google.appengine.api.search.Document&gt;&gt; getRangeAsync(com.google.appengine.api.search.GetRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.Query.Builder com.google.appengine.api.search.Query build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Field com.google.appengine.api.search.Field.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest.Builder com.google.appengine.api.search.GetIndexesRequest.Builder setLimit(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setOffset(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortOptions.Builder com.google.appengine.api.search.SortOptions.Builder addSortExpression(com.google.appengine.api.search.SortExpression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.IndexSpec.Builder com.google.appengine.api.search.IndexSpec build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortExpression.Builder com.google.appengine.api.search.SortExpression.Builder setExpression(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetRequest GetRequest(com.google.appengine.api.search.GetRequest.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Query com.google.appengine.api.search.Query.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Util java.lang.String iterableFieldToString(java.lang.String, java.lang.Iterable&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.RescoringMatchScorer java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetRequest.Builder com.google.appengine.api.search.GetRequest.Builder setLimit(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortExpression.Builder com.google.appengine.api.search.SortExpression.Builder setDefaultValueDate(java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Field.Builder com.google.appengine.api.search.Field.Builder setNumber(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions com.google.appengine.api.search.QueryOptions.Builder newBuilder(com.google.appengine.api.search.QueryOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest com.google.appengine.api.search.GetIndexesRequest.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest.Builder com.google.appengine.api.search.GetIndexesRequest.Builder setIncludeStartIndex(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index com.google.appengine.api.search.Results&lt;com.google.appengine.api.search.ScoredDocument&gt; search(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.fn_return fn()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortExpression.Builder com.google.appengine.api.search.SortExpression.Builder setDirection(com.google.appengine.api.search.SortExpression.SortDirection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setCursor(com.google.appengine.api.search.Cursor.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Results com.google.appengine.api.search.OperationResult getOperationResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Schema.Builder com.google.appengine.api.search.Schema.Builder addTypedField(java.lang.String, com.google.appengine.api.search.Field.FieldType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index com.google.appengine.api.search.GetResponse&lt;com.google.appengine.api.search.Document&gt; getRange(com.google.appengine.api.search.GetRequest.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.Query Query(com.google.appengine.api.search.Query.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetException GetException(com.google.appengine.api.search.OperationResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Cursor.Builder com.google.appengine.api.search.Cursor build(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.FieldExpression java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.GetResponse&lt;com.google.appengine.api.search.Document&gt;&gt; getRangeAsync(com.google.appengine.api.search.GetRequest.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setSortOptions(com.google.appengine.api.search.SortOptions.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.expression_return expression()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Field.Builder com.google.appengine.api.search.Field.Builder setAtom(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetRequest.Builder com.google.appengine.api.search.GetRequest.Builder setStartId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setReturningIdsOnly(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ScoredDocument.Builder com.google.appengine.api.search.ScoredDocument.Builder addExpression(com.google.appengine.api.search.Field)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.MatchScorer java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.PutResponse&gt; putAsync(java.lang.Iterable&lt;com.google.appengine.api.search.Document&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.PutResponse&gt; putAsync(com.google.appengine.api.search.Document.Builder...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.index_return index()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser java.lang.String getGrammarFileName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest.Builder com.google.appengine.api.search.GetIndexesRequest.Builder setNamespace(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest.Builder com.google.appengine.api.search.GetIndexesRequest.Builder setOffset(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Query com.google.appengine.api.search.Query.Builder newBuilder(com.google.appengine.api.search.Query)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Query.Builder com.google.appengine.api.search.Query.Builder setQueryString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetIndexesRequest.Builder com.google.appengine.api.search.GetIndexesRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Cursor com.google.appengine.api.search.Cursor.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ScoredDocument com.google.appengine.api.search.ScoredDocument.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;java.lang.Void&gt; deleteAsync(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.ISearchServiceFactoryProvider java.lang.Object getFactoryInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.FieldExpression.Builder com.google.appengine.api.search.FieldExpression.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.RescoringMatchScorer com.google.appengine.api.search.RescoringMatchScorer.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Schema.Builder com.google.appengine.api.search.Schema.Builder addTypedField(java.lang.String, com.google.appengine.api.search.Field.FieldType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index java.util.concurrent.Future&lt;com.google.appengine.api.search.Results&lt;com.google.appengine.api.search.ScoredDocument&gt;&gt; searchAsync(com.google.appengine.api.search.Query)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.PutResponse PutResponse(java.util.List&lt;com.google.appengine.api.search.OperationResult&gt;, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SearchBaseException com.google.appengine.api.search.OperationResult getOperationResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.cmpOp_return cmpOp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser com.google.appengine.api.search.ExpressionParser.num_return num()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.SortExpression.Builder com.google.appengine.api.search.SortExpression.Builder setDefaultValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ExpressionParser java.lang.Object recoverFromMismatchedToken(com.google.appengine.repackaged.org.antlr.runtime.IntStream, int, com.google.appengine.repackaged.org.antlr.runtime.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.Results Results(com.google.appengine.api.search.OperationResult, java.util.Collection&lt;T&gt;, long, int, com.google.appengine.api.search.Cursor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.ISearchServiceFactory com.google.appengine.api.search.SearchService getSearchService(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.GetRequest.Builder com.google.appengine.api.search.GetRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetRequest com.google.appengine.api.search.GetRequest.Builder newBuilder(com.google.appengine.api.search.GetRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetRequest.Builder com.google.appengine.api.search.GetRequest.Builder setIncludeStart(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Results Results(com.google.appengine.api.search.OperationResult, java.util.Collection&lt;T&gt;, long, int, com.google.appengine.api.search.Cursor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.Index com.google.appengine.api.search.PutResponse put(com.google.appengine.api.search.Document.Builder...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.api.search.Field.Builder com.google.appengine.api.search.Field.Builder setDate(java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.GetRequest com.google.appengine.api.search.GetRequest.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.QueryOptions.Builder com.google.appengine.api.search.QueryOptions.Builder setSortOptions(com.google.appengine.api.search.SortOptions.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.api.search.IndexSpec.Builder com.google.appengine.api.search.IndexSpec.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

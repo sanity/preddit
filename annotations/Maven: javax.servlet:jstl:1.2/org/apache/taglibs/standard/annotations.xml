@@ -1,0 +1,5 @@
+<root>
+    <item name='org.apache.taglibs.standard.Version java.lang.String getProduct()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

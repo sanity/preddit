@@ -1,0 +1,245 @@
+<root>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.BlockingStubbyService BlockingStubbyService(com.google.appengine.repackaged.com.google.protobuf.BlockingService, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter&lt;P1,P2&gt; forProtos(P1, P2) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter&lt;P1,P2&gt; forProtos(P1, P2)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter&lt;P1,P2&gt; forProtos(P1, P2, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyRpcController void streamReady(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel com.google.appengine.repackaged.com.google.protobuf.Message callBlockingMethod(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor, com.google.appengine.repackaged.com.google.protobuf.RpcController, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.Message) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel StubbyChannel(com.google.appengine.repackaged.com.google.protobuf.Descriptors.ServiceDescriptor, com.google.net.rpc.RpcStubParameters, java.lang.String, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage mergeFrom(com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter java.lang.Object doBackward(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage DowngradedMessage(com.google.appengine.repackaged.com.google.protobuf.MessageLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel void callMethod(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor, com.google.appengine.repackaged.com.google.protobuf.RpcController, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.RpcCallback&lt;com.google.appengine.repackaged.com.google.protobuf.Message&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.Stubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.Service, java.lang.String, com.google.net.rpc3.server.RpcServer.Builder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.Stubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.Service, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry, com.google.net.rpc3.server.RpcServer.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter&lt;P1,P2&gt; forProtos(P1, P2, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter P1 doBackward(P2)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel com.google.appengine.repackaged.com.google.protobuf.Message callBlockingMethod(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor, com.google.appengine.repackaged.com.google.protobuf.RpcController, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.Message) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.BlockingStubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.BlockingService, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry, com.google.net.rpc3.server.RpcServer.Builder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter&lt;P1,P2&gt; forProtos(P1, P2) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter P2 doForward(P1) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.Stubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.Service, java.lang.String, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry, com.google.net.rpc3.server.RpcServer.Builder) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyService StubbyService(com.google.appengine.repackaged.com.google.protobuf.Service, java.lang.String, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel void callMethod(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor, com.google.appengine.repackaged.com.google.protobuf.RpcController, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.RpcCallback&lt;com.google.appengine.repackaged.com.google.protobuf.Message&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel StubbyChannel(com.google.appengine.repackaged.com.google.protobuf.Descriptors.ServiceDescriptor, com.google.net.rpc.RpcStubParameters, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel com.google.net.rpc.RpcStubFactory newFactory(com.google.appengine.repackaged.com.google.protobuf.Descriptors.ServiceDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyServiceException StubbyServiceException(int, java.lang.Throwable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.BlockingStubbyService BlockingStubbyService(com.google.appengine.repackaged.com.google.protobuf.BlockingService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyServiceException StubbyServiceException(com.google.net.rpc.RpcException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel com.google.appengine.repackaged.com.google.protobuf.Message callBlockingMethod(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor, com.google.appengine.repackaged.com.google.protobuf.RpcController, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.Message) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage com.google.appengine.repackaged.com.google.io.protocol.CategoryInformation&lt;com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage&gt; messageCategoryInformation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter P1 doBackward(P2) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.Stubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.Service, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyServiceException com.google.net.rpc.RpcException getStubbyRpcException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyRpcController void setMethodOptions(com.google.appengine.repackaged.com.google.protobuf.DescriptorProtos.MethodOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.BlockingStubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.BlockingService, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage DowngradedMessage(com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.Stubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.Service, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel StubbyChannel(com.google.appengine.repackaged.com.google.protobuf.Descriptors.ServiceDescriptor, com.google.net.rpc.RpcStubParameters) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage boolean equals(com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel StubbyChannel(com.google.appengine.repackaged.com.google.protobuf.Descriptors.ServiceDescriptor, com.google.net.rpc.RpcStubParameters, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.Stubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.Service, java.lang.String, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry, com.google.net.rpc3.server.RpcServer.Builder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.BlockingStubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.BlockingService, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter java.lang.Object doBackward(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter java.lang.Object doForward(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.BlockingStubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.BlockingService, java.lang.String, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry, com.google.net.rpc3.server.RpcServer.Builder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter&lt;P1,P2&gt; forProtos(P1, P2, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel void callMethod(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor, com.google.appengine.repackaged.com.google.protobuf.RpcController, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.RpcCallback&lt;com.google.appengine.repackaged.com.google.protobuf.Message&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyService StubbyService(com.google.appengine.repackaged.com.google.protobuf.Service, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyService StubbyService(com.google.appengine.repackaged.com.google.protobuf.Service) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage DowngradedMessage(com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.Stubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.Service, com.google.net.rpc3.server.RpcServer.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel com.google.appengine.repackaged.com.google.protobuf.Message callBlockingMethod(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor, com.google.appengine.repackaged.com.google.protobuf.RpcController, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.Stubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.Service, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry, com.google.net.rpc3.server.RpcServer.Builder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.BlockingStubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.BlockingService, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry, com.google.net.rpc3.server.RpcServer.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.BlockingStubbyService BlockingStubbyService(com.google.appengine.repackaged.com.google.protobuf.BlockingService, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage boolean equals(com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.BlockingStubbyService BlockingStubbyService(com.google.appengine.repackaged.com.google.protobuf.BlockingService, java.lang.String, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage mergeFrom(com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.DowngradedMessage DowngradedMessage(com.google.appengine.repackaged.com.google.protobuf.MessageLite, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.BlockingStubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.BlockingService, java.lang.String, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry, com.google.net.rpc3.server.RpcServer.Builder) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.BlockingStubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.BlockingService, java.lang.String, com.google.net.rpc3.server.RpcServer.Builder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.BlockingStubby3Service void export(com.google.appengine.repackaged.com.google.protobuf.BlockingService, com.google.net.rpc3.server.RpcServer.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel StubbyChannel(com.google.appengine.repackaged.com.google.protobuf.Descriptors.ServiceDescriptor, com.google.net.rpc.RpcStubParameters, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyService StubbyService(com.google.appengine.repackaged.com.google.protobuf.Service, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter com.google.appengine.repackaged.com.google.protobuf.bridge.ProtoConverter&lt;P1,P2&gt; forProtos(P1, P2, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistryLite) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel void callMethod(com.google.appengine.repackaged.com.google.protobuf.Descriptors.MethodDescriptor, com.google.appengine.repackaged.com.google.protobuf.RpcController, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.Message, com.google.appengine.repackaged.com.google.protobuf.RpcCallback&lt;com.google.appengine.repackaged.com.google.protobuf.Message&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.protobuf.bridge.StubbyChannel StubbyChannel(com.google.appengine.repackaged.com.google.protobuf.Descriptors.ServiceDescriptor, com.google.net.rpc.RpcStubParameters, java.lang.String, com.google.appengine.repackaged.com.google.protobuf.ExtensionRegistry) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,83 @@
+<root>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder void writeTo(java.lang.String, java.io.DataOutput) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder com.google.appengine.repackaged.org.joda.time.DateTimeZone readFrom(java.io.DataInput, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder com.google.appengine.repackaged.org.joda.time.DateTimeZone toDateTimeZone(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.ZoneInfoProvider ZoneInfoProvider(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder setStandardOffset(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.ZoneInfoCompiler void parseDataFile(java.io.BufferedReader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.ZoneInfoProvider ZoneInfoProvider(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder addRecurringSavings(java.lang.String, int, int, int, char, int, int, int, boolean, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder com.google.appengine.repackaged.org.joda.time.DateTimeZone toDateTimeZone(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.CachedDateTimeZone com.google.appengine.repackaged.org.joda.time.tz.CachedDateTimeZone forZone(com.google.appengine.repackaged.org.joda.time.DateTimeZone) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.CachedDateTimeZone com.google.appengine.repackaged.org.joda.time.DateTimeZone getUncachedZone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder com.google.appengine.repackaged.org.joda.time.DateTimeZone readFrom(java.io.InputStream, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.ZoneInfoProvider java.util.Set&lt;java.lang.String&gt; getAvailableIDs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder void writeTo(java.lang.String, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.FixedDateTimeZone FixedDateTimeZone(java.lang.String, java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.ZoneInfoCompiler java.util.Map&lt;java.lang.String,com.google.appengine.repackaged.org.joda.time.DateTimeZone&gt; compile(java.io.File, java.io.File[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder com.google.appengine.repackaged.org.joda.time.DateTimeZone readFrom(java.io.DataInput, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.ZoneInfoCompiler void main(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder com.google.appengine.repackaged.org.joda.time.DateTimeZone readFrom(java.io.DataInput, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder void writeTo(java.lang.String, java.io.DataOutput) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder addCutover(int, char, int, int, int, boolean, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder setFixedSavings(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.DateTimeZoneBuilder com.google.appengine.repackaged.org.joda.time.DateTimeZone readFrom(java.io.InputStream, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.CachedDateTimeZone com.google.appengine.repackaged.org.joda.time.tz.CachedDateTimeZone forZone(com.google.appengine.repackaged.org.joda.time.DateTimeZone)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.ZoneInfoProvider ZoneInfoProvider(java.lang.String, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.joda.time.tz.Provider java.util.Set&lt;java.lang.String&gt; getAvailableIDs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

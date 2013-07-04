@@ -1,0 +1,86 @@
+<root>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadOnlyProperty mapVal$default(kotlin.properties.Delegates, java.util.Map, jet.Function2, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.ChangeSupport kotlin.properties.ReadWriteProperty&lt;java.lang.Object,T&gt; property(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadWriteProperty&lt;java.lang.Object,T&gt; mapVar(java.util.Map&lt;? super java.lang.String,java.lang.Object&gt;, jet.Function2&lt;? super java.lang.Object,? super java.lang.String,? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.PropertiesPackage jet.Function2&lt;java.lang.Object,java.lang.Object,jet.Nothing&gt; getDefaultValueProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadWriteProperty&lt;java.lang.Object,T&gt; vetoable(T, jet.Function3&lt;? super jet.PropertyMetadata,? super T,? super T,? extends java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadWriteProperty mapVar$default(kotlin.properties.Delegates, java.util.Map, jet.Function2, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.PropertiesPackage jet.Function1&lt;jet.PropertyMetadata,java.lang.String&gt; getDefaultKeyProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.PropertiesPackage java.lang.Object getNULL_VALUE()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadWriteProperty&lt;java.lang.Object,T&gt; observable(T, jet.Function3&lt;? super jet.PropertyMetadata,? super T,? super T,? extends jet.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.PropertiesPackage.src.Delegation.70882775 jet.Function2&lt;java.lang.Object,java.lang.Object,jet.Nothing&gt; getDefaultValueProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadOnlyProperty&lt;java.lang.Object,T&gt; mapVal(java.util.Map&lt;? super java.lang.String,? extends java.lang.Object&gt;, jet.Function2&lt;? super java.lang.Object,? super java.lang.String,? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.BlockingLazyVal java.lang.Object getValue$b$0(kotlin.properties.BlockingLazyVal&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.PropertiesPackage java.lang.Object escape(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadOnlyProperty blockingLazy$default(kotlin.properties.Delegates, java.lang.Object, jet.Function0, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadWriteProperty mapVar$default(kotlin.properties.Delegates, java.util.Map, jet.Function2, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadOnlyProperty blockingLazy$default(kotlin.properties.Delegates, java.lang.Object, jet.Function0, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.ReadWriteProperty T get(R, jet.PropertyMetadata)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.properties.PropertiesPackage.src.Delegation.70882775 jet.Function1&lt;jet.PropertyMetadata,java.lang.String&gt; getDefaultKeyProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadOnlyProperty&lt;java.lang.Object,T&gt; blockingLazy(java.lang.Object, jet.Function0&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.BlockingLazyVal jet.Function0&lt;T&gt; getInitializer$b$1(kotlin.properties.BlockingLazyVal&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadOnlyProperty mapVal$default(kotlin.properties.Delegates, java.util.Map, jet.Function2, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.BlockingLazyVal void setValue$b$0(kotlin.properties.BlockingLazyVal&lt;T&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.PropertiesPackage.src.Delegation.70882775 java.lang.Object escape(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.PropertiesPackage.src.Delegation.70882775 java.lang.Object getNULL_VALUE()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.NotNullVar T get(java.lang.Object, jet.PropertyMetadata)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadOnlyProperty&lt;java.lang.Object,T&gt; lazy(jet.Function0&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.properties.Delegates kotlin.properties.ReadWriteProperty&lt;java.lang.Object,T&gt; notNull()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

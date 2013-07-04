@@ -1,0 +1,287 @@
+<root>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTreeAdaptor java.lang.Object errorNode(com.google.appengine.repackaged.org.antlr.runtime.TokenStream, com.google.appengine.repackaged.org.antlr.runtime.Token, com.google.appengine.repackaged.org.antlr.runtime.Token, com.google.appengine.repackaged.org.antlr.runtime.RecognitionException)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor java.lang.Object becomeRoot(com.google.appengine.repackaged.org.antlr.runtime.Token, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTreeAdaptor com.google.appengine.repackaged.org.antlr.runtime.Token createToken(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTreeAdaptor java.lang.Object becomeRoot(com.google.appengine.repackaged.org.antlr.runtime.Token, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTreeAdaptor java.lang.Object create(com.google.appengine.repackaged.org.antlr.runtime.Token)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeWizard java.util.Map computeTokenTypes(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTreeNodeStream java.lang.String toString(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor int getChildCount(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeWizard boolean parse(java.lang.Object, java.lang.String, java.util.Map) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeFilter TreeFilter(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeNodeStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeParser java.lang.Object getCurrentInputSymbol(com.google.appengine.repackaged.org.antlr.runtime.IntStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeWizard java.util.List find(java.lang.Object, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeParser java.lang.Object getMissingSymbol(com.google.appengine.repackaged.org.antlr.runtime.IntStream, com.google.appengine.repackaged.org.antlr.runtime.RecognitionException, int, com.google.appengine.repackaged.org.antlr.runtime.BitSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTreeAdaptor java.lang.Object getChild(java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTreeAdaptor com.google.appengine.repackaged.org.antlr.runtime.Token createToken(com.google.appengine.repackaged.org.antlr.runtime.Token)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor void setChild(java.lang.Object, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.DOTTreeGenerator org.antlr.stringtemplate.StringTemplate toDOT(java.lang.Object, com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor, org.antlr.stringtemplate.StringTemplate, org.antlr.stringtemplate.StringTemplate) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreePatternParser TreePatternParser(com.google.appengine.repackaged.org.antlr.runtime.tree.TreePatternLexer, com.google.appengine.repackaged.org.antlr.runtime.tree.TreeWizard, com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeParser java.lang.String getErrorMessage(com.google.appengine.repackaged.org.antlr.runtime.RecognitionException, java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeWizard boolean parse(java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTree com.google.appengine.repackaged.org.antlr.runtime.tree.Tree dupNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTreeAdaptor int getChildCount(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreePatternLexer TreePatternLexer(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTreeAdaptor java.lang.Object create(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeWizard void visit(java.lang.Object, java.lang.String, com.google.appengine.repackaged.org.antlr.runtime.tree.TreeWizard.ContextVisitor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeWizard java.util.List find(java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor java.lang.Object getChild(java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.DOTTreeGenerator org.antlr.stringtemplate.StringTemplate getNodeST(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTreeAdaptor com.google.appengine.repackaged.org.antlr.runtime.Token createToken(com.google.appengine.repackaged.org.antlr.runtime.Token)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTree void addChildren(java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor java.lang.Object deleteChild(java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.DOTTreeGenerator org.antlr.stringtemplate.StringTemplate getNodeST(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeWizard.TreePatternTreeAdaptor java.lang.Object create(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeWizard java.util.Map index(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTree java.util.List createChildrenList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTree CommonTree(com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTree) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor java.lang.Object create(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTreeAdaptor void setChild(java.lang.Object, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BufferedTreeNodeStream BufferedTreeNodeStream(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTreeAdaptor int getType(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTreeAdaptor com.google.appengine.repackaged.org.antlr.runtime.Token createToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeWizard java.lang.Object create(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTreeAdaptor com.google.appengine.repackaged.org.antlr.runtime.Token createToken(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTreeAdaptor com.google.appengine.repackaged.org.antlr.runtime.Token createToken(com.google.appengine.repackaged.org.antlr.runtime.Token) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeRewriter TreeRewriter(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeNodeStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeRewriter void reportTransformation(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeFilter TreeFilter(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeNodeStream, com.google.appengine.repackaged.org.antlr.runtime.RecognizerSharedState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BufferedTreeNodeStream BufferedTreeNodeStream(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor, java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeParser void matchAny(com.google.appengine.repackaged.org.antlr.runtime.IntStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeRewriter TreeRewriter(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeNodeStream, com.google.appengine.repackaged.org.antlr.runtime.RecognizerSharedState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTreeAdaptor int getType(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTreeAdaptor java.lang.Object deleteChild(java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTreeAdaptor java.lang.String getText(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTreeAdaptor java.lang.Object getChild(java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeParser java.lang.String getErrorHeader(com.google.appengine.repackaged.org.antlr.runtime.RecognitionException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTreeAdaptor int getChildCount(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BufferedTreeNodeStream java.util.Iterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeIterator TreeIterator(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeParser java.lang.Object recoverFromMismatchedToken(com.google.appengine.repackaged.org.antlr.runtime.IntStream, int, com.google.appengine.repackaged.org.antlr.runtime.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor boolean isNil(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTreeNodeStream CommonTreeNodeStream(com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor java.lang.String getText(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor java.lang.Object create(com.google.appengine.repackaged.org.antlr.runtime.Token)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.CommonTreeAdaptor java.lang.String getText(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeRewriter void reportTransformation(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.Tree void replaceChildren(int, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTree void replaceChildren(int, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeAdaptor int getType(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeWizard.TreePatternTreeAdaptor java.lang.Object create(com.google.appengine.repackaged.org.antlr.runtime.Token)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.TreeParser java.lang.Object getMissingSymbol(com.google.appengine.repackaged.org.antlr.runtime.IntStream, com.google.appengine.repackaged.org.antlr.runtime.RecognitionException, int, com.google.appengine.repackaged.org.antlr.runtime.BitSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.org.antlr.runtime.tree.BaseTreeAdaptor boolean isNil(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

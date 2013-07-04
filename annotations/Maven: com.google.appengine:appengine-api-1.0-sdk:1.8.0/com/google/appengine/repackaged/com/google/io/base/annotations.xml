@@ -1,0 +1,167 @@
+<root>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Buffers java.io.OutputStream asOutputStream(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;java.lang.String&gt; stringMarshaller(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.VarInt int putVarInt(int, byte[], int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt; nullMarshaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers byte[] toByteArray(com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt;, java.nio.ByteOrder, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt; of(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;java.lang.String&gt; stringMarshaller(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.VarInt int getVarInt(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt; protocolMessageMarshaller(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers.DelegatingMarshaller T unmarshal(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshaller T unmarshal(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers.DelegatingMarshaller int maxEncodingSize(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers byte[] toByteArray(com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt;, java.nio.ByteOrder, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.VarInt int getVarInt(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Buffers.ByteArrayAdapter ByteArrayAdapter(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.VarInt long getVarLong(java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshaller void marshal(T, java.nio.ByteBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;java.lang.String&gt; stringMarshaller(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt; noneShallPassMarshaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers byte[] toByteArray(com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt;, java.nio.ByteOrder, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.VarInt void putVarLong(long, java.nio.ByteBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers.DelegatingMarshaller void marshal(T, java.nio.ByteBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers byte[] toByteArray(com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers boolean hasDefault(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.VarInt int getVarInt(byte[], int, int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt; serializationMarshaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Buffers java.io.InputStream asInputStream(java.nio.ByteBuffer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt; recyclingProtocolMessageMarshaller(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshaller int maxEncodingSize(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.VarInt int getVarInt(byte[], int, int[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers.DelegatingMarshaller DelegatingMarshaller(com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.VarInt void putVarInt(int, java.nio.ByteBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.VarInt void putVarInt(int, java.io.OutputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Buffers java.io.InputStream asInputStream(java.nio.ByteBuffer, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Buffers java.io.OutputStream asOutputStream(java.nio.ByteBuffer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers.DelegatingMarshaller DelegatingMarshaller(com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt; nullMarshaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers byte[] toByteArray(com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;java.lang.String&gt; stringMarshaller(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers byte[] toByteArray(com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt;, java.nio.ByteOrder, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt; serializationMarshaller()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshallers com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt; recyclingProtocolMessageMarshaller(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers.DelegatingMarshaller void marshal(T, java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Buffers java.io.InputStream asInputStream(java.nio.ByteBuffer, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers byte[] toByteArray(com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.Marshaller void marshal(T, java.nio.ByteBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.appengine.repackaged.com.google.io.base.CoreMarshallers byte[] toByteArray(com.google.appengine.repackaged.com.google.io.base.Marshaller&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

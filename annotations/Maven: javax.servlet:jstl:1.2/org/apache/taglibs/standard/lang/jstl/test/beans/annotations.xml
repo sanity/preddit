@@ -1,0 +1,35 @@
+<root>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.beans.PublicBean2a java.lang.Object getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.beans.Factory org.apache.taglibs.standard.lang.jstl.test.beans.PublicBean1 createBean3()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.beans.Factory org.apache.taglibs.standard.lang.jstl.test.beans.PublicInterface2 createBean7()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.beans.Factory org.apache.taglibs.standard.lang.jstl.test.beans.PublicBean1 createBean1()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.beans.PublicInterface2 java.lang.Object getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.beans.PublicBean1 java.lang.Object getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.beans.Factory org.apache.taglibs.standard.lang.jstl.test.beans.PublicInterface2 createBean6()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.beans.Factory org.apache.taglibs.standard.lang.jstl.test.beans.PublicBean1 createBean2()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.beans.Factory org.apache.taglibs.standard.lang.jstl.test.beans.PublicInterface2 createBean4()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.taglibs.standard.lang.jstl.test.beans.Factory org.apache.taglibs.standard.lang.jstl.test.beans.PublicInterface2 createBean5()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

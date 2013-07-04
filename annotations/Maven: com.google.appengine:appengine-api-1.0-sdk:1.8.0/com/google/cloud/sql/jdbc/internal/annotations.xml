@@ -1,0 +1,761 @@
+<root>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLClientInfoException newClientInfoNotSupportedException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.ExecResponse exec(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.ExecRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newStatementClosedException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.ExecResponse executeSql(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setFetchDirection(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.ExecOpResponse executeOperation(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.OpProto) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.cloud.sql.jdbc.Savepoint asJdbcSavePoint(com.google.protos.cloud.sql.Client.SavePoint)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet newResultSet(java.util.List&lt;java.util.List&lt;?&gt;&gt;, java.util.List&lt;java.lang.String&gt;, java.util.List&lt;com.google.cloud.sql.jdbc.internal.JdbcType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.ExecResponse exec(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.ExecRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Wrapper T unwrap(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions defaultOptions(com.google.cloud.sql.jdbc.internal.Url)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.HashMap&lt;K,V&gt; newHashMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newInvalidParameterException(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.ExecResponse executeNext(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.cloud.sql.jdbc.internal.SqlRpc getRpc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.ArrayList&lt;E&gt; newArrayList(E...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.BoundValue com.google.cloud.sql.jdbc.internal.BoundValue withNewType(com.google.cloud.sql.jdbc.internal.BoundValue, com.google.cloud.sql.jdbc.internal.JdbcType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createBatchExecRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto transactionIsolation(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.BoundValue com.google.cloud.sql.jdbc.internal.BoundValue withNewType(com.google.cloud.sql.jdbc.internal.BoundValue, com.google.cloud.sql.jdbc.internal.JdbcType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideClob ClientSideClob(char[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet newResultSet(java.util.List&lt;java.util.List&lt;?&gt;&gt;, java.util.List&lt;java.lang.String&gt;, java.util.List&lt;com.google.cloud.sql.jdbc.internal.JdbcType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.OpenConnectionResponse openConnection(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.OpenConnectionRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createBatchExecRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.util.List&lt;java.lang.String&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newConnectionClosedException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.BatchUpdateException newBatchUpdateException(com.google.protos.cloud.sql.Client.SqlException, java.util.List&lt;java.lang.Long&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.ArrayList&lt;E&gt; newArrayList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createBatchExecRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newStatementExecuteQueryNullResultSetException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideNClob ClientSideNClob(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet oneColumnResultSet(java.util.List&lt;?&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet emptyResultSet(java.lang.Enum&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet newResultSet(java.util.List&lt;java.util.List&lt;?&gt;&gt;, java.util.List&lt;java.lang.String&gt;, java.util.List&lt;com.google.cloud.sql.jdbc.internal.JdbcType&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.lang.String join(java.lang.String, java.lang.Iterable&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.cloud.sql.jdbc.internal.SqlRpc getRpc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.BoundValue com.google.cloud.sql.jdbc.internal.BoundValue nullValue(com.google.cloud.sql.jdbc.internal.JdbcType, com.google.protos.cloud.sql.Client.BindVariableProto.Direction)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newSqlException(java.lang.String, java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setRetryIntervalMillis(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException driverUrlNotInCorrectFormat(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto autoCommit(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet newResultSet(java.util.List&lt;java.util.List&lt;?&gt;&gt;, java.util.List&lt;java.lang.String&gt;, java.util.List&lt;com.google.cloud.sql.jdbc.internal.JdbcType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideBlob int setBytes(long, byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.concurrent.ConcurrentHashMap&lt;K,V&gt; newConcurrentHashMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClientFactory com.google.cloud.sql.jdbc.internal.SqlClient create(com.google.cloud.sql.jdbc.internal.Url) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.ExecResponse executeBatchSql(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.ExecResponse executeBatchSql(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newInvalidParameterException(java.lang.String, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecOpRequest createExecOpRequest(com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.OpProto)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto ping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.ExecResponse executeSql(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.ExecResponse executeNext(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto rollback()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.HashSet&lt;E&gt; newHashSet(E...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet oneColumnResultSet(java.util.List&lt;?&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.ExecOpResponse execOp(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.ExecOpRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideClob java.io.InputStream getAsciiStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util T checkNotNull(T, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.ExecResponse exec(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.ExecRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet newResultSet(java.util.List&lt;java.util.List&lt;?&gt;&gt;, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newInvalidParameterException(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.MetadataResponse getMetadata(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.MetadataType, java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideBlob java.io.InputStream getBinaryStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideBlob java.io.OutputStream setBinaryStream(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet newOneColumnEnumResultSet(java.util.List&lt;?&gt;, java.lang.Enum&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient AbstractSqlClient(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setResultSetHoldability(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto setCatalog(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.ExecOpResponse execOp(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.ExecOpRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet oneColumnResultSet(java.util.List&lt;?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions com.google.cloud.sql.jdbc.internal.SQLFeatureNotYetImplementedException newNotYetImplementedException(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideClob long position(java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto readOnly(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.TreeSet&lt;E&gt; newTreeSet(java.lang.Iterable&lt;? extends E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createExecNextRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt; toNamedBindVariableProtos(java.util.Map&lt;java.lang.String,com.google.cloud.sql.jdbc.internal.BoundValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet newEnumResultSet(java.util.List&lt;java.util.List&lt;?&gt;&gt;, java.lang.Enum&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.MetadataResponse getMetadata(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.MetadataRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newSqlException(com.google.protos.cloud.sql.Client.SqlException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideBlob java.io.InputStream getBinaryStream(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setIncludeExportedKeys(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Url com.google.cloud.sql.jdbc.internal.Url createFromMap(java.lang.String, java.util.Map&lt;java.lang.String,java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideClob long position(java.sql.Clob, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecOpRequest createExecOpRequest(com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.OpProto) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.MetadataRequest createMetadataRequest(com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.MetadataType, java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.OpenConnectionResponse openConnection(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.cloud.sql.jdbc.internal.Url)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.CloseConnectionRequest createReleaseRequest(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.CloseConnectionRequest createReleaseRequest(com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException resultSetDoesNotHaveColumn(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.CloseConnectionResponse closeConnection(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.ExecResponse executeBatchSql(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.MetadataResponse getMetadata(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.MetadataRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet newResultSet(java.util.List&lt;java.util.List&lt;?&gt;&gt;, java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.ExecResponse executeBatchSql(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions defaultOptions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setGeneratedColumnIndices(int...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet newEnumResultSet(java.util.List&lt;java.util.List&lt;?&gt;&gt;, java.lang.Enum&lt;?&gt;...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createExecNextRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Url com.google.cloud.sql.jdbc.internal.Url createFromMap(java.lang.String, java.util.Map&lt;java.lang.String,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.ExecOpResponse executeOperation(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.OpProto)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecOpRequest createExecOpRequest(com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.OpProto) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.MetadataRequest createMetadataRequest(com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.MetadataType, java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideClob java.io.Reader getCharacterStream(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet newResultSet(java.util.List&lt;java.util.List&lt;?&gt;&gt;, java.util.List&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.cloud.sql.jdbc.Savepoint asJdbcSavePoint(com.google.protos.cloud.sql.Client.SavePoint) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt; toIndexedBindVariableProtos(java.util.Map&lt;java.lang.Integer,com.google.cloud.sql.jdbc.internal.BoundValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setResultSetType(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt; toIndexedBindVariableProtos(java.util.Map&lt;java.lang.Integer,com.google.cloud.sql.jdbc.internal.BoundValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLFeatureNotSupportedException newNotSupportedException(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.BoundValue com.google.cloud.sql.jdbc.internal.BoundValue nullValue(com.google.cloud.sql.jdbc.internal.JdbcType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.MetadataRequest createMetadataRequest(com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.MetadataType, java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.TreeSet&lt;E&gt; newTreeSet(java.lang.Iterable&lt;? extends E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Url Url(com.google.cloud.sql.jdbc.internal.Url) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient SqlProtoClient(java.lang.String, com.google.cloud.sql.jdbc.internal.SqlRpc) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions defaultOptions(com.google.cloud.sql.jdbc.internal.Url) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions com.google.cloud.sql.jdbc.internal.SQLFeatureNotYetImplementedException newNotYetImplementedException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient java.lang.String getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.OpenConnectionRequest createConnectRequest(com.google.cloud.sql.jdbc.internal.Url) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.CloseConnectionResponse closeConnection(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.CloseConnectionRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto commit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.CloseConnectionResponse closeConnection(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.CloseConnectionRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createBatchExecRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient SqlProtoClient(java.lang.String, com.google.cloud.sql.jdbc.internal.SqlRpc) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setStatementType(com.google.protos.cloud.sql.ExecRequest.StatementType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.lang.String makeSafe(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createExecRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setGeneratedColumnNames(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto nextResult(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.OpenConnectionRequest createConnectRequest(com.google.cloud.sql.jdbc.internal.Url)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newNotSupportedOnForwardOnlyException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto nativeSQL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newSqlExceptionForApplicationError(com.google.protos.cloud.sql.Client.SqlException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideClob int setString(long, java.lang.String, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideClob java.lang.String getSubString(long, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.OpenConnectionResponse openConnection(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.cloud.sql.jdbc.internal.Url)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClientFactory com.google.cloud.sql.jdbc.internal.SqlClient create(com.google.cloud.sql.jdbc.internal.Url)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newSqlException(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.ArrayList&lt;E&gt; newArrayListWithCapacity(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideClob int setString(long, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setPoolable(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions clearConnectTimeOutMillis()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newInvalidParameterException(java.lang.String, java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newStatementExecuteUpdateWithResultSetException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.CloseConnectionResponse closeConnection(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.CloseConnectionRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt; toBindVariableProtos(java.util.List&lt;com.google.cloud.sql.jdbc.internal.BoundValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.BatchUpdateException newBatchUpdateException(com.google.protos.cloud.sql.Client.SqlException, java.util.List&lt;java.lang.Long&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto savePoint()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newErrorFetchingMetadataException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newSqlException(java.lang.String, java.lang.Throwable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.OpenConnectionResponse openConnection(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.cloud.sql.jdbc.internal.Url) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideNClob ClientSideNClob(char[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setCursorName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionProperty java.sql.DriverPropertyInfo info()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.BoundValue com.google.protos.cloud.sql.Client.BindVariableProto.Builder toBindVariableProtoBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setResultSetConcurrency(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.BatchUpdateException newBatchUpdateException(com.google.protos.cloud.sql.Client.SqlException, java.util.List&lt;java.lang.Long&gt;, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideClob java.io.Writer setCharacterStream(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto setCatalog(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.ExecOpResponse execOp(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.ExecOpRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.CloseConnectionResponse closeConnection(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.ExecResponse executeSql(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet emptyResultSet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.OpenConnectionResponse openConnection(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.cloud.sql.jdbc.internal.Url) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.ExecResponse executeBatchSql(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.util.List&lt;java.lang.String&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet newOneColumnEnumResultSet(java.util.List&lt;?&gt;, java.lang.Enum&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.BoundValue com.google.cloud.sql.jdbc.internal.BoundValue of(java.lang.Object, com.google.cloud.sql.jdbc.internal.JdbcType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.ExecResponse executeBatchSql(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.util.List&lt;java.lang.String&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto closeStatement(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Url com.google.cloud.sql.jdbc.internal.Url create(java.lang.String, java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.MetadataResponse getMetadata(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.MetadataType, java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setConnectTimeOutMillis(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createBatchExecRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newSqlException(com.google.protos.cloud.sql.Client.SqlException)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Url com.google.cloud.sql.jdbc.internal.Url createFromMap(java.lang.String, java.util.Map&lt;java.lang.String,java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlClient com.google.protos.cloud.sql.ExecResponse executeBatchSql(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util T checkNotNull(T, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setStatementType(com.google.protos.cloud.sql.ExecRequest.StatementType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideClob java.io.Reader getCharacterStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newDriverCanNotCreateClient()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newInvalidParameterException(java.lang.String, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.ExecOpResponse executeOperation(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.OpProto) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createExecNextRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.ExecResponse executeSql(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.OpenConnectionResponse openConnection(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.OpenConnectionRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt; toBindVariableProtos(java.util.List&lt;com.google.cloud.sql.jdbc.internal.BoundValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.MetadataResponse getMetadata(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.MetadataRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions clearRetryIntervalTimeOutMillis()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newResultSetClosedException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.ArrayList&lt;E&gt; newArrayList(java.util.Collection&lt;? extends E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet newEnumResultSet(java.util.List&lt;java.util.List&lt;?&gt;&gt;, java.lang.Enum&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createBatchExecRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.util.List&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideClob java.io.OutputStream setAsciiStream(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createExecRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideBlob long position(byte[], long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.ExecResponse executeBatchSql(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto rollback(java.sql.Savepoint)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SimpleListResultSet com.google.cloud.sql.jdbc.internal.SimpleListResultSet emptyResultSet(java.lang.Enum&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createBatchExecRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlProtoClient com.google.protos.cloud.sql.ExecOpResponse executeOperation(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.OpProto)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setFetchSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLException newDriverCanNotCreateClient(java.lang.String, java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto nativeSQL(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpc com.google.protos.cloud.sql.OpenConnectionResponse openConnection(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.protos.cloud.sql.OpenConnectionRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createExecRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideBlob long position(java.sql.Blob, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setEscapeProcessing(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt; toNamedBindVariableProtos(java.util.Map&lt;java.lang.String,com.google.cloud.sql.jdbc.internal.BoundValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.JdbcType com.google.cloud.sql.jdbc.internal.JdbcType fromCode(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ConnectionOperationHelper com.google.protos.cloud.sql.Client.OpProto savePoint(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Exceptions java.sql.SQLClientInfoException newClientInfoConnectionClosedException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setQueryTimeOutMillis(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createBatchExecRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Observers com.google.cloud.sql.jdbc.internal.Observers&lt;T&gt; create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setMaxRows(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.math.BigDecimal createBigDecimalWithScale(java.math.BigDecimal, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.MetadataRequest createMetadataRequest(com.google.appengine.repackaged.com.google.protobuf.ByteString, com.google.protos.cloud.sql.Client.MetadataType, java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideBlob ClientSideBlob(com.google.appengine.repackaged.com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.SqlRpcOptions com.google.cloud.sql.jdbc.internal.SqlRpcOptions setMaxFieldSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.ClientSideBlob ClientSideBlob(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Util java.util.TreeMap&lt;K,V&gt; newTreeMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.BoundValue com.google.cloud.sql.jdbc.internal.BoundValue of(java.lang.Object, com.google.cloud.sql.jdbc.internal.JdbcType, com.google.protos.cloud.sql.Client.BindVariableProto.Direction)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.Url com.google.cloud.sql.jdbc.internal.Url create(java.lang.String, java.util.Properties)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.sql.jdbc.internal.AbstractSqlClient com.google.protos.cloud.sql.ExecRequest createExecRequest(com.google.cloud.sql.jdbc.internal.SqlRpcOptions, com.google.appengine.repackaged.com.google.protobuf.ByteString, java.lang.String, java.util.List&lt;com.google.protos.cloud.sql.Client.BindVariableProto&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

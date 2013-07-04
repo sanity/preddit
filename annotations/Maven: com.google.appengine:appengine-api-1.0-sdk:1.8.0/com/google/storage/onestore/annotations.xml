@@ -1,0 +1,11 @@
+<root>
+    <item name='com.google.storage.onestore.PropertyType java.util.List&lt;com.google.storage.onestore.PropertyType&gt; getTypes(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.PropertyType java.util.List&lt;com.google.storage.onestore.PropertyType&gt; getTypes(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.storage.onestore.PropertyType com.google.storage.onestore.PropertyType getType(com.google.storage.onestore.v3.OnestoreEntity.PropertyValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

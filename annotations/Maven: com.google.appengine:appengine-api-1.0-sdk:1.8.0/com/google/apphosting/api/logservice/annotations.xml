@@ -1,0 +1,2189 @@
+<root>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setOffset(com.google.apphosting.api.logservice.LogServicePb.LogOffset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion setServerId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService_3 com.google.apphosting.api.logservice.LogServicePb.LogService_3.ServiceParameters newBlockingService(com.google.inject.Provider&lt;com.google.apphosting.api.logservice.LogServicePb.LogService_3.BlockingServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setResource(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setTaskQueueName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.apphosting.api.logservice.LogServicePb.LogServiceError getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setUsageVersion(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setWasLoadingRequest(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setAppEngineReleaseAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearHttpVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setVersionId(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearServerId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingStub com.google.apphosting.api.logservice.LogServicePb.LogReadResponse read(com.google.net.rpc.RPC, com.google.apphosting.api.logservice.LogServicePb.LogReadRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearLatency()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.apphosting.api.logservice.LogServicePb.LogServiceError mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogServiceError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.LogServiceError&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setCloneKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine setMessageAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setTaskQueueName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.apphosting.api.logservice.LogServicePb.LogServiceError newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService void exportBlockingServiceUsingConfig(com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setRequestIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setMethodAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setOffset(com.google.apphosting.api.logservice.LogServicePb.LogOffset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setRequestId(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setStatus(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setRequestIdAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig exportBlockingService(com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig exportBlockingService(com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion clearServerId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearApiMcycles()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setVersionId(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setServerNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearPendingTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogLine)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion setServerIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine clearLevel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setUserAgent(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setTaskQueueName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearCombined()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setMcycles(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest clearAppId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setVersionId(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setHost(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setThrottledTime(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord setVersionId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.LogLine&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogOffset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine setLogMessageAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setUserAgent(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setTaskName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine setLevel(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setServerIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService void exportServiceUsingConfig(com.google.apphosting.api.logservice.LogServicePb.LogService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setCloneKey(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearUrlMapEntry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setOffset(com.google.apphosting.api.logservice.LogServicePb.LogOffset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setHttpVersion(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.RequestLog addLog()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest setLogs(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearMcycles()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine addLogLine()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setResource(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_Usage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion clearVersionId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService void exportServiceUsingConfig(com.google.apphosting.api.logservice.LogServicePb.LogService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setRequestId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setMethod(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setAppIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset setRequestId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setStartTime(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setUrlMapEntry(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService_3 com.google.apphosting.api.logservice.LogServicePb.LogService_3.ServiceParameters newService(com.google.inject.Provider&lt;com.google.apphosting.api.logservice.LogServicePb.LogService_3.ServerInterface&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest addVersionId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setHostRegex(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearReplicaIndex()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearNickname()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setAppId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest clearVersionId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog mergeFrom(com.google.apphosting.api.logservice.LogServicePb.RequestLog)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset setRequestId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setUrlMapEntry(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setVersionsOnly(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest mergeFrom(com.google.apphosting.api.logservice.LogServicePb.FlushRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setHttpVersion(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setLinesIncomplete(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface com.google.apphosting.api.logservice.LogServicePb.LogReadResponse read(com.google.net.rpc.RPC, com.google.apphosting.api.logservice.LogServicePb.LogReadRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogServerVersion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setResourceAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearVersionId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine clearLogMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setVersionIdAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setAppEngineRelease(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest setLogs(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest addVersionId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearWasLoadingRequest()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup clearLogLine()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setAppId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord setRecords(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest addVersionIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setOffset(com.google.apphosting.api.logservice.LogServicePb.LogOffset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord setVersionId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setExitReason(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setRequestId(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion setServerId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setHost(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setIp(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setAppLogsPerRequest(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog mergeFrom(com.google.apphosting.api.logservice.LogServicePb.RequestLog) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setNickname(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest mergeFrom(com.google.apphosting.api.logservice.LogServicePb.FlushRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine setTime(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setVersionId(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setHostRegex(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset clearRequestId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest clearResolutionHours()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse setSummary(com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearIncludeIncomplete()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine setLevel(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setIp(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setIncludeAll(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setAppId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearAppId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setRequestId(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setHost(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearReplicaIndex()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setStartTime(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setServerId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setUrlMapEntryAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setHost(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.LogLine addLine()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord setCount(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setFinished(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setHttpVersionAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig exportService(com.google.apphosting.api.logservice.LogServicePb.LogService.Interface, com.google.net.rpc3.server.RpcServer.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setReferrerAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setEndTime(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_SetStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setServerId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest setLogsAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setNickname(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord setVersionId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse clearUsage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest addRequestId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setResource(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setAppEngineRelease(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setServerId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setHostRegexAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setReferrer(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setAppEngineRelease(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearUserAgent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setUrlMapEntry(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setVersionIdAsBytes(int, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest addVersionId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_Flush()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setNickname(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion setVersionIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setAppId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest setStatus(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearCacheIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setVersionId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.apphosting.api.logservice.LogServicePb.LogServiceError internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearEndTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogReadResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setReferrer(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setIncludeHost(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface com.google.apphosting.api.ApiBasePb.VoidProto flush(com.google.net.rpc.RPC, com.google.apphosting.api.logservice.LogServicePb.FlushRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogReadResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine clearTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setCombinedLogRegex(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest clearCombineVersions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setTaskNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig exportService(com.google.apphosting.api.logservice.LogServicePb.LogService.Interface, com.google.net.rpc3.server.RpcServer.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setVersionIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setPendingTime(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setWasThrottledForTime(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setMethod(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setCombined(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setTaskName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setAppId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest mergeFrom(com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.RequestLog&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord addUsage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearServerVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setRequestId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setResponseSize(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse setOffset(com.google.apphosting.api.logservice.LogServicePb.LogOffset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.LogReadRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.apphosting.api.logservice.LogServicePb.LogServiceError mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogServiceError) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine clearLevel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion setVersionId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setIncludeIncomplete(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord setVersionId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest addRequestId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setCombinedLogRegex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearCount()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setNicknameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.LogOffset&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearLinesIncomplete()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService void exportServiceUsingConfig(com.google.apphosting.api.logservice.LogServicePb.LogService.Interface, com.google.net.rpc3.server.RpcServer.Builder, com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setAppEngineRelease(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setCacheIterator(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset setRequestIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord clearRecords()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset setRequestId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearHostRegex()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setVersionId(int, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogServerVersion addServerVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest setStatusAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearIncludeAll()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setRequestId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setRequestId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setCombinedLogRegex(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingStub newBlockingStub(com.google.net.rpc.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest addVersionId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogReadRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService_3 com.google.apphosting.api.logservice.LogServicePb.LogService_3.ServiceParameters newService(com.google.apphosting.api.logservice.LogServicePb.LogService_3.ServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setReferrer(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest mergeFrom(com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService void exportServiceUsingConfig(com.google.apphosting.api.logservice.LogServicePb.LogService.Interface, com.google.net.rpc3.server.RpcServer.Builder, com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearWasThrottledForTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse clearSummary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setCombined(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine clearTimestampUsec()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearOffset()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setMethod(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse clearOffset()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest addVersionId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest addRequestIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setTaskQueueName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearResponseSize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setUserAgentAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setVersionId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setLatency(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService_3 com.google.apphosting.api.logservice.LogServicePb.LogService_3.Stub newStub(com.google.net.rpc3.client.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setAppIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setCount(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setTaskQueueNameAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setMinimumLogLevel(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService_3 com.google.apphosting.api.logservice.LogServicePb.LogService_3.ServiceParameters newBlockingService(com.google.apphosting.api.logservice.LogServicePb.LogService_3.BlockingServerInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingStub com.google.apphosting.api.ApiBasePb.VoidProto setStatus(com.google.net.rpc.RPC, com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion setVersionId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.apphosting.api.logservice.LogServicePb.LogService.Stub newStub(com.google.net.rpc.RpcStubParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setEndTime(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearLine()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearNumShards()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearServerName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService void exportBlockingServiceUsingConfig(com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry, com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setCloneKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setServerId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord clearEndTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest setStatus(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setServerName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine clearMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearRequestId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig exportService(com.google.apphosting.api.logservice.LogServicePb.LogService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearCost()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset setRequestId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse setLastEndTime(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearHost()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setVersionId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setAppId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearAppId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.LogReadResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest clearLogs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setVersionId(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setVersionId(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService_3 com.google.net.rpc3.client.RpcStubDescriptor getStubDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingStub com.google.apphosting.api.ApiBasePb.VoidProto flush(com.google.net.rpc.RPC, com.google.apphosting.api.logservice.LogServicePb.FlushRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.net.rpc.RpcService newBlockingService(com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest clearStartTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup mergeFrom(com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearFinished()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearCombinedLogRegex()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest clearUsageVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService void unexport(com.google.net.rpc.impl.RpcHandlerRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord clearStartTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine setLogMessage(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setReferrer(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setMethod(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setIp(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setCombined(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setAppId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest addVersionId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearIncludeAppLogs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearVersionId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest clearEndTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogOffset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setNickname(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setCombinedLogRegexAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogLine) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setIp(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearIp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord clearCount()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse usage(com.google.net.rpc.RPC, com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord clearTotalSize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest clearStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest addRequestId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion setVersionId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setCombinedLogRegex(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion setVersionId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setVersionId(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearWasThrottledForRequests()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setCost(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearStartTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setApiMcycles(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setRequestId(int, java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine setMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setVersionId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig exportBlockingService(com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface, com.google.net.rpc.impl.RpcHandlerRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig exportService(com.google.apphosting.api.logservice.LogServicePb.LogService.Interface, com.google.net.rpc.impl.RpcHandlerRegistry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse setSummary(com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord setVersionIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setIpAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearExitReason()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest addVersionId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setAppId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion setServerId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setIncludeAppLogs(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setCloneKeyAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setResource(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord setEndTime(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setAppId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearEndTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearStartTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.appengine.repackaged.com.google.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearIncludeHost()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.FlushRequest&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion setServerId(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setUrlMapEntry(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogReadRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setHostRegex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine mergeFrom(com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setCombineVersions(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setTaskName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setServerName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService void exportBlockingServiceUsingConfig(com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder, com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setCombinedAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig exportBlockingService(com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest addVersionId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setServerName(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup mergeFrom(com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setAppId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse clearLog()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine setMessage(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setHttpVersion(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest setStatus(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setWasThrottledForRequests(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService void exportBlockingServiceUsingConfig(com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface, com.google.net.rpc3.server.RpcServer.Builder, com.google.apphosting.api.logservice.LogServicePb.LogService.ServerConfig) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearTaskQueueName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setHostRegex(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest setLogs(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setReplicaIndex(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord setTotalSize(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse setOffset(com.google.apphosting.api.logservice.LogServicePb.LogOffset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setAppId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingInterface com.google.apphosting.api.ApiBasePb.VoidProto setStatus(com.google.net.rpc.RPC, com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setNumShards(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setServerName(java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.net.rpc.RpcService newService(com.google.apphosting.api.logservice.LogServicePb.LogService.Interface)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest addVersionIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setStartTime(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord clearVersionId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolType getProtocolType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService.BlockingStub com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse usage(com.google.net.rpc.RPC, com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError com.google.apphosting.api.logservice.LogServicePb.LogServiceError getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine setTimestampUsec(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine mergeFrom(com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setCloneKey(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest setResolutionHours(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearCloneKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearTaskName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord setStartTime(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setUserAgent(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setAppId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearThrottledTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearMinimumLogLevel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.apphosting.api.logservice.LogServicePb.FlushRequest setLogs(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setHttpVersion(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setCombined(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine boolean equalsIgnoreUninterpreted(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest com.google.apphosting.api.logservice.LogServicePb.LogUsageRequest clearVersionsOnly()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setHostAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.apphosting.api.logservice.LogServicePb.LogServerVersion mergeFrom(com.google.apphosting.api.logservice.LogServicePb.LogServerVersion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService com.google.net.rpc.RpcStubFactory stubFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine setLogMessage(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog boolean merge(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServerVersion com.google.appengine.repackaged.com.google.protobuf.Parser&lt;com.google.apphosting.api.logservice.LogServicePb.LogServerVersion&gt; getParserForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setTaskName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageRecord boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest setStatus(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.apphosting.api.logservice.LogServicePb.LogReadResponse clearLastEndTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setAppIdAsBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogServiceError void outputTo(com.google.appengine.repackaged.com.google.io.protocol.ProtocolSink) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearAppLogsPerRequest()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine setLogMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest addRequestId(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearReferrer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogLine com.google.apphosting.api.logservice.LogServicePb.LogLine setLogMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearAppEngineRelease()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog clearResource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage mergeFrom(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.FlushRequest boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine setMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.SetStatusRequest com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage internalClear()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine com.google.apphosting.api.logservice.LogServicePb.UserAppLogLine setMessage(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogService_3.ServiceParameters com.google.net.rpc3.server.RpcServiceMethodParameters getMethod_Read()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearOffset()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest clearRequestId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.UserAppLogGroup boolean equals(com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogUsageResponse com.google.appengine.repackaged.com.google.io.protocol.ProtocolMessage unfreeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setEndTime(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogOffset com.google.apphosting.api.logservice.LogServicePb.LogOffset newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.RequestLog com.google.apphosting.api.logservice.LogServicePb.RequestLog setUserAgent(java.lang.String, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.apphosting.api.logservice.LogServicePb.LogReadRequest com.google.apphosting.api.logservice.LogServicePb.LogReadRequest setReplicaIndex(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
